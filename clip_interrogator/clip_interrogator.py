@@ -185,18 +185,18 @@ class Interrogator():
 
         return best_prompt
 
-    def generate_caption(self, pil_images: list[Image]) -> str:
+    def generate_caption(self, pil_images: list[Image]) -> list[str]:
         assert self.caption_model is not None, "No caption model loaded."
         self._prepare_caption()
         inputs = self.caption_processor(images=pil_images, return_tensors="pt").to(self.device)
-        print('inputs',inputs, type(inputs), inputs['pixel_values'].shape)
+        print('inputs',  type(inputs), inputs['pixel_values'].shape)
         if not self.config.caption_model_name.startswith('git-'):
             inputs = inputs.to(self.dtype)
         tokens = self.caption_model.generate(**inputs, max_new_tokens=self.config.caption_max_length)
         print('tokens',tokens, type(tokens), tokens.shape)
-        result = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)[0].strip()
+        results = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)
         print('results',result )
-        return result
+        return results
 
     def image_to_features(self, imgs: list[Image]) -> torch.Tensor:
         results = []
@@ -234,7 +234,8 @@ class Interrogator():
         are less readable."""
         caption = caption or self.generate_caption(images)
         image_features = self.image_to_features(images)
-        print('features', image_features, type(image_features))
+        caption = ";".join(caption.rank(image_features, 2))
+        print('features',   type(image_features), image_features.shape)
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors)
         return _truncate_to_fit(caption + ", " + ", ".join(tops), self.tokenize)
