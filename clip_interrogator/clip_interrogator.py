@@ -185,15 +185,15 @@ class Interrogator():
 
         return best_prompt
 
-    def generate_caption(self, pil_image: Image) -> str:
+    def generate_caption(self, pil_images: list[Image]) -> str:
         assert self.caption_model is not None, "No caption model loaded."
         self._prepare_caption()
-        inputs = self.caption_processor(images=pil_image, return_tensors="pt").to(self.device)
-        print('inputs',inputs, type(inputs))
+        inputs = self.caption_processor(images=pil_images, return_tensors="pt").to(self.device)
+        print('inputs',inputs, type(inputs), inputs['pixel_values'].shape)
         if not self.config.caption_model_name.startswith('git-'):
             inputs = inputs.to(self.dtype)
         tokens = self.caption_model.generate(**inputs, max_new_tokens=self.config.caption_max_length)
-        print('tokens',tokens, type(tokens))
+        print('tokens',tokens, type(tokens), tokens.shape)
         result = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)[0].strip()
         print('results',result )
         return result
@@ -232,7 +232,7 @@ class Interrogator():
         """Fast mode simply adds the top ranked terms after a caption. It generally results in 
         better similarity between generated prompt and image than classic mode, but the prompts
         are less readable."""
-        caption = caption or self.generate_caption(images[0])
+        caption = caption or self.generate_caption(images)
         image_features = self.image_to_features(images)
         print('features', image_features, type(image_features))
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
