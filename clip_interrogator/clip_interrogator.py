@@ -194,7 +194,7 @@ class Interrogator():
         tokens = self.caption_model.generate(**inputs, max_new_tokens=self.config.caption_max_length)
         return self.caption_processor.batch_decode(tokens, skip_special_tokens=True)[0].strip()
 
-    def image_to_features(self, imgs: Image[]) -> torch.Tensor:
+    def image_to_features(self, imgs: list[Image]) -> torch.Tensor:
         results = []
         self._prepare_clip()
         for image in imgs:
@@ -203,9 +203,9 @@ class Interrogator():
                 image_features = self.clip_model.encode_image(images)
                 image_features /= image_features.norm(dim=-1, keepdim=True)
             results.append(image_features)
-        return np.mean(image_features,axis=0)
+        return np.mean(results, axis=0)
 
-    def interrogate_classic(self, images: Image[], max_flavors: int=3, caption: Optional[str]=None) -> str:
+    def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
         """Classic mode creates a prompt in a standard format first describing the image, 
         then listing the artist, trending, movement, and flavor text modifiers."""
         caption = caption or self.generate_caption(images[0])
@@ -224,7 +224,7 @@ class Interrogator():
 
         return _truncate_to_fit(prompt, self.tokenize)
 
-    def interrogate_fast(self, images: Image[], max_flavors: int=32, caption: Optional[str]=None) -> str:
+    def interrogate_fast(self, images: list[Image], max_flavors: int=32, caption: Optional[str]=None) -> str:
         """Fast mode simply adds the top ranked terms after a caption. It generally results in 
         better similarity between generated prompt and image than classic mode, but the prompts
         are less readable."""
@@ -234,7 +234,7 @@ class Interrogator():
         tops = merged.rank(image_features, max_flavors)
         return _truncate_to_fit(caption + ", " + ", ".join(tops), self.tokenize)
 
-    def interrogate_negative(self, images: Image[], max_flavors: int = 32) -> str:
+    def interrogate_negative(self, images: list[Image], max_flavors: int = 32) -> str:
         """Negative mode chains together the most dissimilar terms to the image. It can be used
         to help build a negative prompt to pair with the regular positive prompt and often 
         improve the results of generated images particularly with Stable Diffusion 2."""
@@ -243,7 +243,7 @@ class Interrogator():
         flaves = flaves + self.negative.labels
         return self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain")
 
-    def interrogate(self, images: Image[], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> str:
+    def interrogate(self, images: list[Image], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> str:
         caption = caption or self.generate_caption(images[0])
         image_features = self.image_to_features(images)
 
