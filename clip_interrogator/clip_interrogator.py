@@ -232,9 +232,9 @@ class Interrogator():
         """Fast mode simply adds the top ranked terms after a caption. It generally results in 
         better similarity between generated prompt and image than classic mode, but the prompts
         are less readable."""
-        caption = caption or self.generate_caption(images)
+        captions = caption or self.generate_caption(images)
         image_features = self.image_to_features(images)
-        caption = ";".join(caption.rank(image_features, 2))
+        caption = self.rank_top(image_features, captions)
         print('features',   type(image_features), image_features.shape)
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors)
@@ -271,6 +271,7 @@ class Interrogator():
         with torch.no_grad(), torch.cuda.amp.autocast():
             text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
+            print(text_features, type(text_features), text_features.shape)
             similarity = text_features @ image_features.T
             if reverse:
                 similarity = -similarity
