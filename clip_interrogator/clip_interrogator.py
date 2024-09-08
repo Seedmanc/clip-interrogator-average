@@ -189,10 +189,14 @@ class Interrogator():
         assert self.caption_model is not None, "No caption model loaded."
         self._prepare_caption()
         inputs = self.caption_processor(images=pil_image, return_tensors="pt").to(self.device)
+        print('inputs',inputs)
         if not self.config.caption_model_name.startswith('git-'):
             inputs = inputs.to(self.dtype)
         tokens = self.caption_model.generate(**inputs, max_new_tokens=self.config.caption_max_length)
-        return self.caption_processor.batch_decode(tokens, skip_special_tokens=True)[0].strip()
+        print('tokens',tokens)
+        result = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)[0].strip()
+        print('results',result)
+        return result
 
     def image_to_features(self, imgs: list[Image]) -> torch.Tensor:
         results = []
@@ -230,6 +234,7 @@ class Interrogator():
         are less readable."""
         caption = caption or self.generate_caption(images[0])
         image_features = self.image_to_features(images)
+        print('features', features)
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors)
         return _truncate_to_fit(caption + ", " + ", ".join(tops), self.tokenize)
