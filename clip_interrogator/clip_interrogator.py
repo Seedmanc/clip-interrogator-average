@@ -195,7 +195,7 @@ class Interrogator():
         tokens = self.caption_model.generate(**inputs, max_new_tokens=self.config.caption_max_length)
         print('tokens',tokens, type(tokens), tokens.shape)
         results = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)
-        print('results',result )
+        print('results',results )
         return results
 
     def image_to_features(self, imgs: list[Image]) -> torch.Tensor:
@@ -245,7 +245,9 @@ class Interrogator():
         to help build a negative prompt to pair with the regular positive prompt and often 
         improve the results of generated images particularly with Stable Diffusion 2."""
         image_features = self.image_to_features(images)
+        print('negf',image_features)
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
+        print('negflaves', flaves)
         flaves = flaves + self.negative.labels
         return self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain")
 
