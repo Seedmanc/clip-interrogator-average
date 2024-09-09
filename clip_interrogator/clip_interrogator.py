@@ -255,7 +255,8 @@ class Interrogator():
         captions = caption or self.generate_caption(images)
         image_features = self.image_to_features(images)
         caption1 = self.rank_top(image_features, captions)
-        caps = captions.copy().remove(caption1)
+        caps = captions.copy()
+        caps.remove(caption1)
         caption2 = self.rank_top(image_features, caps)
         caption = caption1 + ' , ' + caption2
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
