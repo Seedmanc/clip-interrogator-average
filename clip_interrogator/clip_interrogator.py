@@ -212,7 +212,7 @@ class Interrogator():
     def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
         """Classic mode creates a prompt in a standard format first describing the image, 
         then listing the artist, trending, movement, and flavor text modifiers."""
-        caption = caption or ";".join(self.generate_caption(images[0]))
+        caption = caption or ";".join(self.generate_caption(images))
         image_features = self.image_to_features(images)
 
         medium = self.mediums.rank(image_features, 1)[0]
@@ -238,7 +238,7 @@ class Interrogator():
         print('features',   type(image_features), image_features.shape)
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors)
-        return _truncate_to_fit(caption + ", " + ", ".join(tops), self.tokenize)
+        return _truncate_to_fit(caption + ",  " + ", ".join(tops), self.tokenize)
 
     def interrogate_negative(self, images: list[Image], max_flavors: int = 32) -> str:
         """Negative mode chains together the most dissimilar terms to the image. It can be used
