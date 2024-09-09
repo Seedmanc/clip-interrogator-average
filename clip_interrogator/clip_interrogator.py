@@ -194,7 +194,6 @@ class Interrogator():
             inputs = inputs.to(self.dtype)
         tokens = self.caption_model.generate(**inputs, max_new_tokens=self.config.caption_max_length)
         print('tokens',tokens, type(tokens), tokens.shape)
-        tokens = [[30522, 1037 , 2450 ,  6100 , 1521 , 10691 , 2560 , 2534 , 1518 , 1670 , 7940 , 102 ]]
         results = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)
         print('results',results )
         return results
@@ -253,9 +252,9 @@ class Interrogator():
         return self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain")
 
     def interrogate(self, images: list[Image], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> str:
-        caption = caption or self.generate_caption(images[0])
+        captions = caption or self.generate_caption(images)
         image_features = self.image_to_features(images)
-
+        caption = self.rank_top(image_features, captions)
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         flaves = merged.rank(image_features, self.config.flavor_intermediate_count)
         best_prompt, best_sim = caption, self.similarity(image_features, caption)
