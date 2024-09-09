@@ -212,7 +212,7 @@ class Interrogator():
     def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
         """Classic mode creates a prompt in a standard format first describing the image, 
         then listing the artist, trending, movement, and flavor text modifiers."""
-        caption = caption or self.generate_caption(images[0])
+        caption = caption or ";".join(self.generate_caption(images[0]))
         image_features = self.image_to_features(images)
 
         medium = self.mediums.rank(image_features, 1)[0]
@@ -245,7 +245,7 @@ class Interrogator():
         to help build a negative prompt to pair with the regular positive prompt and often 
         improve the results of generated images particularly with Stable Diffusion 2."""
         image_features = self.image_to_features(images)
-        print('negf',image_features)
+        print('negf',type(image_features), image_features.shape)
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
         print('negflaves', flaves)
         flaves = flaves + self.negative.labels
@@ -275,6 +275,7 @@ class Interrogator():
             similarity = text_features @ image_features.T
             if reverse:
                 similarity = -similarity
+            print('sim',similarity.argmax(), similarity.argmax().item())
         return text_array[similarity.argmax().item()]
 
     def similarity(self, image_features: torch.Tensor, text: str) -> float:
