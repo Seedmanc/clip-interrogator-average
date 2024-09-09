@@ -194,6 +194,7 @@ class Interrogator():
             inputs = inputs.to(self.dtype)
         tokens = self.caption_model.generate(**inputs, max_new_tokens=self.config.caption_max_length)
         print('tokens',tokens, type(tokens), tokens.shape)
+        tokens = [[30522, 1037 , 2450 ,  6100 , 1521 , 10691 , 2560 , 2534 , 1518 , 1670 , 7940 , 102 ]]
         results = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)
         print('results',results )
         return results
