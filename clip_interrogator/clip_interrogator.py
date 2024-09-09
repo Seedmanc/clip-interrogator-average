@@ -212,9 +212,9 @@ class Interrogator():
     def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
         """Classic mode creates a prompt in a standard format first describing the image, 
         then listing the artist, trending, movement, and flavor text modifiers."""
-        caption = [caption] if caption else self.generate_caption(images)
+        captions = [caption] if caption else self.generate_caption(images)
         image_features = self.image_to_features(images)
-        caption = self.rank_top(image_features, caption)
+        caption = self.rank_top(image_features, captions)
         medium = self.mediums.rank(image_features, 1)[0]
         artist = self.artists.rank(image_features, 1)[0]
         trending = self.trendings.rank(image_features, 1)[0]
@@ -258,7 +258,7 @@ class Interrogator():
         caps = captions.copy()
         caps.remove(caption1)
         caption2 = self.rank_top(image_features, caps)
-        caption = caption1 + ' , ' + caption2
+        caption = caption1 + ' , ' + caption2 if caption1 != caption2 else caption1
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         flaves = merged.rank(image_features, self.config.flavor_intermediate_count)
         best_prompt, best_sim = caption, self.similarity(image_features, caption)
