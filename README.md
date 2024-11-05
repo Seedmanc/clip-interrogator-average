@@ -1,28 +1,20 @@
-# clip-interrogator
+# clip-interrogator-average
 
-*Want to figure out what a good prompt might be to create new images like an existing one? The **CLIP Interrogator** is here to get you answers!*
+*Want to figure out what a good prompt might be to describe your training dataset as a whole or perhaps the opposite? The **CLIP Interrogator** is here to get you answers!*
 
 ## Run it!
-
-🆕 Now available as a [Stable Diffusion Web UI Extension](https://github.com/pharmapsychotic/clip-interrogator-ext)! 🆕
-
+ 
 <br>
 
-Run Version 2 on Colab, HuggingFace, and Replicate!
+Run Version 2 on Colab!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb) [![Generic badge](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue.svg)](https://huggingface.co/spaces/pharma/CLIP-Interrogator) [![Replicate](https://replicate.com/pharmapsychotic/clip-interrogator/badge)](https://replicate.com/pharmapsychotic/clip-interrogator) [![Lambda](https://img.shields.io/badge/%CE%BB-Lambda-blue)](https://cloud.lambdalabs.com/demos/ml/CLIP-Interrogator)
+https://colab.research.google.com/drive/1BhPkF6P-nSU02pJSNbiUhkE3Ch8zMekA
 
 <br>
-
-
-Version 1 still available in Colab for comparing different CLIP models 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/v1/clip_interrogator.ipynb) 
-
 
 ## About
 
-The **CLIP Interrogator** is a prompt engineering tool that combines OpenAI's [CLIP](https://openai.com/blog/clip/) and Salesforce's [BLIP](https://blog.salesforceairesearch.com/blip-bootstrapping-language-image-pretraining/) to optimize text prompts to match a given image. Use the resulting prompts with text-to-image models like [Stable Diffusion](https://github.com/CompVis/stable-diffusion) on [DreamStudio](https://beta.dreamstudio.ai/) to create cool art!
+The **CLIP Interrogator average** is a prompt engineering tool that combines OpenAI's [CLIP](https://openai.com/blog/clip/) and Salesforce's [BLIP](https://blog.salesforceairesearch.com/blip-bootstrapping-language-image-pretraining/) to optimize text prompts to match a given set of images or to provide a negative prompt to help nudge the generation in the right direction. Use the resulting prompts with text-to-image models like [Stable Diffusion](https://github.com/CompVis/stable-diffusion) on [DreamStudio](https://beta.dreamstudio.ai/) to create cool art!
 
 
 ## Using as a library
@@ -56,7 +48,7 @@ print(ci.interrogate(image))
 ```
 
 CLIP Interrogator uses OpenCLIP which supports many different pretrained CLIP models. For the best prompts for 
-Stable Diffusion 1.X use `ViT-L-14/openai` for clip_model_name. For Stable Diffusion 2.0 use `ViT-H-14/laion2b_s32b_b79k`
+Stable Diffusion 1.X use `ViT-L-14/openai` for clip_model_name. For Stable Diffusion 2.0 use `ViT-H-14/laion2b_s32b_b79k`, for SDXL - ViT-g-14/laion2B-s34B-b88K.
 
 ## Configuration
 
