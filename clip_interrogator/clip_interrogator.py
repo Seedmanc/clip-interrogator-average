@@ -242,6 +242,7 @@ class Interrogator():
         return _truncate_to_fit(caption + ",  " + ", ".join(tops), self.tokenize)
 
     def interrogate_orthogonal(self, images: list[Image], max_flavors: int = 32) -> str:
+        #doesn't work much...
         """Orthogonal mode chains together the terms least tied to the image, regardless of being positive or negative in relation to it. It can be used
         to help build an OOD prompt to test LoRA behaviour and spot overfitting on concepts it didn't see during training, while being not as radical as negative prompt."""
         image_features = self.image_to_features(images)
@@ -250,6 +251,14 @@ class Interrogator():
         print('orthflaves', flaves) 
         #flaves += self.negative.labels
         return self.chain(image_features, flaves, max_count=max_flavors, desc="Ortho chain", ortho=True)
+    
+    def interrogate_orthogonal_fast(self, images: list[Image], max_flavors: int = 32) -> str:
+        """Orthogonal mode chains together the terms least tied to the image, regardless of being positive or negative in relation to it. It can be used
+        to help build an OOD prompt to test LoRA behaviour and spot overfitting on concepts it didn't see during training, while being not as radical as negative prompt."""
+        image_features = self.image_to_features(images) 
+        merged = _merge_tables([self.flavors, self.mediums, self.movements, self.trendings], self)
+        tops = merged.rank(image_features, max_flavors, ortho=True)
+        return _truncate_to_fit(", ".join(tops), self.tokenize)
 
     def interrogate_negative(self, images: list[Image], max_flavors: int = 32) -> str:
         """Negative mode chains together the most dissimilar terms to the image. It can be used
