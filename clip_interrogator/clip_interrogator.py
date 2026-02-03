@@ -241,18 +241,24 @@ class Interrogator():
         tops = merged.rank(image_features, max_flavors)
         return _truncate_to_fit(caption + ",  " + ", ".join(tops), self.tokenize)
 
+    def interrogate_orthogonal(self, images: list[Image], max_flavors: int = 32) -> str:
+        """Orthogonal mode chains together the terms least tied to the image, regardless of being positive or negative in relation to it. It can be used
+        to help build an OOD prompt to test LoRA behaviour and spot overfitting on concepts it didn't see during training, while being not as radical as negative prompt."""
+        image_features = self.image_to_features(images)
+        flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, ortho=True)
+        print('orthflaves', flaves) 
+        #flaves += self.negative.labels
+        return self.chain(image_features, flaves, max_count=max_flavors, desc="Ortho chain", ortho=True)
+
     def interrogate_negative(self, images: list[Image], max_flavors: int = 32) -> str:
         """Negative mode chains together the most dissimilar terms to the image. It can be used
         to help build a negative prompt to pair with the regular positive prompt and often 
         improve the results of generated images particularly with Stable Diffusion 2."""
         image_features = self.image_to_features(images)
-        print('negflaves',type(image_features), image_features.shape)
-        #flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
-        flaves2 = self.flavors.rank(image_features, self.config.flavor_intermediate_count, ortho=True)
-        #print('negflaves', flaves)
-        print('ortho flaves',  flaves2)
-        flaves = flaves2 + [' BREAK ']+ self.negative.labels
-        return self.chain(image_features, flaves, max_count=max_flavors, reverse=False, desc="Negative ortho chain", ortho=True)
+        flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
+        print('negflaves', flaves)
+        flaves += self.negative.labels
+        return self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain")
 
     def interrogate(self, images: list[Image], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> str:
         captions = caption or self.generate_caption(images)
