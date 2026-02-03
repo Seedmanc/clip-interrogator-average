@@ -245,6 +245,7 @@ class Interrogator():
         """Orthogonal mode chains together the terms least tied to the image, regardless of being positive or negative in relation to it. It can be used
         to help build an OOD prompt to test LoRA behaviour and spot overfitting on concepts it didn't see during training, while being not as radical as negative prompt."""
         image_features = self.image_to_features(images)
+        print('self.flavors',self.flavors, self.config.flavor_intermediate_count)
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, ortho=True)
         print('orthflaves', flaves) 
         #flaves += self.negative.labels
@@ -254,7 +255,7 @@ class Interrogator():
         """Negative mode chains together the most dissimilar terms to the image. It can be used
         to help build a negative prompt to pair with the regular positive prompt and often 
         improve the results of generated images particularly with Stable Diffusion 2."""
-        image_features = self.image_to_features(images)
+        image_features = self.image_to_features(images) 
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
         print('negflaves', flaves)
         flaves += self.negative.labels
@@ -426,7 +427,7 @@ class LabelTable():
             top_labels.extend([self.labels[start+i] for i in tops])
             top_embeds.extend([self.embeds[start+i] for i in tops])
 
-        tops = self._rank(image_features, top_embeds, top_count=top_count)
+        tops = self._rank(image_features, top_embeds, top_count=top_count, reverse=reverse, ortho=ortho)
         return [top_labels[i] for i in tops]
 
 
