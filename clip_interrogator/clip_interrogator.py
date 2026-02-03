@@ -157,6 +157,7 @@ class Interrogator():
         phrases = set(phrases)
         if not best_prompt:
             best_prompt = self.rank_top(image_features, [f for f in phrases], reverse=reverse, ortho=ortho)
+            print(f'chain not best prompt, reverse {reverse}, ortho {ortho}')
             best_sim = self.similarity(image_features, best_prompt)
             phrases.remove(best_prompt)
         curr_prompt, curr_sim = best_prompt, best_sim
@@ -167,6 +168,7 @@ class Interrogator():
             sim = self.similarity(image_features, prompt)
             if reverse:
                 sim = -sim
+                print('reverse sent to chain/check')
             
             if sim > best_sim:
                 best_prompt, best_sim = prompt, sim
@@ -177,6 +179,7 @@ class Interrogator():
 
         for idx in tqdm(range(max_count), desc=desc, disable=self.config.quiet):
             best = self.rank_top(image_features, [f"{curr_prompt}, {f}" for f in phrases], reverse=reverse, ortho=ortho)
+            print(f'chain best, reverse {reverse}, ortho {ortho}')
             flave = best[len(curr_prompt)+2:]
             if not check(flave, idx):
                 break
@@ -190,13 +193,10 @@ class Interrogator():
         assert self.caption_model is not None, "No caption model loaded."
         self._prepare_caption()
         inputs = self.caption_processor(images=pil_images, return_tensors="pt").to(self.device)
-        print('inputs',  type(inputs), inputs['pixel_values'].shape)
         if not self.config.caption_model_name.startswith('git-'):
             inputs = inputs.to(self.dtype)
         tokens = self.caption_model.generate(**inputs, max_new_tokens=self.config.caption_max_length)
-        print('tokens',tokens, type(tokens), tokens.shape)
         results = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)
-        print('results',results )
         return results
 
     def image_to_features(self, imgs: list[Image]) -> torch.Tensor:
@@ -236,7 +236,6 @@ class Interrogator():
         captions = [caption] if caption else self.generate_caption(images)
         image_features = self.image_to_features(images)
         caption = self.rank_top(image_features, captions)
-        print('features',   type(image_features), image_features.shape)
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors)
         return _truncate_to_fit(caption + ",  " + ", ".join(tops), self.tokenize)
@@ -277,14 +276,12 @@ class Interrogator():
         with torch.no_grad(), torch.cuda.amp.autocast():
             text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
-            print(text_features, type(text_features), text_features.shape)
             similarity = text_features @ image_features.T
             if ortho:
                 similarity = abs(similarity)
                 similarity = -similarity
             if reverse:
                 similarity = -similarity
-            print('sim',similarity.argmax(), similarity.argmax().item())
         return text_array[similarity.argmax().item()]
 
     def similarity(self, image_features: torch.Tensor, text: str) -> float:
@@ -395,7 +392,7 @@ class LabelTable():
     def _rank(self, image_features: torch.Tensor, text_embeds: torch.Tensor, top_count: int=1, reverse: bool=False, ortho: bool=False) -> str:
         top_count = min(top_count, len(text_embeds))
         text_embeds = torch.stack([torch.from_numpy(t) for t in text_embeds]).to(self.device)
-        if reverse and similarity:
+        if reverse and ortho:
             print('WARNING: when both reverse and ortho are set, high and low scores will be mixed together')
         with torch.cuda.amp.autocast():
             similarity = image_features @ text_embeds.T
