@@ -247,12 +247,12 @@ class Interrogator():
         improve the results of generated images particularly with Stable Diffusion 2."""
         image_features = self.image_to_features(images)
         print('negflaves',type(image_features), image_features.shape)
-        flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
+        #flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
         flaves2 = self.flavors.rank(image_features, self.config.flavor_intermediate_count, ortho=True)
-        print('negflaves', flaves)
+        #print('negflaves', flaves)
         print('ortho flaves',  flaves2)
         flaves = flaves2 + [' BREAK ']+ self.negative.labels
-        return self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative ortho chain", ortho=True)
+        return self.chain(image_features, flaves, max_count=max_flavors, reverse=False, desc="Negative ortho chain", ortho=True)
 
     def interrogate(self, images: list[Image], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> str:
         captions = caption or self.generate_caption(images)
