@@ -149,13 +149,14 @@ class Interrogator():
         min_count: int=8,
         max_count: int=32, 
         desc="Chaining", 
-        reverse: bool=False
+        reverse: bool=False,
+        ortho: bool=False
     ) -> str:
         self._prepare_clip()
 
         phrases = set(phrases)
         if not best_prompt:
-            best_prompt = self.rank_top(image_features, [f for f in phrases], reverse=reverse)
+            best_prompt = self.rank_top(image_features, [f for f in phrases], reverse=reverse, ortho=ortho)
             best_sim = self.similarity(image_features, best_prompt)
             phrases.remove(best_prompt)
         curr_prompt, curr_sim = best_prompt, best_sim
@@ -175,7 +176,7 @@ class Interrogator():
             return False
 
         for idx in tqdm(range(max_count), desc=desc, disable=self.config.quiet):
-            best = self.rank_top(image_features, [f"{curr_prompt}, {f}" for f in phrases], reverse=reverse)
+            best = self.rank_top(image_features, [f"{curr_prompt}, {f}" for f in phrases], reverse=reverse, ortho=ortho)
             flave = best[len(curr_prompt)+2:]
             if not check(flave, idx):
                 break
@@ -247,9 +248,10 @@ class Interrogator():
         image_features = self.image_to_features(images)
         print('negf',type(image_features), image_features.shape)
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
-        print('negflaves', flaves)
-        flaves = flaves + self.negative.labels
-        return self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain")
+        flaves2 = self.flavors.rank(image_features, self.config.flavor_intermediate_count, ortho=True)
+        print('negflaves', flaves, flaves2)
+        flaves = flaves + ' BREAK '+ self.negative.labels + ' ORTHO ' + flaves2
+        return self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain", ortho=True)
 
     def interrogate(self, images: list[Image], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> str:
         captions = caption or self.generate_caption(images)
@@ -269,7 +271,7 @@ class Interrogator():
         candidates = [caption, classic_prompt, fast_prompt, best_prompt]
         return candidates[np.argmax(self.similarities(image_features, candidates))]
 
-    def rank_top(self, image_features: torch.Tensor, text_array: List[str], reverse: bool=False) -> str:
+    def rank_top(self, image_features: torch.Tensor, text_array: List[str], reverse: bool=False, ortho: bool=False) -> str:
         self._prepare_clip()
         text_tokens = self.tokenize([text for text in text_array]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
@@ -277,6 +279,9 @@ class Interrogator():
             text_features /= text_features.norm(dim=-1, keepdim=True)
             print(text_features, type(text_features), text_features.shape)
             similarity = text_features @ image_features.T
+            if ortho:
+                similarity = abs(similarity)
+                similarity = -similarity
             if reverse:
                 similarity = -similarity
             print('sim',similarity.argmax(), similarity.argmax().item())
@@ -387,19 +392,24 @@ class LabelTable():
 
         return False
     
-    def _rank(self, image_features: torch.Tensor, text_embeds: torch.Tensor, top_count: int=1, reverse: bool=False) -> str:
+    def _rank(self, image_features: torch.Tensor, text_embeds: torch.Tensor, top_count: int=1, reverse: bool=False, ortho: bool=False) -> str:
         top_count = min(top_count, len(text_embeds))
         text_embeds = torch.stack([torch.from_numpy(t) for t in text_embeds]).to(self.device)
+        if reverse and similarity:
+            print('WARNING: when both reverse and ortho are set, high and low scores will be mixed together')
         with torch.cuda.amp.autocast():
             similarity = image_features @ text_embeds.T
+            if ortho:
+                similarity = abs(similarity)
+                similarity = -similarity
             if reverse:
                 similarity = -similarity
         _, top_labels = similarity.float().cpu().topk(top_count, dim=-1)
         return [top_labels[0][i].numpy() for i in range(top_count)]
 
-    def rank(self, image_features: torch.Tensor, top_count: int=1, reverse: bool=False) -> List[str]:
+    def rank(self, image_features: torch.Tensor, top_count: int=1, reverse: bool=False, ortho: bool=False) -> List[str]:
         if len(self.labels) <= self.chunk_size:
-            tops = self._rank(image_features, self.embeds, top_count=top_count, reverse=reverse)
+            tops = self._rank(image_features, self.embeds, top_count=top_count, reverse=reverse, ortho=ortho)
             return [self.labels[i] for i in tops]
 
         num_chunks = int(math.ceil(len(self.labels)/self.chunk_size))
@@ -409,7 +419,7 @@ class LabelTable():
         for chunk_idx in tqdm(range(num_chunks), disable=self.config.quiet):
             start = chunk_idx*self.chunk_size
             stop = min(start+self.chunk_size, len(self.embeds))
-            tops = self._rank(image_features, self.embeds[start:stop], top_count=keep_per_chunk, reverse=reverse)
+            tops = self._rank(image_features, self.embeds[start:stop], top_count=keep_per_chunk, reverse=reverse, ortho=ortho)
             top_labels.extend([self.labels[start+i] for i in tops])
             top_embeds.extend([self.embeds[start+i] for i in tops])
 
