@@ -166,9 +166,10 @@ class Interrogator():
             nonlocal best_prompt, best_sim, curr_prompt, curr_sim
             prompt = curr_prompt + ", " + addition
             sim = self.similarity(image_features, prompt)
-            if reverse:
+            if ortho:
+                sim = -abs(sim)
+            elif reverse:
                 sim = -sim
-                print('reverse sent to chain/check')
             
             if sim > best_sim:
                 best_prompt, best_sim = prompt, sim
@@ -279,9 +280,8 @@ class Interrogator():
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.T
             if ortho:
-                similarity = abs(similarity)
-                similarity = -similarity
-            if reverse:
+                similarity = -abs(similarity) 
+            elif reverse:
                 similarity = -similarity
         return text_array[similarity.argmax().item()]
 
@@ -394,13 +394,12 @@ class LabelTable():
         top_count = min(top_count, len(text_embeds))
         text_embeds = torch.stack([torch.from_numpy(t) for t in text_embeds]).to(self.device)
         if reverse and ortho:
-            print('WARNING: when both reverse and ortho are set, high and low scores will be mixed together')
+            print('WARNING: when both reverse and ortho are set, ortho takes precedence')
         with torch.cuda.amp.autocast():
             similarity = image_features @ text_embeds.T
             if ortho:
-                similarity = abs(similarity)
-                similarity = -similarity
-            if reverse:
+                similarity = -abs(similarity)
+            elif reverse:
                 similarity = -similarity
         _, top_labels = similarity.float().cpu().topk(top_count, dim=-1)
         return [top_labels[0][i].numpy() for i in range(top_count)]
