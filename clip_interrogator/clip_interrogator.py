@@ -240,8 +240,7 @@ class Interrogator():
         caption = self.rank_top(image_features, captions)
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors)
-        #_truncate_to_fit(caption + ",  " + ", ".join(tops), self.tokenize)
-        return caption + ",  " + ", ".join(tops)
+        return _truncate_to_fit(caption + ",  " + ", ".join(tops), self.tokenize)
 
     def interrogate_orthogonal(self, images: list[Image], max_flavors: int = 32) -> str:
         #doesn't work much...
@@ -262,9 +261,9 @@ class Interrogator():
         image_features = self.image_to_features(images)
         merged = _merge_tables([self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors, ortho=True)
-        #_truncate_to_fit(", ".join(tops), self.tokenize)
-        print(self.similarity(image_features, ", ".join(tops)))
-        return ", ".join(tops)
+        result = _truncate_to_fit(", ".join(tops), self.tokenize)
+        print(self.similarity(image_features, result))
+        return result
 
     def interrogate_negative(self, images: list[Image], max_flavors: int = 32) -> str:
         """Negative mode chains together the most dissimilar terms to the image. It can be used
@@ -446,7 +445,7 @@ class LabelTable():
             top_labels.extend([self.labels[start+i] for i in tops])
             top_embeds.extend([self.embeds[start+i] for i in tops])
 
-        tops = self._rank(image_features, top_embeds, top_count=top_count, reverse=reverse, ortho=ortho)
+        tops = self._rank(image_features, top_embeds, top_count=top_count )
         return [top_labels[i] for i in tops]
 
 
