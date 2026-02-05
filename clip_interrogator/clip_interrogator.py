@@ -252,7 +252,9 @@ class Interrogator():
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, ortho=True)
         print('orthflaves', flaves)
         #flaves += self.negative.labels
-        return self.chain(image_features, flaves, max_count=max_flavors, desc="Ortho chain", ortho=True)
+        result = self.chain(image_features, flaves, max_count=max_flavors, desc="Ortho chain", ortho=True)
+        print(self.similarity(image_features, result))
+        return result
 
     def interrogate_orthogonal_fast(self, images: list[Image], max_flavors: int = 32) -> str:
         """Orthogonal mode chains together the terms least tied to the image, regardless of being positive or negative in relation to it. It can be used
@@ -261,17 +263,20 @@ class Interrogator():
         merged = _merge_tables([self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors, ortho=True)
         #_truncate_to_fit(", ".join(tops), self.tokenize)
+        print(self.similarity(image_features, ", ".join(tops)))
         return ", ".join(tops)
 
     def interrogate_negative(self, images: list[Image], max_flavors: int = 32) -> str:
         """Negative mode chains together the most dissimilar terms to the image. It can be used
-        to help build a negative prompt to pair with the regular positive prompt and often 
+        to help build a negative prompt to pair with the regular positive prompt and often
         improve the results of generated images particularly with Stable Diffusion 2."""
         image_features = self.image_to_features(images)
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
         print('negflaves', flaves)
         flaves += self.negative.labels
-        return self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain")
+        result = self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain")
+        print(self.similarity(image_features, result))
+        return result
 
     def interrogate(self, images: list[Image], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> str:
         captions = caption or self.generate_caption(images)
@@ -289,7 +294,9 @@ class Interrogator():
         fast_prompt = self.interrogate_fast(images, max_flavors, caption=caption)
         classic_prompt = self.interrogate_classic(images, max_flavors, caption=caption)
         candidates = [caption, classic_prompt, fast_prompt, best_prompt]
-        return candidates[np.argmax(self.similarities(image_features, candidates))]
+        result = candidates[np.argmax(self.similarities(image_features, candidates))]
+        print(self.similarity(image_features, result))
+        return result
 
     def rank_top(self, image_features: torch.Tensor, text_array: List[str], reverse: bool=False, ortho: bool=False) -> str:
         self._prepare_clip()
