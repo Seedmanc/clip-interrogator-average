@@ -158,7 +158,6 @@ class Interrogator():
         phrases = set(phrases)
         if not best_prompt:
             best_prompt = self.rank_top(image_features, [f for f in phrases], reverse=reverse, ortho=ortho)
-            print(f'chain not best prompt, reverse {reverse}, ortho {ortho}')
             best_sim = self.similarity(image_features, best_prompt)
             phrases.remove(best_prompt)
         curr_prompt, curr_sim = best_prompt, best_sim
@@ -181,7 +180,6 @@ class Interrogator():
 
         for idx in tqdm(range(max_count), desc=desc, disable=self.config.quiet):
             best = self.rank_top(image_features, [f"{curr_prompt}, {f}" for f in phrases], reverse=reverse, ortho=ortho)
-            print(f'chain best, reverse {reverse}, ortho {ortho}')
             flave = best[len(curr_prompt)+2:]
             if not check(flave, idx):
                 break
@@ -247,12 +245,9 @@ class Interrogator():
         """Orthogonal mode chains together the terms least tied to the image, regardless of being positive or negative in relation to it. It can be used
         to help build an OOD prompt to test LoRA behaviour and spot overfitting on concepts it didn't see during training, while being not as radical as negative prompt."""
         image_features = self.image_to_features(images)
-        print('self.flavors',self.flavors, self.config.flavor_intermediate_count)
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, ortho=True)
-        print('orthflaves', flaves)
         #flaves += self.negative.labels
         result = self.chain(image_features, flaves, max_count=max_flavors, desc="Ortho chain", ortho=True)
-        print(self.similarity(image_features, result))
         return result
 
     def interrogate_orthogonal_fast(self, images: list[Image], max_flavors: int = 32) -> str:
@@ -261,6 +256,7 @@ class Interrogator():
         image_features = self.image_to_features(images)
         merged = _merge_tables([self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors, ortho=True)
+        tops += self.negative.labels
         result = _truncate_to_fit(", ".join(tops), self.tokenize)
         print(self.similarity(image_features, result))
         return result
@@ -271,7 +267,6 @@ class Interrogator():
         improve the results of generated images particularly with Stable Diffusion 2."""
         image_features = self.image_to_features(images)
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, reverse=True)
-        print('negflaves', flaves)
         flaves += self.negative.labels
         result = self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain")
         print(self.similarity(image_features, result))
@@ -445,7 +440,7 @@ class LabelTable():
             top_labels.extend([self.labels[start+i] for i in tops])
             top_embeds.extend([self.embeds[start+i] for i in tops])
 
-        tops = self._rank(image_features, top_embeds, top_count=top_count )
+        tops = self._rank(image_features, top_embeds, top_count=top_count, reverse=reverse, ortho=ortho)
         return [top_labels[i] for i in tops]
 
 
