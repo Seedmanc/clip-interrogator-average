@@ -252,7 +252,6 @@ magical
 abstract
 1/160s
 post-processing
-stanley artgerm lau
 clean
 bright
 realistic face
@@ -1837,7 +1836,6 @@ high definition digital art
 expressive oil painting
 circuitry
 fiction
-hr giger. 8k
 4k quality
 stippled light
 street view
@@ -3438,7 +3436,6 @@ bridge
 high textures
 icon
 seamless pattern
-artgerm julie bell beeple
 ultra wide
 in plastic
 mark riddick
@@ -3912,7 +3909,6 @@ colour
 comic book cover
 ornate frilly dress
 on fire
-gustav klimt 4k
 benjamin lacombe
 low angle fish eye lens
 hero
@@ -3931,7 +3927,6 @@ glowing aura
 braided hair
 2 0 2 2
 lumnious
-alphonse mucha background
 rainy night
 michelin star
 bright clouds
@@ -4205,7 +4200,6 @@ blue cyborg eyes
 red and orange glow
 showing off his muscles
 wearing 1 8 5 0 s era clothes
-smooth eric zener cam de leon
 tintype
 blade runner artifacts
 cinematic feel
@@ -5623,7 +5617,6 @@ very beautiful face
 photorealistic 3d render
 hyperdetailed 3d matte painting
 very anime
-in peter elson color scheme
 stanley lau
 night photography
 circuits
@@ -6247,7 +6240,6 @@ standing in flower field
 flat 2d design
 portra 4 0 0
 facing front
-high detailed beksinski painting
 promo art
 ralph steadman
 dragon ball artstyle
@@ -6385,7 +6377,6 @@ dark moody colors
 1 9 1 3
 awardwinning
 powerful chin
-artgerm greg rutkowski _ greg
 zaha hadid building
 blood stains
 retro fantasy
@@ -8970,7 +8961,6 @@ unreal engine rendering
 cherry blossom
 red glow
 gentle shadowing
-official studio ghibli still
 brian sum
 self confidence
 grainy picture
@@ -10593,7 +10583,6 @@ very atmospheric
 fine 5k details
 slick elegant design
 wooden art nouveau swirls
-alphonse mucha johannes voss
 shiny colorful
 john frederick lewis
 rudolf weisse
@@ -12544,7 +12533,6 @@ tangled overhead wires
 light blue sky
 ethereal eel
 extremely high fidelity
-alphonse mucha j. c. leyendecker
 perfect coherent composition
 superwide angle
 soft light 4k in pink
@@ -12888,7 +12876,6 @@ wrapped in vines
 medical supplies
 midday lighting
 fursona commission
-the pixar adaptation
 isono
 greek fantasy panorama
 fate stay night
@@ -14365,7 +14352,6 @@ ground level
 delirium
 overgrown plants
 casting magic spell
-cute pixar character
 dramatic background
 evan rachel wood
 beautiful day
@@ -14537,7 +14523,6 @@ in american psycho ( 1 9 9 9 )
 art exhibition
 artistic render of reimu hakurei
 1 5 0mm f2. 8
-disney pixar zootopia
 super close up
 muted colours 8k
 chiroptera ears
@@ -14806,7 +14791,6 @@ dark fur
 studio ghibli still
 confusing
 chun li
-tilt shift zaha hadid background
 full body close-up shot
 worksafe.cgsociety
 facing away from the camera
@@ -15243,7 +15227,6 @@ with flowers
 nvidia ai
 caspar james gurney
 johnson heade
-martin raphael lacoste
 20 years old
 world
 frozen
@@ -18306,7 +18289,6 @@ spaghetti
 with glasses
 enhance face
 2001
-still from a pixar movie
 game graphics
 magic mist
 thrilling
@@ -18343,7 +18325,6 @@ yintion j-jiang geping
 sherlock holmes
 endless horizon
 surreal alien kingdom
-depicted as a pixar character
 jet fighter
 environments
 bullets
@@ -18678,7 +18659,6 @@ pathology sample test tubes
 oliver vernon
 monorail
 victorian age
-alphonse mucha 8k
 ships
 purple gradient
 magalie villeneuve
@@ -19012,7 +18992,6 @@ rat
 rough seas
 still from star wars
 in black military uniform
-steven artgerm lau
 white highlights in hair
 no facial hair
 turtle
@@ -19133,7 +19112,6 @@ greg rutkowski and craig mullins
 calm atmosphere
 teal energy
 staring at the viewer
-style of raphael lacoste
 ethereal bubbles
 black bra
 purple lipstick
@@ -20595,7 +20573,6 @@ benevolence
 rave art
 lilac bushes
 intricate detailed anatomy
-alphonse mucha magali villeneuve
 symmetrical beautiful face
 bodybuilder body
 female figure in maxi dress
@@ -20829,7 +20806,6 @@ checkered pattern
 anthropomorphic cat
 epic dramatic lighting
 centered in frame
-disney pixar 3d style
 duel
 frown
 glowing mushrooms
@@ -23321,7 +23297,6 @@ obsidian pomegranade
 leather clothing
 colorado
 insectoid
-wojtek beksinski macmanus
 romanticism lain
 in glitchart jared forest
 jia
@@ -26612,7 +26587,6 @@ toned orange and pastel pink
 richly textured
 rich vivid color
 legendary epic shot
-in yoji shinkawa's art style
 matrix symbols in the background
 young and cute girl
 j scott campbell
@@ -27270,7 +27244,6 @@ amy judd
 wears a suit of power armor
 look of desire
 loving stare
-yoshitaka amano character design
 de kooning
 pop surrealist
 mouse holding a drum
@@ -31016,7 +30989,6 @@ baars
 botanic
 portal. zaha hadid
 light holographic tones
-frame from pixar movie
 wearing victorian dark goggles
 koopa
 igh detailed
@@ -31073,7 +31045,6 @@ stone facade
 epic music album cover
 striking manga artstyle
 blur focus
-highly detailed beksinski art
 ethereal bohemian waxwing bird
 geometrical forms
 offering the viewer a pill
@@ -31765,7 +31736,6 @@ space colors
 satisfactory screenshot
 concept art for a video game
 short puffy pants
-still from a wes anderson film
 cel illustration
 exposed inner gears
 from blade runner(1982)
@@ -35344,7 +35314,6 @@ silver and muted colors
 ps 2 graphics
 very cool pose
 lightsome space
-in the style dan mumford artwork
 gestural
 elegant furniture
 beautifully detailed render
@@ -35647,7 +35616,6 @@ kunoichi
 elegant drawing
 background cyberpunk spaceship
 vista
-gustav klimt 8k
 beautiful lake background
 elegant confident pose
 warhammer 40k!!
@@ -39372,7 +39340,6 @@ star wars film look
 kawai
 dark gloomy church
 zig zag
-set on h. r. giger aesthetic
 top secret style photo
 alien nature
 rusty metal towers
@@ -40544,7 +40511,6 @@ realistic textured magnetosphere
 spasms
 void of darkness
 cobalt blue and pyrrol red
-edvard munch john berkey
 high-tech devices
 red ribbon
 an expressive digital painting
@@ -41712,7 +41678,6 @@ kiseijuu
 green swimsuit
 rough draft
 colored manga panel
-takashi murakami artwork
 wearing black dress
 lock
 anime shot
@@ -42455,7 +42420,6 @@ waterfalls and lakes
 androids
 northern renaissance
 walking on water
-salvador dali painting
 post grunge portrait
 magnum photos 4k
 macro 20mm
@@ -43729,7 +43693,6 @@ volumetric lighting and fog
 featuring wires
 medium height
 architectural shot
-in style of zaha hadid architect
 in style of ultra realistic
 hut
 octane render 3
@@ -44068,7 +44031,6 @@ bucklebury ferry
 realism style
 buildings on fire
 gilleard
-alphonse mucha cgsociety
 burdisio
 detailed intricate sketch
 ultimate detail
@@ -44417,7 +44379,6 @@ dark portrait of medusa
 silhoutte
 bluish face
 dark schizophrenia portrait
-pablo picasso. graffiti art
 disney villain
 wash off in the rain
 red spike aura in motion
@@ -45053,7 +45014,6 @@ zombie chasing coffee
 retro pink synthwave style
 called elysion
 lokah samastah sukhino bhavantu
-style of esao andrews
 arranged in the golden ratio
 endless flowing ethereal drapery
 giant sword
@@ -47614,7 +47574,6 @@ full pose
 highly detailed vector art
 black scheme
 audience
-from the studio ghibli film
 kantoku
 in her early 3 0
 perspective piece
@@ -48569,7 +48528,6 @@ wavy blond hair
 battle chasers
 nicodemus yang-mattisson
 rain and smoke
-still from a wes anderson movie
 cities flourishing
 stressed and burnt out
 the table is full of food
@@ -49964,7 +49922,6 @@ broken computers and cables
 rubber latex
 disaster photography
 rapper bling jewelry
-disney pixar 8k photo
 dissection of funny
 fallen kingdom city ruins
 scumbled
@@ -50361,7 +50318,6 @@ liquid translucent amber
 stop sign
 transparent celestial light gels
 glinting
-white john berkey panels
 rows of windows lit internally
 sensor array
 blazing engines
@@ -51222,7 +51178,6 @@ psychological horror movie still
 1970s hippie cloth style
 crafting
 queen chess piece photo portrait
-alphonse mucha. highly detailed
 vibrant red colors
 radioactive spike field
 post nuclear fallout
@@ -51572,7 +51527,6 @@ epic lighting”
 [ cosmic
 🌻🎹🎼
 🍁 cute
-moebius + loish + wlop
 🤤 girl portrait
 sitting in her car
 quiet street
@@ -52744,7 +52698,6 @@ white stone wall background
 armor plate
 skull on the chest
 boris johnson as the joker
-still from pixar movie
 gummy bears
 ultradetailed digital art
 brain computer interface
@@ -52914,7 +52867,6 @@ michael angelo inspired
 thigh highs
 dark vador
 potion
-hr giger muscles
 dark majestic ornate great hall
 the mummy
 disney render
@@ -53100,7 +53052,6 @@ female thief
 generative technology
 tilt and orange
 colorfull illustration
-from disney pixar's up (2009)
 purple and cyan lighting
 dark matte metal
 wide-angle lens vanishing point
@@ -53222,7 +53173,6 @@ love peace and unity
 rendered in unreal engine 6
 amazingmmorpg
 antialized
-cars pixar movie style
 ultra rare
 kate bishop
 yelena belova
@@ -53633,7 +53583,6 @@ pokemon anime style
 with red eyes
 art deco borders
 red and cyan
-h.r. giger city
 queen of the dead
 portrait skull clown
 night sea storm
@@ -54140,7 +54089,6 @@ dentils
 rock star
 confident facial expression
 fox tail
-beautiful rembrandt light
 peter deligdisch
 high resolution design
 silk stockings
@@ -55242,7 +55190,6 @@ real anime
 scar across face
 star trek voyager
 orange colors
-white john berkey armor panels
 boeing concept art painting
 fully rendered light to shadow
 purple energy
@@ -55502,7 +55449,6 @@ absurdly long blonde hair
 & the eyes & mouth are closed
 posing together in bra
 armored core v
-turner. piranesi. macro lens
 bathed in moonlight
 offices
 horror reality
@@ -57227,7 +57173,6 @@ orientalism painting
 holding a spectacular broadsword
 donkey kong country
 don punchatz
-doom demon giger portrait
 realism tattoo sketch
 double exposure photography
 selective color effect
@@ -58467,7 +58412,6 @@ loosely detailed
 odissey
 minimalistic logo
 minotaur in ancient armor
-peter chung + moebius + loish
 waterfall!!!!!
 hazy fog
 mobile game asset
@@ -58512,7 +58456,6 @@ claymorphism
 dramatic illustration
 peaceful clouds
 intricate crystal jelly ornate
-hg giger flora borsi
 luminescent wisps
 warhammer nagash haute couture
 happy female alien
@@ -59598,7 +59541,6 @@ hooded cloaked sith lord
 cruise control
 impossibly lifelike composition
 stunning!!
-style of william morris print
 butterfly pop art
 !!! very coherent!!! vector art
 nuke
@@ -59669,7 +59611,6 @@ the dawn of man
 ( ( ( ( ( jaguar e-type car
 bullet proof vest
 string puppet
-jackson pollock painting
 sounds in the graveyard
 lying down
 lovely languid princess
@@ -63078,7 +63019,6 @@ shiny reflective surfaces
 pavements
 7 0mm photo
 concept art 4 k
-alfons mucha ， from china
 victo ngai cyberpunk style
 happy expressions
 warm color clothes
@@ -64033,7 +63973,6 @@ digital science fiction realism
 flowing book pages
 andrey gordeev
 casual photography
-gustav klimt painting
 stone runes on the front
 !!award-winning!!
 magazine design
@@ -64637,7 +64576,6 @@ red curled hair
 1505
 laying on a bed
 mid-transformation
-gustav klimt 4 k
 dimly lit scene
 torchlight. sketch art. roots
 high quality photorealism
@@ -65155,7 +65093,6 @@ soft blur and glow
 shounen jump
 horor
 noodles
-gustav klimt yoh yoshinari
 school curriculum expert
 propaganda metacentrist
 -h 960
@@ -65260,7 +65197,6 @@ luxor
 nasus
 balaclava mask
 abstraction chemicals
-ideal pixar character
 detailed pencil sketch
 apartment hallway
 everything is dead
@@ -66070,7 +66006,6 @@ bumblebee pug
 big glowing netflix logo behind
 geometric backdrop; led
 front profile shot
-andrews esao artstyle
 burned forest
 shadowy creatures
 water on lens
@@ -66103,7 +66038,6 @@ calcutta
 shot with an analog camera
 der riese
 sea sponges
-cgsociety gustav klimt frame
 junktown
 swirly eyes
 ivan plusch artwork
@@ -67176,7 +67110,6 @@ drdisrespect as napoleon
 abstract!!!
 full of colour
 swirling liquids
-alphonse mucha frank fanzzeta
 scifi pulp
 vivid colors anatomical
 dreamwave
@@ -67708,7 +67641,6 @@ barbecue
 wooden logs
 from movie bladerunner
 scene from bladerunner movie
-painting hr giger tent in a room
 front cover of a new video game
 hands behind her pose!
 3d render even lit
@@ -68076,7 +68008,6 @@ horse legs and human body
 cutscene footage
 gradins view
 gyro zeppeli
-h. r. giger hieroglyphs
 light gradient
 god of wealth
 hair monster
@@ -68831,7 +68762,6 @@ kodak kodachrome 400
 modernist art style
 in matrix
 portrait of young man
-yoshitaka amano greg rutkowski
 madenning knowlege
 mysterious eerie portrait
 pouty look :: octane render
@@ -69294,7 +69224,6 @@ navid negahban
 persian princess
 person wearing gas mask
 jet engines
-yoshitaka amano vibe
 location is inside the tardis
 official render
 light ray from a blurry window
@@ -69824,7 +69753,6 @@ vampires in space. moebius
 extremely pale blond hair
 tarot swords
 dan howard
-cinematic. beksinski painting
 elizabeth erickson
 kenny schar
 robert colescott painting
@@ -71514,7 +71442,6 @@ full-figure
 partially bald
 sixties
 coronavirus as a stuffed toy
-yoshitaka amano octane render
 stone art
 clean black outlines
 skeleton face symmetrical face
@@ -72830,7 +72757,6 @@ chun-li
 violet color palette
 glossy white
 cloudy night
-tilt shift h.r giger background
 ciri from the witcher
 retro cyberpunk
 clumps of bananas
@@ -73599,7 +73525,6 @@ gwen stacy
 decorative panels
 gérard depardieu as wario
 illustration daily deviation
-h.p. lovecraft as cthulhu
 the doors
 carlos samuel araya
 sol retreat
@@ -73846,7 +73771,6 @@ jennifer connelly as a stunning
 disney movie
 drogon
 fractal system circuit
-vincent van gogh painting
 scary lightning
 jerry garcia
 owl studio
@@ -74111,7 +74035,6 @@ mark twain
 mark zuckerberg as catwoman
 metropolitan museum of fine art
 black and yellow tracksuit
-animation pixar (2018)
 animated episode still
 markiplier with a knife
 mars city
@@ -75393,7 +75316,6 @@ swimming pool in front
 scorpion whip
 glowing colorful fog
 head on
-alphonse mucha. rich colors
 kafkaesque
 wayne douglas barlowe
 gold green creature
@@ -76548,7 +76470,6 @@ perfect high resolution
 head looking up
 view from inside
 action adventure
-in the studio ghibli anime film
 perfect skin tones
 festival vibes
 flowing hair and long robes
@@ -77828,7 +77749,6 @@ realistic!!
 ! photorealistic
 she wear gasmask
 floating into the sky
-pablo picasso painting
 narrow passage
 film camera style
 pin-up girl
@@ -79385,7 +79305,6 @@ hyperrealistic luis royo
 hyperrealistic teen
 soft freckles
 zen concept
-3d model pixar render
 end of everything
 markus gunnar
 leak
@@ -79629,7 +79548,6 @@ highly detailed sketch
 biology textbook page
 ganapati
 vinayak
-gerald brom. rich colors
 positing on rock super hero pose
 skull in broken space helmet
 digital paintin
@@ -79771,7 +79689,6 @@ blue brain
 beady black eyes
 carl gustav
 snow army war
-disney pixar movie
 floating symbols and crystals
 floating symbols
 fair skinned
@@ -80520,7 +80437,6 @@ catwalk photo
 plastic texture
 rays of blue moonlight
 a bulletproof vest
-disney pixar weta
 summer olympics footage
 fluffy fox ears
 1 8 0 0 s soldier
@@ -80855,7 +80771,6 @@ archs and walls
 labirynth
 cookie monster as a bond villain
 powerful zen composition
-yoshitaka amano photorealistic
 light reflexes
 corduroy road
 corgi cosmonaut
@@ -82820,7 +82735,6 @@ high contreast
 gestalt
 branches composition abstract
 symmetrical cloaked figure face
-ghibli miyazaki movie poster
 ghost in the machine
 greyish tones
 ghost room
@@ -82941,7 +82855,6 @@ girl with the pearl earring
 girl with warship parts
 girls frontline
 red kimono
-giuseppe arcimboldo walter white
 fruit monster
 give me a higher love
 colorful explosion
@@ -83107,7 +83020,6 @@ black marble and gold
 holding scale
 greek titan goddess themis
 holding scale and holding sword
-cinematic studio ghibli still
 textile print
 /r/razer
 -h 640
@@ -83747,7 +83659,6 @@ spherical body
 i dream on
 i got a job with stanley
 i slept in segments last night
-8k artgerm bokeh
 laughing groom
 i'm here
 not going anywhere. oil painting
@@ -83998,7 +83909,6 @@ with disturbing
 island in a blue sea
 cel shadow
 eeire
-render pixar palette
 realistic 3d model
 inked digital
 game resources
@@ -84252,7 +84162,6 @@ dark winter evening
 rocky hills
 art of angrysnail
 tilted angle
-style of van gogh starry night
 langford's basilisk
 lara stone
 full helmet
@@ -84782,7 +84691,6 @@ retro 5 0 s style
 peter mohrbacher artstyle
 1 9 8 0's scifi
 dark and dramatic atmosphere
-hr giger artwork
 highly detailed!!!!!!!
 moonlit kerala village
 castle core
@@ -85887,7 +85795,6 @@ overflowing with baked beans
 beans in his eyes sockets
 mountain forest in background
 anthropomorphic crab
-strong pixar wheat bread warrior
 the background is black
 portrait of nikola tesla
 sharp illustration
@@ -87097,7 +87004,6 @@ the red sox left fielder
 2 5mm portra
 the robot wearing the bone crown
 the sailor galaxia. beautiful
-the sailor moon. beautiful
 the sandman from graphic novel
 magenta and blue
 the sky is a starry sky
@@ -87238,7 +87144,6 @@ ufo flying over paris
 great finesse hyper detailed
 ufo in a forest
 uhd candid photo of dirty
-yoshitakka amano karol bak
 uhd cinematic lighting
 winning photo of the year
 ethereal flowerpunk
@@ -87943,7 +87848,6 @@ archeological discover
 realisms
 photography )
 ink painting ) ) ) )
-hr giger ) ( ( stained glass
 crystals enlight the scene
 view is centered on the robot
 ( dog ) jumps over hill
@@ -88454,7 +88358,6 @@ extremely uncomfortable
 demobaza
 bryce 3d style
 journey thatgamecompany
-disney pixar movie still
 purple ancient antler deity
 brightly lit pink room
 wearing denim short shorts
@@ -89100,7 +89003,6 @@ pearly flagstones
 ancient japanese architecture
 giant cherry trees
 flowing golden scarf
-hayao miyazaki\'s movies
 realistic octane 3d
 uhq
 color drawing
@@ -90640,7 +90542,6 @@ detailed plant life
 hands down
 other dimensions
 super high quality art
-alfonse mucha detailed
 day-light
 full leather armor
 confident holding vegetables
@@ -90927,7 +90828,6 @@ cuphead’s art style
 cate blanchett as medieval queen
 start
 c. m. coolidge
-alphonse mucha poster
 full poster
 with cats on her side
 falling flower petals
@@ -92209,7 +92109,6 @@ blue scales
 portrait of barbara palvin
 rendered image
 flame conjuring armored
-himars in cars pixar movie
 himars
 outside on the ground
 tiny mice living inside
@@ -92625,7 +92524,6 @@ beta male
 joe biden as an anime villain
 as an air balloon
 large and in charge
-in a lisa frank art style
 ultrarealistic photography
 joe biden crying
 president joe biden
@@ -95566,7 +95464,6 @@ aquarius
 whisky
 upper body and face
 waves crashing at rocks
-hayao miyazaki's animation style
 louis dupre
 hyperrealistic!
 galactic waterfalls
@@ -96047,7 +95944,6 @@ stood on top of a sky scraper
 red cheeks
 the angels are crying
 kanye west torso
-style of jean giraud moebius
 coxcomb
 red mech
 dark grey decepticon mech
@@ -96508,7 +96404,6 @@ high detailed cartoon
 black ears
 chasing a robber down a street
 bald eagle
-takashi murakami art style
 photomorph artwork
 chocolate frosting
 final fantasy 1 2 style
@@ -99520,7 +99415,6 @@ anatomically correct android
 sultry digital painting
 ponte 2 5 de abril
 alpha wolf head
-alphonse mucha meet beksinski
 portrait of lolita
 mistress
 gemma chan girl portrait
@@ -99936,8 +99830,6 @@ illustrated news agency
 mechanical engineering
 one-line drawing
 kodak gold film
-still from a 2015 pixar movie
-still from a 2001 pixar movie
 arcane patterns
 illustrations of animals
 an inform organism
@@ -99952,7 +99844,6 @@ blue hairstyle
 photo from the dig site
 an instrument
 an interdimensional being
-still from the pixar movie
 art forms in nature
 wojak
 big brain
