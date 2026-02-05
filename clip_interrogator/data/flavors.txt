@@ -1037,7 +1037,6 @@ weird
 micro detail
 kodak portra 400
 oil
-syd meade
 classical painting
 glamor pose
 fantasy magic
@@ -2066,7 +2065,6 @@ high tech
 whealan
 octane render 8k
 utopia
-zdizslaw beksinski
 front shot
 graphic style
 luxurious
@@ -3112,7 +3110,6 @@ awesome
 intricate ink illustration
 glows
 nightmare fuel
-kuvshinov ilya
 kilian eng vibrant colors
 high collar
 alessandro barbucci
@@ -3597,7 +3594,6 @@ dramatic painting
 fullshot
 highly detailed attributes
 8k highly detailed
-by tom bagshaw
 pixelated
 dark cinematic
 award winning illustration
@@ -4053,7 +4049,6 @@ wearing headphones
 aura of light
 upper half portrait
 goddess art
-tom whalen 8k
 industrial factory
 full head and shoulders
 llama with dreadlocks
@@ -4233,7 +4228,6 @@ eyes are glowing red lightbulbs
 very funny
 horroristic shadows
 in the forest
-by greg rutkowski
 fountain
 adobe illustrator
 as trending on artstation
@@ -4653,7 +4647,6 @@ very very intricate
 colorful lights
 neon glow
 bastion game
-octane render. by makoto shinkai
 bioluminiscent creatures
 color blocking
 keyshot render
@@ -5029,7 +5022,6 @@ youthful
 house
 high quality art
 8k detail post-processing
-alfons mucha
 gouache painting
 highly intricate details
 professional studio lighting
@@ -5219,7 +5211,6 @@ wise
 eternity
 thorns
 hope
-agostino arrivabene
 body
 chairs
 beautifully detailed
@@ -5525,7 +5516,6 @@ cookbook photo
 extremely intricate
 retrowave color scheme
 clean line
-zdislaw beksinski
 tank girl
 psychic
 luis rollo
@@ -7402,7 +7392,6 @@ beautiful nature
 grand theft auto
 modeling
 layered
-painting by simon stalenhag
 street fighter
 idiosyncratic
 death is swallowed up in victory
@@ -12590,7 +12579,6 @@ point of view
 naturecore
 piroca
 dark water
-by makoto shinkai
 geometric lines
 attractive girl
 #pixelart
@@ -17821,7 +17809,6 @@ car moving fast
 octane tender
 maori
 1 9 5 0 s style
-brave. by makoto shinkai
 daniel
 radio signals
 video game environment design
@@ -26935,7 +26922,6 @@ deepsea
 wretched camel
 cyberpunk batman
 psychedelics
-painted by andreas rocha
 plasma charges
 camera face
 completely golden eyes
@@ -31696,7 +31682,6 @@ structural
 bryan cranston
 taken in the early 1990s
 taken on a 1990s camera
-gloomy. by makoto shinkai
 hyper realistic tattoo
 heavy shading
 a portrait of junkrat
@@ -38326,7 +38311,6 @@ falling star on the background
 glowing eyes everywhere
 clean style
 bekinski
-painting by john howe
 time traveler
 small loli girl
 tinkerer
@@ -42717,7 +42701,6 @@ realistic architecture
 borderlands 3
 mouth open in a terrifying roar
 crackling blue lightning
-by wes wilson
 jim woodring
 dramatic lighting. stylized
 detailed buildings
@@ -47720,7 +47703,6 @@ detailed spaceship interior
 pink and red colors
 delicate face
 nanogirlv 2
-overgrowth. by makoto shinkai
 night city background
 movie environment design
 urban patrol
@@ -47863,7 +47845,6 @@ transport design
 simon cowell
 dan volbert
 old scars
-night. by greg rutkowski
 strings background
 bright red eyes
 blue and black color scheme
@@ -50474,7 +50455,6 @@ burne hogarth
 liquid fire
 high contrast!
 dharma artifacts
-by m. c. escher
 warrior dress
 light-brown wall
 art wall
@@ -50595,7 +50575,6 @@ modern technology building
 postmodernism
 mogao grottoes
 moog modular synthesizer
-glowing blue by greg rutkowski
 most blues
 battle angel manga
 full body dramatic profile
@@ -52015,7 +51994,6 @@ oil on canvas; nuclear fallout
 subtle blue
 dramatic cinematic light
 codex
-by claude monet
 subject centered in frame
 burnt paper
 furry tail
@@ -63397,7 +63375,6 @@ verdant gradient
 ukio-e style
 ice mountains in the background
 his eyes are red and glowing
-alfons mucha and greg rutkowski
 plague doctor mask
 goth style
 volumetric evening lights
@@ -66489,7 +66466,6 @@ white thick smoke
 john candy
 cyborg-girl with silver hair
 sitting on a window sill
-painting by hieronymus bosch
 retro anime
 futuristic street
 grimdark atmosphere
@@ -71928,7 +71904,6 @@ urban house
 satellite
 on a spaceship
 extremely graphic
-by thomas kinkade
 tail of a lemur
 an anime nendoroid of karl marx
 flat cell shading
@@ -73611,7 +73586,6 @@ jimmy page
 left 4 dead 2
 aesthetic cyberpunk
 lemon wearing sunglasses
-painting by android jones
 leonard nimoy
 sichuan
 high resolution:: gil elvgren
@@ -75354,7 +75328,6 @@ furry badger
 ink and screentone
 dramatic reddish light
 boy and girl
-snowy. by makoto shinkai
 victorian inspired clothing
 frustrated face
 visibly angry
@@ -76096,7 +76069,6 @@ shot from the side
 detailed torso
 disneyland castle
 princess peach)
-reflections. by makoto shinkai
 desjarlais
 wearing black dress and hat
 wearing black old dress and hat
@@ -77696,7 +77668,6 @@ intelligent arrangement
 another universe
 wadi rum
 marble table
-frank frazetta alphonso mucha
 alien musician
 flora and fauna
 alien racing drivers
@@ -80489,7 +80460,6 @@ cover photo portrait of du juan
 light-red lips
 spring early
 howl’s moving castle
-painting by dan mumford
 planet earth background
 cowboy on the range
 cowboy portrait
@@ -89020,7 +88990,6 @@ autumn maples
 calm afternoon
 gloomy skies
 a large sphere of red energy
-by studio ghibli
 sora as a cat
 walking to work with a briefcase
 accurate depiction
@@ -91814,7 +91783,6 @@ glowing halo above his head
 rpg landscape
 hextech
 hideen village in the forest
-by james jean
 fabian wagner cinematography
 forest plains of north yorkshire
 face showing
@@ -94045,7 +94013,6 @@ one of the weavers of destiny
 magical cave
 see
 the blessed aisles
-by rossdraws
 the car is corvette c2 1969
 rocha
 the ceaseless waking nightmare
@@ -94060,7 +94027,6 @@ the city of toronto
 who is born from the sea
 chinese style painting
 the curse of monkey island
-medium shot. by hayao miyazaki
 the death of art
 kodak portra film
 the dreaming
@@ -94750,7 +94716,6 @@ vaporwave artwork composition
 ford model t
 smoking body
 like lady mechanika
-cosmic skies. by makoto shinkai
 like kyoto
 like jiufen
 full of colorful vegetation
@@ -94790,7 +94755,6 @@ industrial pipes
 human like
 sportspalast amphitheatre
 alternate reality ceramic age
-blue sea. by makoto shinkai
 bhare
 croptop
 paint splashes and splatter
@@ -96656,7 +96620,6 @@ neon colored
 multiple suns
 blue white colors
 tired and drunk
-fog. by greg rutkowski
 creating an ominous presence
 wings are clouds of darkness
 elegant smiling pose
@@ -97934,7 +97897,6 @@ terminator t 8 0 0
 detailed face with mask
 flying screw
 huge red moon
-anime. by makoto shinkai
 train station in summer
 naturalist illustration
 crashed ufo
@@ -98451,7 +98413,6 @@ destroyed forest
 low poly character
 society 6
 live colors
-by jean giraud
 watercolour on paper
 fine line art
 russ mill
