@@ -540,6 +540,7 @@ Béla Kondor
 Béla Nagy Abodi
 Béla Pállik
 Ben Enwonwu
+Ben Garrison
 Ben Nicholson
 Ben Shahn
 Ben Stahl
@@ -4559,6 +4560,7 @@ Steven Belledin
 Steven Campbell
 Steven James Petruccio
 Stokely Webster
+Stone Toss
 Storm Thorgerson
 Stuart Davis
 Studio Ghibli

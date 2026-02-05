@@ -414,7 +414,6 @@ coherent
 dark shadows
 tarot card
 wide lens
-rossdraws global illumination
 romantic
 full color
 impressionist painting
@@ -4361,7 +4360,6 @@ long loose red hair
 intricate fantasy painting
 autumn lights
 devianart craze
-realism | beeple
 imogen poots as a paladin
 disney weta portrait
 upward shot
@@ -9447,10 +9445,9 @@ closeup headshot
 saturated color scheme
 industrial robots
 wallpaper 4 k
-impressionnisme
+impressionism
 extremely symmetrical
 very detailed art
-rossdraws volumetric lighting
 real faces
 ayami
 official valentino editorial
@@ -14832,7 +14829,6 @@ volumetric light rays
 vivid caustics
 proportionate
 ratatouille style
-rossdraws pastel vibrant
 pastel blues and pinks
 dungeons and dragon
 full of tar
@@ -15032,7 +15028,6 @@ office interior
 top
 lovely pastel colors
 deep space exploration!!!
-lois van rossdraws
 1 9 3 0 s
 modern look
 chinese ink painting
@@ -19403,7 +19398,6 @@ gold speckles
 runestones
 cyber background
 dramatic full moon lighting
-rossdraws sakimimichan
 finely detailed facial features
 so many wires
 evangelion anime poster
@@ -21975,7 +21969,6 @@ city view
 deep look
 cleopatra
 red afro
-pencil drawing. el greco
 coloring page
 kodak 2383 film
 hong kong
@@ -22643,7 +22636,6 @@ halter top
 soft emotion
 large array
 long glowing ethereal hair
-concept art | rutkowski
 translucid luminescence
 dark kitchen of an art student
 strangled with rope
@@ -23048,7 +23040,7 @@ kyoto animation studio
 charles monet
 adventuring gear
 gore
-|| very anime
+very anime
 gmod
 with vray
 blend elements
@@ -23903,7 +23895,7 @@ face partially obscured
 militaristic
 in cyberpunk 2 0 7 7 cp 2 0 7 7
 motion blured movement
-illustration | rutkowski
+illustration
 design on white background
 huge trees
 emanuele dascanio
@@ -25103,7 +25095,7 @@ janice sung
 adventure playground accident
 alien creatures
 roaring twenties
-neal adams | sinister
+sinister
 charming expression gesicht
 african princess
 armitage
@@ -28367,7 +28359,6 @@ botanic foliage
 big oaks
 rubber and latex
 smooth white surroundings
-rossdraws | afrofuturism
 norse god
 nostalgic high saturation
 occult details
@@ -36781,7 +36772,6 @@ chimneys on buildings
 new vehicle
 winter blue drapery
 spilling juice
-rossdraws 2. 0
 of a ramlethal valentine
 ostrich feathers
 d&d protagonist
@@ -40671,7 +40661,6 @@ dark ocean water
 unreal engine render + a goddess
 right elevation
 meta design
-wolff olins |
 very beautiful cute catgirl
 furry paws furry
 open street maps
@@ -40918,8 +40907,6 @@ white carved abstract sculpture
 3d fractal
 foxes
 penguins
-okuda sam miguel
-neal adams | dark
 3d point perspective
 psychedelic digital art
 warm pink living room
@@ -46267,7 +46254,6 @@ motion graphics
 old trees
 beavis and butthead
 heavenly clouds
-beeple masterpiece
 mayeb
 around the throne
 beginning of autumn
@@ -47130,7 +47116,6 @@ red moon over stormy ocean
 the dude
 the earth
 the end of evangelion
-hyperdetailed | donato giancola
 the ghost in the machine
 fantasy sword
 close scene
@@ -54805,7 +54790,6 @@ contemplating existence
 underwater caustics
 light skinned african young girl
 # mist # horror # magic # spell
-cyberpunk 2077 rossdraws
 from doom and halo
 huge level structure
 but slower in changing
@@ -57718,14 +57702,12 @@ see fishes swimming
 i said
 iceland astrophotography
 icon for weather app
-2 5 6 x 2 5 6
 peter morbacher style
 illustrated logo
 wearing fishnets
 surrealistic roman architecture
 digital painting | intricate
-mark zuckenberg
-olga kurylenko
+mark zuckerberg
 clouds swirling
 sky setting
 distant town in valley and hills
@@ -58064,7 +58046,6 @@ watching the stars
 fosters
 mclaren
 mecha anthropomorphic penguin
-cinematic beeple
 mechanical robotic octopus
 medeival fantasy town
 medieval cottage interior
@@ -58406,7 +58387,6 @@ with dark hair tied up in a bun
 black-hair
 brown-blond-hair pretty face
 girl cute-fine-face
-rossdraws portrait
 portrait a 1 5-year-old boy
 glow around helmet
 metallic green armor
@@ -63829,7 +63809,6 @@ dirty olive skin
 gakkin and ernst haeckel
 blue planet
 reduce duplicate image
-drawing gustave dore
 ashtray
 red hot
 blue bonsai
@@ -66668,12 +66647,9 @@ alien helmet
 tarot card frame
 digital painting of a pagoda
 nugget
-jinsung lim
 tungstem color balance
 glowing flowing hair
 water dragon
-neal adams | centered
-john schoenher
 vivid atmospheric lighting
 evil fairies
 dimly-lit
@@ -68691,7 +68667,6 @@ bag over the waist
 anatomical cutaway
 nighttime nature landscape
 niko oneshot riding a roomba
-rossdraws1.0
 1 8 th century japanese painting
 golden hour intricate
 comiс style
@@ -71876,7 +71851,6 @@ curled slightly at the ends
 digital artist
 bright orange eyes
 half goat
-wlop rossdraws
 marc simonetti and sakimicha
 bland
 70mm imax
@@ -73367,7 +73341,7 @@ no hd
 aura jared and wires
 japan grungerock from colors
 of romanticism a center image
-recusion beeple
+recursion beeple
 iwakura
 anime concept hdr anime macmanus
 beautiful iwakura
@@ -84939,7 +84913,7 @@ pixar 3d render
 neon tube jewelry
 pixar cars in mad max fury road
 war boys
-smelting pit'beeple
+smelting pit
 flying in sky
 black fedora
 golden ratio jewelry lights
@@ -87633,7 +87607,6 @@ in australia
 subaru
 holding a ray gun
 nuclear power
-concept drawing my syd mead
 full shot photograph
 advanced automobile
 world trade center twin towers
@@ -91831,7 +91804,7 @@ cubism brutalism architecture
 cyberpunk space station
 overwatch inspired
 background of a golden ballroom
-finalrender:0.8|devfiantart
+finalrender:0.8|deviantart
 16k resolution:0.6|people
 humans:-1
 mantegna
@@ -94731,7 +94704,6 @@ many columns
 unconscious design
 tshirt
 luxigon
-rossdraws 2. 5
 color dnd illustration
 water covers everything
 peter sculthorpe
@@ -94791,7 +94763,6 @@ epic forests
 tangled trees
 wooden structures
 tall stone spires
-beeple colors
 metropolis filmic gotham city
 stunning sci-fi concept art
 symmetrical doorway
@@ -99599,7 +99570,6 @@ dressed in tactical armor
 3d lighting
 rendered in nvidia's omniverse
 highly intricate mindar punk
-greg beeple
 borne space library artwork
 0 brainsucker render
 intricate wlop
