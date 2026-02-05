@@ -2527,7 +2527,6 @@ crisp lines and color
 hyperrealistic portrait
 tan skin
 luscious patty with sesame seeds
-style of peter mohrbacher
 centred
 beautiful dramatic lighting
 digital art masterpiece
@@ -3251,7 +3250,6 @@ complementary color
 rich moody colors
 cyberpunk background
 greek mythology
-in style of peter mohrbacher
 birds eye view
 sephora
 skin
@@ -3389,7 +3387,6 @@ dust particles
 duo tone
 johnatan wayshak
 saturno butto
-in style of zaha hadid
 holy halo
 joe alves
 volumetric cinematic lighting
@@ -3940,7 +3937,6 @@ greek god
 psytrance artwork
 dark eyeliner
 high depth
-kentaro miura manga art style
 mike mignogna
 beak
 8k”
@@ -3966,9 +3962,7 @@ fantasycore
 stranger things
 ghosts
 humanoid robot
-style of studio ghibli
 deco fashion
-style artgerm
 polish poster art
 electric breeze
 cinematographic shot
@@ -5403,7 +5397,6 @@ ilustration
 well rendered
 geoff darrow
 nausicaa
-style of greg rutkowski
 2d art
 human face
 happiness
@@ -5426,7 +5419,6 @@ anime frames
 mix of styles
 james gurney and greg rutkowski
 rule of third!!!!
-style of john berkey
 anubis-reptilian
 void
 groovy
@@ -5849,7 +5841,6 @@ wilted flowers
 portrait of a man
 ultra fine detailed
 tales from the borderlands
-style of paolo parente
 style of mike jackson
 alexandre ferra white mecha
 d & d style
@@ -5858,7 +5849,6 @@ professionally color graded
 style sheet
 gradient light green
 musicality
-in style of mark arian
 with veins of magma and gold
 sepals forming helmet
 slight glow
@@ -5869,7 +5859,6 @@ wideshot
 high-detail
 slender
 hd anime
-style of norman rockwell
 amagaitaro
 vibrant fan art
 lumen global illumination
@@ -6313,7 +6302,6 @@ heavenly light
 andreas franke
 pizza
 landscape art
-in style of yoji shinkawa
 glamor shot
 dungeons and dragons art
 vintage postcard illustration
@@ -6352,7 +6340,6 @@ stephen hickman
 award winning lighting
 rainbows
 artgerm detailed
-style of moebius
 professional concept art
 sigma
 highly
@@ -6715,7 +6702,6 @@ asian art
 gi
 wearing a cowboy hat
 minimalist architecture
-in style of syd mead
 beautiful image
 throne
 processing
@@ -6948,7 +6934,6 @@ restored
 brilliant colors
 rothko
 liquid gold
-style of gustave dore
 animation cel
 alternate history
 cinematic camera
@@ -7456,7 +7441,6 @@ volumetric light effect
 ancient runes
 art deco!
 soft pastels
-style of jordan grimmer
 style game square enix life
 underneath the stars
 beautiful texture
@@ -7682,7 +7666,6 @@ smoke and mist
 ultrarelistic
 soft skin
 portrait of angela merkel
-style of makoto shinkai
 contemporary collage
 mucha klimt
 painting in the museum
@@ -7812,7 +7795,6 @@ sparkle in eyes
 francis bacon masterpiece
 complimentary colours
 psychedelic glitch art
-tom bagshaw artstyle
 solarpunk!!!
 silver gold details
 woodland
@@ -8069,7 +8051,6 @@ head to toe
 glowing paper lanterns
 otomo
 kpop
-style of yoshitaka amano
 obama
 overgrowth
 stippling
@@ -8391,7 +8372,6 @@ face of a man
 beautiful android woman
 swirling smoke shapes
 gothic and baroque
-in style of zdzisław beksinski
 reddish hair
 sharp silver armor
 face in the shadows
@@ -8501,7 +8481,6 @@ snake head
 intricate stained glass
 trendy
 atomic punk
-drawn in the style of mark arian
 smug expression
 white smoke
 looking surprised
@@ -8667,7 +8646,6 @@ nizou yamamoto
 lush grass
 frank frzetta
 moebius + loish
-style of richard corben
 the thing alien assimilation
 terada katsuya
 fate zero
@@ -8838,7 +8816,6 @@ perfect proportions fine face
 spatula
 black feathers instead of hair
 looming over you
-style of francis bacon
 knights armor
 wolf fursona
 sink
@@ -9138,7 +9115,6 @@ spooky lighting
 strong pose
 cinémascope
 owl
-pixar animation style
 wearing leather jacket
 shiva
 lego
@@ -9323,7 +9299,6 @@ sigma 5 0mm f1.4
 1 9 5 0
 unpleasant face
 introspective
-style of tom bagshaw
 hydrangea
 serene evening atmosphere
 soft lens
@@ -9701,7 +9676,6 @@ art museum
 main character
 piotr jablonski
 detective coat
-style of stanley artgerm
 beeple. octane render
 horror vacui
 wedding photo
@@ -10429,7 +10403,6 @@ sign
 mental
 improvisation
 evil eyes
-style of giger
 rooftop
 bullet holes and blood splatter
 chic
@@ -10699,7 +10672,6 @@ neal hanson
 viking runes
 highly detailed labeled
 marvel studios
-style of h. r. giger
 etheral
 mario testino
 dramatic shadows
@@ -12287,7 +12259,6 @@ detailed helmet
 banners
 detailed linework
 centered image
-style of james jean
 car concept art
 antique
 clip art
@@ -12780,7 +12751,6 @@ detailed!
 sakuga
 full frontal shot
 highly detailed leaves
-style of anton fadeev
 goddess of death
 perfect detailed face
 pacific northwest
@@ -12866,7 +12836,6 @@ colorful hyperrealism
 amazing d & d art
 gold accents
 detailed octane render
-style from greg rutkowski
 flowery
 ghostblade
 xxl
@@ -13253,7 +13222,6 @@ lewis jones
 under studio lighting
 tubular creature
 natural materials
-style greg rutkowski
 christian
 jovial
 very wide angle
@@ -13515,7 +13483,6 @@ medieval french landscape
 india
 green highlights
 bradley cooper
-style of tyler edlin
 tribe members attacking
 ivan aivazovski
 windows and walls :5
@@ -13841,7 +13808,6 @@ holiday
 highres
 detailed brushstrokes
 4d
-style of junji ito
 flag
 golden hour photography
 blizzard concept artists
@@ -14095,7 +14061,6 @@ rainforest mountains
 darksiders art style
 symmetrical full body
 golden leaves at frame border
-in style of ruan jia
 kit
 items and gadget
 hot air balloon
@@ -14465,7 +14430,6 @@ creative and cool
 beautiful interior
 bay area
 hot tub
-in style of studio ghibli
 unrealengine 5
 first 4 figures
 samurai flight suit
@@ -15092,7 +15056,6 @@ two tone
 8k hyper realistic
 neogothic art
 clean and textures
-style of artgerm
 home
 guy billout
 hammer
@@ -15500,7 +15463,6 @@ ground angle
 large rose petals
 gold tint
 deathly
-style of jesper ejsing
 pinstripe suit
 adward winning
 multicolored hair
@@ -15899,7 +15861,6 @@ colorful magic
 post war style
 dragon inspired armor
 concept artbook
-style of edward hopper
 life meaning
 stunning skied
 biological
@@ -16064,7 +16025,6 @@ sakimimichan
 soft-warm
 gold accessories
 alien looking
-style of feng zhu
 antoni gaudi
 khajuraho
 insanly detailed
@@ -16826,7 +16786,6 @@ portrait of a forest mage
 nike cycling suit
 white wrinkled shirt
 gold and red accents
-style hybrid mix of beeple
 hair blowing the wind
 shirt design
 she-ra
@@ -16879,7 +16838,6 @@ indian art
 mafia
 martha jungwirth sketch
 scientific schematics
-style of caravaggio
 mednyanszky laszlo
 handsome eyes
 he-man
@@ -16895,7 +16853,6 @@ casual clothing
 :3
 suppressive fire
 pinned down
-in style of ivan aivazovsky
 cutecore clowncore
 good contrast
 on the calm lake
@@ -17008,7 +16965,6 @@ butterfly lighting
 paper art
 prada
 3d digital art
-in style of ilya kuvshinov
 gucci poster
 art with ai
 sports illustrated
@@ -17614,7 +17570,6 @@ broken windows
 solid blue background
 rolling hills
 radioactive
-in style of greg rutkowski
 shattered
 4k photography award winning
 bloodshot eyes
@@ -17694,7 +17649,6 @@ cyberpunk city at night
 8k octane
 daft punk
 terrified 👿
-style of dali
 rendered in octane render
 disco ball
 accurate hands
@@ -17877,7 +17831,6 @@ controversial
 anime asthetic
 wearing an oversized sweater
 clever
-in style of hayao miyazaki
 pumpkins
 ultra detailed 8k
 extreme high intricate details
@@ -18621,7 +18574,6 @@ fuji 8 0 0
 see-through
 surfing
 pirate clothes
-style of mark ryden
 claustrophobia
 4k concept art
 focused expression
@@ -19135,7 +19087,6 @@ gfx association
 decorations
 magical lights
 middle close up composition
-in style of artgerm
 long afro hair
 detailed landscape
 white furniture
@@ -19320,7 +19271,6 @@ porcelain sculpture
 liquid wax
 robot dragon hands and feet
 blueprint diagram
-style of adrian ghenie
 dazzle camouflage!
 weightlessness
 beautiful soft light
@@ -20180,7 +20130,6 @@ thick smoke
 japanese painting
 bottom of the ocean
 vin diesel
-style of hokusai
 long curly blond hair
 black and white matte painting
 gold crown
@@ -20204,7 +20153,6 @@ side view close up of a gaunt
 walking in the forest
 forest ray light
 gopro photo
-style of hajime sorayama
 dense vegetation
 olympics
 alert
@@ -21068,7 +21016,6 @@ dr strange
 street style
 youtuber
 reflections on the river
-in style of beeple
 black rose frame. d&d
 eminem
 albert watson
@@ -21161,7 +21108,6 @@ crowded streets
 shot from behind
 amazingly detailed
 the emperor
-style of wes anderson
 1996
 spider-man
 huge muscles
@@ -21399,7 +21345,6 @@ interior decoration
 paranoid vibe
 40mm tape
 technicolour film
-style of wlop
 fatherly
 highly ornamental
 paper modeling art
@@ -22322,7 +22267,6 @@ spiritual evolution
 4k -
 detailed school background
 lens 5 0mm
-lovecraftian style
 tree roots
 5 0mm photography
 high-definition
@@ -22624,7 +22568,6 @@ ann stokes
 chromatic skin
 band playing
 band playing instruments
-moebius comic style
 great fantasy mood
 pink neon lights
 beautiful dark creepy landscape
@@ -23082,7 +23025,6 @@ zhelong xu
 pyrotechnics
 permaculture
 octane photoreal 3d render
-studio ghibli art style
 50mm photo
 cinestill 800t technicolor
 victor horta
@@ -23825,7 +23767,6 @@ street light
 8 8 8 8
 black clouds
 8k 3d realism
-style of yoji shinkawa
 shifty
 inside a haunted destroyed house
 wide angle studio shoot
@@ -24992,8 +24933,6 @@ profound and vast
 colorful paper lanterns
 concept photo
 minimalistic design
-pixar 3d animation style
-style thomas kinkade
 god rays through fog
 light at the end of the tunnel
 magic surrealism
@@ -25130,7 +25069,6 @@ john willaim godward
 sincere
 d & d fantasy art
 intricate ornamental flourishes
-kentaro miura art style
 linen
 ship interior
 from commedia dell'arte
@@ -25292,7 +25230,6 @@ against dark background
 juanjo guarnido
 snake river in the jungle
 black helicopters
-style of simon stalenhag
 character mashup
 combination art
 patio
@@ -25343,7 +25280,6 @@ intricate elegant
 urban city photography
 rebecca romijn as dorothy
 sticker sheet
-in the style artgerm
 magic storm and thunder clouds
 japanese countryside
 chillhop
@@ -25412,7 +25348,6 @@ cartoon network style
 dug stanat macabre art
 controller
 sexy girl
-in style of nan goldin
 dark auburn wavy hair
 breathe
 factorio
@@ -25725,7 +25660,6 @@ you may say i'm a dreamer
 young angry woman
 realistic ”
 studio lighting”
-style of leonid afremov”
 werewolf”
 lesbian embrace
 formulae
@@ -26167,7 +26101,6 @@ cgsocciety r/art
 dark shades of colors
 cyborg dog
 necromancy
-style of charlie bowater
 long brunette hair
 security rhox
 leather trench coat
@@ -26268,7 +26201,6 @@ small chamber. hyperrealistic
 touring
 fuji
 waistcoat
-pixar artstyle
 masterpiece oil painting
 joker wearing vader's armor suit
 white mask
@@ -26306,7 +26238,6 @@ sun rise
 light ray
 mr. bean
 press photography
-style of frank frazetta
 skewed shot
 transcendental
 norse mythology
@@ -26650,7 +26581,6 @@ cybertronic
 web of life
 wearing lab coat
 rustic wood
-style of aubrey beardsley
 argentic
 green magic
 full cast
@@ -26840,7 +26770,6 @@ ghibli artstyle
 ammonite
 ripped up white garment
 large terrarium
-artstyle tom bagshaw
 scenic mountain setting
 barbara hammer
 facets
@@ -27237,7 +27166,6 @@ modern rustic
 lightning symbol
 scarlett johanson
 3 0 years woman
-pre raphaelite art style
 cast
 gas lighting
 amy judd
@@ -27588,7 +27516,6 @@ facing the viewer
 walking towards the camera
 on top of a mountain
 fire raining
-style of syd mead
 little planet
 fallout 4 render
 3d computer render
@@ -27660,7 +27587,6 @@ dystopia city
 orange color scheme
 at midnight
 fun
-style of wayne barlowe
 digital steampunk art
 bill gold
 richard amsel
@@ -27808,7 +27734,6 @@ superman costume
 knee-high boots
 old book
 art-house aesthetic
-art style of john collier
 ghanaian movie poster
 sunrise light
 molecules
@@ -27877,7 +27802,6 @@ meta
 no light reflecting off paint
 agfa film
 fallout concept art
-style of gustav klimt
 original artwork
 felipe pantone
 d-cup
@@ -28059,7 +27983,6 @@ cannon
 he is about 60 years old
 heaven background
 the god of the sea
-style of satoshi kon
 rap
 rainbow dash
 not cropped
@@ -28382,7 +28305,6 @@ heavy looking
 desert lands
 amoled
 intricate and elegant
-style of maxfield parrish
 hyperrealistic digital painting
 art nouveau wallpaper
 detailed expression
@@ -28525,7 +28447,6 @@ dutch style painting
 nitro colors
 display case
 alien base
-style of tim white
 purple flowers
 fetus
 range murata jeremy lipking
@@ -28631,7 +28552,6 @@ sat in his throne
 casting dark magic
 vouge
 adrien girod
-style of van gogh
 ( ( ( el dia los muertos ) ) )
 tar-like
 tease
@@ -29033,7 +28953,6 @@ full body and head shot
 wavy vibrant red hair
 ibiza nightclub dancing inspired
 experimenting in her science lab
-in style of atey ghailan
 symmetric detailed
 realistic-anime
 cerebral corpus callosum
@@ -29314,7 +29233,6 @@ happy appearance
 ioyful vibe and lighting
 dark grey background
 hell and heaven
-in the art style of filip hodas
 sony ar 7 ii
 8k unreal engine
 perfect dynamic posture
@@ -29486,7 +29404,6 @@ anamorphic lens flares 4k
 dramatic lighting on the face
 nft art
 promotional picture
-norman rockwell artwork style
 ascii
 fluffy white clouds
 portal 2 screenshot
@@ -29632,7 +29549,6 @@ well-endowed
 photograph 4k
 henry darger
 city skyline
-studio ghibli artstyle
 full of nature
 aloy
 blue neon details
@@ -29659,7 +29575,6 @@ very dramatic
 stormy coast
 white daoist robes
 full body photograph
-style of pixar
 medium distance
 key still
 white shoes
@@ -29862,7 +29777,6 @@ iridescent scales
 digital 2d animation
 david nakayama
 bad vibes
-ilya kuvishinov style
 fallout 3
 innovative
 exobiology
@@ -30567,7 +30481,6 @@ clear face and eyes
 villainess has black angel wings
 alice in the wonderland
 4k details
-artstyle greg rutkowski
 alien woman
 f/2. 5
 2 0 1 5 cinematography
@@ -30662,7 +30575,6 @@ aron wiesenfeld
 intricate glow accents
 stylised design
 cinematic highlights
-style of will eisner
 in style of cory loftis
 striking artstyle
 vines wrap around the terrarium
@@ -30808,7 +30720,6 @@ multicolored tshirt art
 4k detailed post processing
 hard dramatic lighting
 standing on rocky ground
-style of kilian eng
 juanmao
 weird abstract
 london fashion week
@@ -30832,7 +30743,6 @@ reflect 8k uhd
 castle in distance
 evergreen
 canon 1 d
-style of ivan shishkin
 cat from the void
 ronin
 morocco
@@ -31591,7 +31501,6 @@ dark athmosphere
 ultra photoreal
 in a park and next to a lake
 adam sandler
-the style of wlop
 heavy color compression filter
 very detailed bd cover
 articulated joints
@@ -32457,7 +32366,6 @@ flume
 gloomy weather. hyperrealistic
 no faces
 hyper realistic illustration
-style of alphonse mucha
 flies
 with depth of field
 viking warrior
@@ -32634,7 +32542,6 @@ bonsai trees
 eye shadow
 world of warcraft style
 large bust
-in the styles of greg rutkowski
 akiri toriyama
 concrete poetry
 spirit fantasy concept art
@@ -32682,7 +32589,6 @@ prison cell
 churchyard
 realistic and detailed eyes
 crackling green lightning
-in the style of tom bagshaw
 scott fischer
 round eyes
 vibrant pastel colors
@@ -32922,7 +32828,6 @@ joseph and joseph
 francine van hove
 color negative
 compassionate
-in style of johan grenier
 nose made of wood
 tarkovsky scene
 ocean in distance
@@ -33472,7 +33377,6 @@ metal skin
 weird fashion
 contemporary dance
 asymetrical design
-studio ghibli painterly style
 disappearing
 dark cloaked necromancer
 sitting on obsidian throne
@@ -33769,7 +33673,6 @@ rear-shot
 skin made of led point lights
 symmetric lights and fog
 traditional tai costume
-8 0's style tomasz alen kopera
 dnd fantasy
 shining lamp
 funny sunglasses
@@ -34165,7 +34068,6 @@ cel-shaded:17
 toyota supra
 deformed
 wet puddles reflecting
-in style of james paick
 2 1 savage
 die antwoord music video
 2 8 year old mary louise brooks
@@ -34403,7 +34305,6 @@ dragon body
 photo-shopped
 yellow and purple tones
 rainy and gloomy atmosphere
-in style of rembrandt
 retro scifi
 close-up photograph
 muddy road
@@ -34450,7 +34351,6 @@ frontal shot
 large brush
 hercules brabazon
 (((unreal engine)))
-van gogh art style
 deep purple
 hot pink
 color splash
@@ -34681,7 +34581,6 @@ big oatmeal
 fine features
 soft neon atmosphere
 billy butcher
-style of jonathan solter
 forbidding
 black hole sun
 black orb of fire
@@ -35055,7 +34954,6 @@ margaret thatcher
 margot robbie as harley quinn
 smoke cloud
 goddess of love
-style of marc simonetti
 love at first sight
 telltale style
 medieval village
@@ -35400,10 +35298,8 @@ fornite game. octane render
 ray swanland
 factories
 weird creatures
-style of donato giancola
 anemone
 golden hour time
-style of carlos schwabe
 orchid stems
 1 9 7 0 s sci-fi
 medium long brown hair
@@ -35850,7 +35746,6 @@ tonalism!
 simple cream dress
 soviet futurism
 contrasted light
-in the style wes anderson
 aberration
 8k what
 many interstellar plants
@@ -35956,7 +35851,6 @@ skull like
 wearing acne outfit
 neill blomkamp
 flesh and metal
-style of anato finnstark
 art nouveau declotage
 hightly ornate
 roots and hay coat
@@ -36580,8 +36474,6 @@ syd mead color scheme
 sitting pose
 no bricks
 octane render quality
-mark ryden in the style of
-amy sol in the style of
 stipple art
 patterned background
 carvagio
@@ -36605,7 +36497,6 @@ symmetrical eyes and body
 icelandic valley
 hydration
 the shadow
-in style of robert mapplethorpe
 dreamy rock girl
 in style of photogrammetry cloud
 green tunic
@@ -37747,7 +37638,6 @@ lens flair
 dark fariytale
 trolls
 covering the ground
-pre-raphaelite style
 gloomy style
 japanese animation style
 animated film still
@@ -37975,7 +37865,6 @@ hardops
 hand with five fingers
 wearing a shirt and a jean
 dystopian city skyline at night
-in style of moebius
 animated movie still
 codex seraphinianus
 back light contrast
@@ -37988,7 +37877,6 @@ cyan gold blank light
 gustave
 edward
 ultra graphic settings
-style of ilya kuvshinov
 costa blanca
 exhibition catalog
 counter strike
@@ -38468,7 +38356,6 @@ studio gibli
 sunrise over solarpunk city
 gold hair
 victorian london
-in style of charlie bowater
 welcome to the matrix
 alien cityscape
 hollywood standard
@@ -38822,7 +38709,6 @@ iridiscent
 dark and beautiful
 extremely photorealistic
 cinematic color scheme
-style of zdislaw beksinski
 metallic bridge
 surrealcore
 urs fischer
@@ -38899,7 +38785,6 @@ eeyrie
 wear an elegant mustach
 white scarf
 centered!!!!!
-style of salvador dali
 is at dawn and bluish
 trees in foreground
 with palm trees and columns
@@ -39261,7 +39146,6 @@ psychedelic dust
 1 8 6 2
 clear sharp image
 big and small
-manga style of kentaro miura
 7 5mm
 unusual place
 reflective windows
@@ -39282,7 +39166,6 @@ groovy hairband
 pan and plates
 extremely detailed rocky crag
 nature taking over
-style of ralph mcquarrie
 abandoned photograph
 large environment
 dusty ground
@@ -39309,7 +39192,6 @@ clean beautiful symmetrical face
 from nature journal
 tactical warfare
 looking at camera!!!
-style of james gurney
 very pretty model
 chinese dress
 advanced anime digital art
@@ -39564,7 +39446,6 @@ timothy dalton
 warforged
 shipfleet on the horizon
 be real
-style of john bauer
 unity 2d
 professional digital photo
 teal eyes
@@ -39768,7 +39649,6 @@ dog sleeping
 highly abstract
 many legs
 scratching post
-in style of james gilleard
 nightshot
 polished white marble
 artist maena
@@ -39986,7 +39866,6 @@ exposing screw
 sandwich
 curls hair
 stephen gamell
-makoto shinkai art style
 8 0mm film
 dark wallpaper
 warcraft blizzard weapon art
@@ -40014,7 +39893,6 @@ highy detailed face
 cover. photo : david roemer
 small spacecraft in background
 face and body features
-style of john harris
 silk screen
 soft evening lighting
 atmospheric establishing shot
@@ -41158,7 +41036,6 @@ rich aquarel
 habl telescope
 realistic maya
 pre-raphaelites
-armor style of giger
 wolf ears
 cat face
 mouse nose
@@ -41513,7 +41390,6 @@ moebious
 realistic features
 wallpaper hd
 light skin tone
-charlie bowater art style
 a portrait of the character
 wearing a white robe
 a potrait of a beautiful
@@ -41681,7 +41557,6 @@ colored manga panel
 wearing black dress
 lock
 anime shot
-style of arthur rackham
 anonymous
 strong fat bacchanalian body
 watched
@@ -41919,7 +41794,6 @@ art work
 vantablack cloak
 submerged temple scene
 half submerged in heavy sand
-in style of beksinski
 derpibooru
 the glowing throne
 slight grain
@@ -42151,7 +42025,6 @@ spiralling fractals
 amazing photo
 wearing mask
 jack the ripper
-style of rembrandt
 hearthstone art
 80s retro
 isolated on whites
@@ -42829,7 +42702,6 @@ in an abandoned theme park
 in a nebula
 city environment
 beautifully lit landscape
-in the art style of dan mumford
 brett amory
 wingspan style
 afshar
@@ -42847,7 +42719,6 @@ cosmic ambient
 pressed penny art
 high fashion magazine cover
 compassion
-painting in the style of renoir
 colour film street photography
 in gta san andreas
 extreme clutter
@@ -43193,7 +43064,6 @@ lost city of atlantis
 alternative reality mirrors
 cooling
 checking her cell phone
-in style of edward hopper
 smooth-chinned
 fully body shot
 red wings
@@ -43924,7 +43794,6 @@ beutiful girl cyborg
 disco party
 epic propaganda poster
 intricate detailed digital art
-style jean giraud
 clean and pristine design
 flux. fantasy
 lanterns on the porch
@@ -44171,7 +44040,6 @@ photoshop speedpaint
 gem-tones
 clear portrait of demi rose
 printmaking
-style of seb mckinnon
 colourful flowers bouquet
 eye level view
 enlightening
@@ -44514,7 +44382,6 @@ end of evangelion poster
 lightpainting
 xenomorph alien
 indsutrial steampunk
-in style of pixar
 engineers building a giant mecha
 subtitles
 ifa deity
@@ -44674,7 +44541,6 @@ futuristic tractors
 human body parts
 furry fluffy iridescent dragon
 bladerunner scene
-in style of fenghua zhong
 futuristic battlefield
 crowded square
 jr sc maglev
@@ -44880,7 +44746,6 @@ ominous gothic aesthetic
 black haute couture
 jugendstill
 ornate mask
-art style of junji ito
 caricaturist
 r 2d 2
 cannon mounted on back
@@ -45517,7 +45382,6 @@ shilling
 ultra detailed female android
 andrew thomas huang
 lost in a dreamy fairy landscape
-artstyle zdzisław beksinski
 thin long auburn hair
 under blue
 beautiful precise face and body
@@ -45700,7 +45564,6 @@ shady alleys
 palm trees in the background
 joyce ballantyne
 organic ink
-style of takato yamamoto
 unrealengine octane render
 detailed hair foggy
 strangely terrifying
@@ -45915,7 +45778,6 @@ rituals
 crying one single tear
 herds fighting
 mantis head god temple
-in the painting style of renoir
 1860
 brooklyn at night neon boards
 tool band
@@ -47354,7 +47216,6 @@ hanging in the louvre
 hand holding a knife
 ƒ5.6
 blueshift render
-style of banksy
 swings
 8k ultra detail
 military clothing
@@ -47645,7 +47506,6 @@ watercolor-wash
 rose garden
 an angel standing still
 interstellar galaxy
-style of gerald brom
 inside a modern apartment
 fractal arrows
 long flowing white hair
@@ -47777,7 +47637,6 @@ baroque wallpaper
 ideal composition
 wide angle 15mm lens
 pink headphones
-in style of alphonse mucha
 high contract
 dragging a pile of chains
 horror environment
@@ -48251,7 +48110,6 @@ chambliss giobbi
 lynn skordal
 barbara kruger
 jacques villegle
-in style of disney pixar
 digital visionary art
 smoke mist rain
 ohararyu
@@ -49063,7 +48921,6 @@ mausoleum
 exotic fey features
 leather jerkin
 beautiful cowboy witch
-style of hayao miyazaki
 no blur dof bokeh
 black long hair!
 astronaut standing looking
@@ -49072,7 +48929,6 @@ ted naysmith
 trending anime art
 pretty anime character design
 the bauhaus
-portrait in the style of craola
 beautiful elf with ornate robes
 elden ring cinematic lighting
 greek dark ritual myth
@@ -49386,7 +49242,6 @@ cart
 covered in crystals and glitter
 greek myth digital painting
 inside an enormous vast cave
-style of ivan aivazovsky
 cgsociety portrait
 contrast volumetric light
 flat-color
@@ -49516,9 +49371,7 @@ realistic hyper detailed
 mafia background hyper detailed
 criminal appearance
 crash bandicoot artstyle
-style of jakub rozalski
 cloisonne cat head sculpture
-the style of andy warhol
 roy lichtenstein and jackie tsai
 in a crown
 blurred space
@@ -50275,7 +50128,6 @@ fluffy body
 smooth gold skin
 thanks
 mines of moria
-in style of alan lee
 dynamic comparison
 identical
 guide
@@ -50484,8 +50336,6 @@ huge modern downtown city
 red square moscow
 hugh grant man vs wild
 very clear picture
-style of conrad roset
-style of karol bak
 human circulatory system
 human eyes!
 hd macro photographs
@@ -52203,7 +52053,6 @@ f11:10
 cinematography roger deakins
 2005 blog
 dslr camera img_4016
-in style of makoto shinkai
 american gods
 radial
 hd —h 1024
@@ -52487,7 +52336,6 @@ back to back
 carved from sapphire stone
 rtx ray tracing
 an intact ancient alien ship
-in style of anne stokes
 age of empires 2
 hollywood scene
 (anthropology of wonder)
@@ -52536,7 +52384,6 @@ platinum blonde hair
 annasophia robb as aphrodite
 in dark night
 annie leonhart in a neon city
-in style of albert bierstadt
 chakra diagram
 sakura blooming on background
 vinyl toy figurine
@@ -52989,7 +52836,6 @@ elon musk as iron man
 super realistic photo
 nvidia omniverse
 elon musk on mars
-in style of giger
 elton john lennon
 anomalisa
 bubbles vfx
@@ -53980,7 +53826,6 @@ high colors compression
 weird space
 béla tarr
 windows xp bliss wallpaper
-style of monet
 in court
 laundry hanging
 gondolas
@@ -54112,7 +53957,6 @@ night!
 birds in the sunlight
 tall golden heavenly gates
 evil eye
-in style of anna dittmann
 stairs and arches
 exceptional
 sigma 5 5
@@ -54210,7 +54054,6 @@ gorgeous detailed face
 vibrent red lipstick
 amazing blend effect
 speakeasy bar background
-style of george bellows
 illuminated glowing lines
 dark brown hair and tan skin
 powerful painting
@@ -54380,7 +54223,6 @@ warm muted colors
 giant athanor
 beakers full of liquid
 octane ray tracing
-neon version of style jim burns
 zippers
 ralph mcquarrie. centered image
 ringworld
@@ -54422,7 +54264,6 @@ water park
 new cats movie
 shiny glitter crystals
 cyril rolando and goro fujita
-style of geof darrow
 insanely cute
 similar to pokemon
 wearing a hawaiian dress
@@ -54559,7 +54400,6 @@ macro close up
 pools of water
 viewed from the harbor
 duck shoes
-style of chris foss
 very expressive face
 plants in glasses
 cracked japanese pottery vase
@@ -54717,7 +54557,6 @@ rosy cheeks with freckles
 ice age
 vaporwave cartoon
 ((tatsuro yamashita))
-style of andy warhol
 with fractal sunlight
 photographed on colour film
 setting is bliss wallpaper
@@ -54830,7 +54669,6 @@ metallic sculpture
 paradoxal
 1 5mm lens
 nostalgic memory
-style of rene magritte
 is relaxing on a beach
 faded color
 dramatic action atmosphere
@@ -55045,8 +54883,6 @@ industrialization
 tall columns
 extremely beautiful face
 molten
-style of frank miller
-style of simon bisley
 british street background
 dressed in a worn
 suburban garden
@@ -55444,7 +55280,6 @@ abstract minimalist line art
 abstract minimalism art painting
 coloured marker
 basquiat style
-in style of katsuya terada
 absurdly long blonde hair
 & the eyes & mouth are closed
 posing together in bra
@@ -55758,7 +55593,6 @@ delete duplicating content
 angry man
 light sorcerer
 turntables
-style of stephen bliss
 intricate details photograph
 wearing a leather trench coat
 animatronic mark zuckerberg
@@ -56455,7 +56289,6 @@ animal-shaped cake
 realistic restored face
 insanity :7
 silhouette :7
-style of takashi murakami
 camp half-blood
 alcohol ink painting
 jet fighters
@@ -57095,7 +56928,6 @@ family crest
 devotion to the scarlet woman
 jony ives
 classic product design
-style of raymond swanland
 diabolus in musica
 dices from color glass
 dieselpunk soldier girl
@@ -57351,7 +57183,6 @@ unique and intricate painting
 goldilocks
 colourful movie art
 the planet is warm with canyons
-in style of ren hang
 non human
 spotlight lighting
 soft aesthetic
@@ -57492,7 +57323,6 @@ she is arriving heaven
 backdrop
 peter guthrie
 fire breathing dragon
-style of albert bierstadt
 fireflies flying in the forest
 peaceful scene
 shot composition
@@ -57879,7 +57709,6 @@ intricate wiccan spectrum
 contourless
 adam lee and walt disney
 tomato splatter
-style of ashley wood
 highly detailed character sheet
 tartan cloak
 background atmospheric effects
@@ -58394,7 +58223,6 @@ animal skins
 small wide smile
 mandel eyes
 small plump lips
-rembrandt art style
 sofisticated
 mike tomlin as doctor who
 with plasma guns
@@ -58608,7 +58436,6 @@ mild colors
 peasant boy and girl first kiss
 fighting fantasy style image
 female photography
-style of michaelangelo
 perfect hand
 hollister ranch
 offshore winds
@@ -59362,7 +59189,6 @@ ukrainian girl
 dia de los muertos!!
 uppercase letter
 ultra precise
-boris vallejo artstyle
 fantasy italy
 uma thurman in kill bill
 unborn soul
@@ -59450,7 +59276,6 @@ you won't believe it
 christoph wohlgemuth
 white and gold priestess robes
 full cybernetic combat suit
-in style of luis royo
 she wears leather jacket
 low angle facing sky
 young woman with antlers
@@ -60276,7 +60101,6 @@ theophanic atmospheric vivarium
 redwoods
 high resolution print :1 red
 pink mohawk
-in the style of clint cearley
 takada akemi
 velly distant forest
 long shot wide shot full shot
@@ -60372,7 +60196,6 @@ macro image!!!!!
 in a pitch black room
 chris van allsburg
 arian
-style of boris vallejo
 distant forest
 rainy afternoon
 mid-day
@@ -60477,7 +60300,6 @@ beautiful long white hair
 hiroyuki-mitsume takahashi
 goto fujita
 奈良美智
-pixar cartoon style
 subject: dog
 bright glowing eyes as leds
 alternate dimension
@@ -61099,7 +60921,6 @@ childhood
 childish gambino
 chinese president with bananas
 chinese woman
-style of alex grey
 set photograph in costume
 official trailer
 beautiful realistic painting
@@ -61209,7 +61030,6 @@ mongol
 cute cyborg girl
 sam nassour
 cute young woman
-in style of kentaro miura
 very beautiful portrait
 giant aztec space city
 fallout 76
@@ -61903,7 +61723,6 @@ kanye west as the joker
 russian flag
 nascar
 comic book style art
-style of masamune shirow
 karl urban as wolverine
 chairman mao
 arsen lupin as a paladin
@@ -62567,7 +62386,6 @@ blacklight poster
 terminal
 flowing lava and ash piles
 many windows
-in style of wlop
 ukiyo-e art
 ren xun and maruyama ōkyo
 buddhist art
@@ -62782,7 +62600,6 @@ wide image
 lászló szabados
 wide shot of a spaceship battle
 overlooking river aufidius italy
-in the style jordan grimmer
 will smith portrait
 sequins
 met gala
@@ -62895,7 +62712,6 @@ mini cooper s
 apothecary
 deception
 ponytail black hair
-style of tim hildebrandt
 4 0 9 6
 aboriginal engraving
 melting cheese
@@ -63019,7 +62835,6 @@ shiny reflective surfaces
 pavements
 7 0mm photo
 concept art 4 k
-victo ngai cyberpunk style
 happy expressions
 warm color clothes
 gigantic sun
@@ -63258,7 +63073,6 @@ high polygon
 color grade
 olbivion
 detailed spaceship
-in style of tom bagshaw
 vicious snapping alligator plant
 maya bee
 wearing pearl earrings
@@ -63272,7 +63086,6 @@ wide irises
 looking intensely at the camera
 1 9 9 0 s anime
 the cat is smiling
-pixar movie style
 engineering drawing
 don
 very early film stock
@@ -63769,7 +63582,6 @@ fountain in the middle
 plant patterns
 super sharp image
 standing upright like people
-style of beatrix potter
 colorful geometric pattern
 stacked image
 8k ultra realistic creature
@@ -64158,7 +63970,6 @@ ashtray
 red hot
 blue bonsai
 clean white paper background
-style of gilles beloeil
 award winning photographer
 california roll
 smooth 3d cg render
@@ -64225,7 +64036,6 @@ postmodernism style
 perfecly detailed
 188216907
 3945074687
-in style of leonardo da vinci
 quick witted
 standing in a restaurant
 with dark brown bangs
@@ -64627,8 +64437,6 @@ liberation
 dramatic everything
 trendind everywhere
 colorful patterns
-in style of salvador dali
-in style of sandro botticelli
 abstract art representing data
 delunay
 photosynthesis
@@ -65615,7 +65423,6 @@ long white hair and bangs
 heart-shaped face
 cake in hand
 black gold color scheme
-the style of andreas rocha
 beautiful isometric garden
 trees and plants
 pastel color gradients
@@ -67495,7 +67302,6 @@ ice needles
 skull paint
 attractive neck
 lisbon city at night
-art in the style of paula rego
 whip in hand
 the hobbit orc concept
 ferrari f4 0
@@ -68402,7 +68208,6 @@ dutch golden age painting
 red paint strip across eyes
 deer skull face
 acids
-style of jean delville
 incredible hd detail
 celebration of coffee products
 faces of too much caffeine
@@ -69425,7 +69230,6 @@ riot background
 chalk texture on canvas
 glowing lights in armor
 alvin schwartz
-artstyle of michelangelo
 facemask
 magical colorful flowers
 outher worldly colours
@@ -69670,7 +69474,6 @@ with accurate features
 prelude to the esoteric
 framed 4 k
 third trimester
-drawn in the style of artgerm
 pretty girl standing in the rain
 pretty girl with blue hair
 dirty red wavy hair
@@ -70134,7 +69937,6 @@ crayon and cut up
 punk fanzine 1 9 6 7
 surreal beautiful young woman
 curled silver hair
-in the style dora maar
 surreal gediminas pranckevicius
 dj mixer
 controller deck
@@ -70638,7 +70440,6 @@ with shiny skin
 tilt shift”
 photoreal”
 grass and weeds
-style of edward gorey”
 pig pig pig
 central station in sydney
 blood drop
@@ -70671,7 +70472,6 @@ hype
 real trending on instagram image
 chartres cathedral
 new york zoo in the background
-in style of marcel duchamp
 ! dream artgerm
 leonardo da vinci and raphael
 educational supplies
@@ -71451,7 +71251,6 @@ light fixtures
 against a stormy sky
 cowboy bebop anime style
 pallet
-epic. in style of greg rutkowski
 cal-arts
 a beautiful buddhist mandala
 ultra real 8k photography
@@ -72000,7 +71799,6 @@ blue and orange lighting
 wide overhead shot
 visible smoke
 competition winning
-george ault painting style
 a snowy day in the forest
 cinematic post-processing
 a sorcerer casting a fireball
@@ -72467,7 +72265,6 @@ barren wasteland
 iso 64
 aperture f/9
 realistic fantasy painting
-james gurney painting style
 god rays pass through the window
 basketball ball
 -n4
@@ -72764,7 +72561,6 @@ korean writing
 city of pristine colors
 torri gate
 high rises
-style of alex ross
 swampy
 clara oswald
 flower pots
@@ -73070,7 +72866,6 @@ cinematic trailer
 moonrays
 garden setting
 robot barkeep
-style of leonid afremov
 valorant style
 halo effect
 dota 2 screenshot
@@ -73206,7 +73001,6 @@ soft contrast
 people drinking beer
 enso
 entering the mind maze
-in the style of ross tran
 futuristic cybernetic helmet
 mucha and artem demura
 blurred backround
@@ -73877,7 +73671,6 @@ artstyleunknown
 inside large window of ship
 spacesuit with small led lights
 gamma
-in style of cecil beaton
 meet the actor behind the scenes
 lake scene
 korean woman
@@ -74311,7 +74104,6 @@ messy spiked red hair
 heat ripples
 engineered
 photorealistic homer simpson
-style of claude monet
 red tank top and wide blue pants
 1600 south azusa avenue
 city of industry
@@ -74779,7 +74571,6 @@ someone is screaming
 cute skeleton
 spells practice
 high quality digital
-zack snyder cinematography style
 carefree
 very deep
 dark purple glowing background
@@ -74825,7 +74616,6 @@ terraforming jezero crater
 obsidian towers in the distance
 teruel city in 1989
 pixar movie screenshot
-thancred waters in style of wlop
 endwalker cinematic
 final fantasy fan art
 thanos as a starbucks barista
@@ -74842,7 +74632,6 @@ the dark lord sauron
 the dark souls knight
 the death
 the designer of the universe
-style of leonora carrington
 author unknown
 the father of sorrow and revenge
 the fire queen
@@ -75049,7 +74838,6 @@ vp of marketing
 vw microbus driving
 vader as captain america
 valle dei templi
-style of vincent van gogh
 presidential cross
 melancholy lighting
 laughing out loud
@@ -75235,7 +75023,6 @@ modeled
 it is very detailed
 tank has a large solid cannon
 smooth shine texture
-in style of hr giger
 vivid bright colors
 bmw
 reflections. shady
@@ -75279,7 +75066,6 @@ bokeh dof sky
 her face is coated in a white
 michel-ange 8k
 demon cat
-style of kentaro miura!!!!
 cold place
 spirits in the dark
 real atmosphere
@@ -75379,7 +75165,6 @@ made of tree and fantasy valley
 innocent mood
 girl wears a red dress
 wrapped in flowers
-style of bernie wrightson
 full body shot!!
 ultra realist soft painting
 zeiss 50mm f10
@@ -75496,7 +75281,6 @@ disorder
 koala
 in night
 sitting on the ground
-style of john atkinson grimshaw
 highly detailed close up
 i mean
 alien buildings
@@ -75834,7 +75618,6 @@ nebula waterfalls
 using leather armour with bones
 in the 2 0 2 1 movie dune
 looking through frosted glass
-in the style of hr giger
 power plants with smoke
 one blimp in the distance
 graveyard landscape
@@ -77055,7 +76838,6 @@ vampire bats
 photorealistic matte painting
 levitating citadel
 lush countryside
-in style of hieronymus bosch
 relaxed. blue background
 marianne collins
 matte drawing. masterpiece
@@ -77071,7 +76853,6 @@ near a small lake
 thinker
 jester hat
 edward hopper vibe
-in style of francis bacon
 yellow and black grapes
 walnuts
 ultra detailed content : face
@@ -77085,7 +76866,6 @@ rammstein
 gorillaz and daft punk records
 from then on a basketball
 an the first xbox
-style of luis royo
 in long pink or violet dresses
 with golden eyes
 shunga style
@@ -78012,7 +77792,6 @@ alien army
 visible from afar!!
 next gen rendering
 4k fashion shoot
-artstyle zdzisław beksiński
 submerged on titan
 alien frog
 alien girl
@@ -78255,7 +78034,6 @@ overgrown with huge ferns
 berries inside structure
 surgery theatre
 blood spatter
-style of chippy
 pterosaurs flying
 an epic anime of a energy man
 extremely detailed brush
@@ -78484,7 +78262,6 @@ angelheaded hipsters
 halo of fire
 body of pure fire
 descending from the heavens
-style of daniel merriam
 super wide angel
 thick thick thick outlines
 angelic purity
@@ -79004,7 +78781,6 @@ martian
 huge bulbous pitch black eyes
 epic wrestling combat
 smoking soldering iron
-style of kieran yanner
 eva unit 0 1
 ball jointed doll
 ballerina dance in smoke
@@ -79166,7 +78942,6 @@ in a medieval tavern at night
 summer street
 mountain sunrise
 intricate arcane wiccan designs
-preraphaelite style
 city lighting
 cybernetic limbs
 field of marijuana
@@ -79683,7 +79458,6 @@ dragon flying in sky
 soldiers running
 bloons td 6 dart monkey
 blossoming rhythm
-style of asher brown durand
 blue wolf
 blue brain
 beady black eyes
@@ -80495,7 +80269,6 @@ small path up to door
 fog and dust
 meadow background
 golondrinas
-style of picasso
 neon sparkles everywhere
 cozy studio photography
 excrement
@@ -81017,7 +80790,6 @@ telegram sticker
 phation
 cute woman
 home display
-in style of norman rockwell
 biomechanical xray
 tintoy characterdesign robot
 with sprouting rainbow hair
@@ -81025,7 +80797,6 @@ cyan chinese dragon fantasy
 vibrant hair
 energy aura
 cyber monkey in the scifi forest
-in style james jean
 detailed bushido form smoke
 cyber penguin in fallout 4
 glowing blue veins
@@ -81305,7 +81076,6 @@ on vellum
 women full body
 intelligent man
 soft silk dress
-style of pino daeni
 on yellow paper
 street lights water refraction
 burning red desert horizon
@@ -82350,7 +82120,6 @@ delivering parsel box
 in forcasted sky
 high detail!!! 8k
 foggy jungle
-style of thomas kinkade
 food styling
 1976 poster
 intircate
@@ -82623,7 +82392,6 @@ colored neons
 tiny wires on the ground. narrow
 howrah bridge
 streets of calcutta
-style of style of robert mccall
 futuristic dystopian endless
 futuristic female beekeeper
 wide angle. rudolf herczog
@@ -82955,7 +82723,6 @@ gordon freeman as a woman
 spit flying from mouth
 gordon ramsey
 gorgeous chinese model
-style of peter doig
 gorgeous female alison brie
 gorgeous female audrey hepburn
 1930s style clothing
@@ -83229,7 +82996,6 @@ hell hurricance
 movie star
 hell scape
 hell storm
-artstyle zdzisaw beksinski
 cyberpunk demonic symbols
 fairy dust in the air
 i'm dad
@@ -83298,7 +83064,6 @@ poofy manes of fur
 sentinel
 lapel
 pinnable
-loish art style
 artgerm and rossdraws
 olive tree
 sci-fi mech
@@ -83618,7 +83383,6 @@ macro shot lens flare
 beautiful animal pearl queen
 one million lave rivers
 scene from church
-kentaro miura manga style
 your personal data avatar
 octane render unreal engine 8k
 brad kunkle elson peter
@@ -83746,7 +83510,6 @@ loish and ross tran
 colorful art nouveau
 eyes still visible
 beautiful caitriona balfe
-in the styles of thomas eakins
 vienna
 in this church interior
 yellowing wallpaper
@@ -83912,7 +83675,6 @@ eeire
 realistic 3d model
 inked digital
 game resources
-in style of charles williams
 isometric viewpoint
 left right front back
 gambrel roof building
@@ -84287,7 +84049,6 @@ in style of neodada
 bourgeoise
 walking boy
 sweaty. steam in air
-style of santiago caruso
 wet drapery
 gorgeous elegant attractive
 #conceptart
@@ -84688,7 +84449,6 @@ molly from neuromancer
 mona lisa as a goth girl
 stress
 retro 5 0 s style
-peter mohrbacher artstyle
 1 9 8 0's scifi
 dark and dramatic atmosphere
 highly detailed!!!!!!!
@@ -85596,7 +85356,6 @@ portrait of a pink gang
 portrait of a priestess
 punk rock clothes
 rockabilly hair
-in style of lisa frank
 portrait of a rat mad scientist
 portrait of a rugged young man
 intricant details
@@ -85765,7 +85524,6 @@ single bangla farmer fighting
 portrait of henry cavill
 orange hair bow
 portrait of hildegard von bingen
-style of dante gabriel rossetti
 pale thin lips
 divine ray over her head
 blue feathers
@@ -86717,7 +86475,6 @@ laying back on a pillow
 prima ballerina in rose garden
 cute korean actress
 water swirling
-style of hubert robert
 black lagoon manga
 stylish shoe design
 stylized cyberpunk minotaur logo
@@ -87389,7 +87146,6 @@ lying on field
 face-up
 white mouse technomage
 white wolf with blue eyes
-whiterun in the style of pixar
 covered!! hair
 shades of gold display naturally
 whimsical tone
@@ -88714,7 +88470,6 @@ octane rende
 : kanye west wearing vr goggles
 ; visual novel
 grey metal body
-style of h.r. giger
 wielding a longsword
 <hd
 roguelike style
@@ -89375,7 +89130,6 @@ a hyper realistic
 digital mixed media painting
 heroic scene
 in crimson red
-in style of cyril rolando
 superman pose
 still from the matrix
 naïve art
@@ -89586,7 +89340,6 @@ guild commission
 al fresco
 big guns
 a pirate
-style of eiichiro oda
 octane trending on cgsociety
 a planet of endless suffering
 dystopian digital art
@@ -89621,7 +89374,6 @@ sigma 85mm f/14
 dual wielding two magical swords
 a portrait of a girl
 symetrical face structure
-wlop painting style
 long magenta haire
 anorexic figure
 a portrait of a man
@@ -89759,7 +89511,6 @@ with a bunch of stuff
 wearing a vr-headset
 tsukasa dokite
 70 years old
-style steve mccurry
 moment frozen in time
 micronauts
 new gods
@@ -89923,7 +89674,6 @@ adam driver as master chief
 movie poster promo
 renaissance lighting
 style alex gray
-style dan hillier
 style of dc comics
 adam and eve inside the brain
 small clocks as leaves
@@ -89942,7 +89692,6 @@ tiny ornate windows
 brightly colored buildings
 sparse bare trees
 aerial view of moscow kremlin
-style of maciej kuciara
 african american
 african cyberpunk wizards
 african elephants in the jungle
@@ -90067,7 +89816,6 @@ an alien robot naughty nurse
 good smile company fantasy
 ancient era
 hiro
-pixar cars movie style
 the cars have faces
 kids movie
 an ice volcano
@@ -92749,7 +92497,6 @@ adventuring
 launch of a rocket
 berkey
 blonde flowing hair
-art style of john blanche
 led zeppelin
 lee kuan yew
 lego city
@@ -93057,7 +92804,6 @@ mirai nikki
 posing with a sword
 mirror world
 outside the simulation
-style of hieronymus bosch
 gas lanterns
 misty ghost town
 mizutsune
@@ -93330,7 +93076,6 @@ warehouses
 steampunk motorcycle
 full of skyscrappers
 papa john eating 50 pizzas a day
-style of john howe
 paradise city
 drought
 parents watching
@@ -93914,7 +93659,6 @@ sza
 vintage halloween postcard
 sachiko miyazaki
 kris kuksi
-tsubasa nakai's style
 sad man puts on a bear mask
 sad vampire
 sad woman smoking a gigarette
@@ -94242,7 +93986,6 @@ store
 super saiyan blue
 shenron
 super saiyan donald trump
-in style of junji ito
 super car
 superflat pop
 sharp black eyebrows
@@ -94753,7 +94496,6 @@ demonic magic ritual
 vhs footage of a movie set
 crunch time on uranus
 1970 poster
-in style of zdzisław beksiński
 melancholic!! liminal space
 fighters
 mages
@@ -94912,7 +94654,6 @@ winged victory of samothrace
 battle-worn
 reconstruction
 real lighting
-in style of francisco goya
 shadowverse style
 3d realistic materials
 wearing sweatshirt
@@ -94922,7 +94663,6 @@ wolf in hell
 wolfgang novogratz
 brad kunkle detailed
 woman vampire
-style edward hopper
 beautiful dappled lighting
 inspirational artwork
 vividly enhanced
@@ -95212,7 +94952,6 @@ rossdraws 2. 5
 color dnd illustration
 water covers everything
 peter sculthorpe
-style of anders zorn
 with symbolic elements
 greek elements
 blimp
@@ -95646,7 +95385,6 @@ surrealism
 fish are glowing in the ocean
 chinese village
 bubblegum crisis
-the style of syd mead
 lost look
 destroyed city on fire
 broken wires
@@ -97241,7 +96979,6 @@ natural skin tones
 harsh sun light
 trail of blood follows behind it
 toxic glowing smog in the sky
-style of jean baptiste monge
 wooden jagannath face
 paint on black velvet canvas
 moody neutral hipster tones
@@ -97489,7 +97226,6 @@ mind blown
 devastated
 man engine
 man and machine
-style of maurice sendak
 wearing a dark shirt and jeans
 chilling 4 k
 dark fog surrounds him
@@ -97696,7 +97432,6 @@ holding up a night lamp
 mycology
 influencers
 ethnic origin
-persona 5 art style wlop
 persona 5 art style
 3d octane
 armstrong rolf
@@ -97744,7 +97479,6 @@ with yellow flowers around it
 1787
 flying castle
 crumbling ruins
-in the iconic style of moebius
 in a wild mushroom fountain
 smoothed
 glitter dress
@@ -97767,7 +97501,6 @@ with broccoli hair
 un made bed
 magazines
 intricate environment
-style of john blanche
 swirly ripples
 anime keyframe
 smiling in heaven
@@ -97932,7 +97665,6 @@ huge pink hair
 gigantic tight pink ringlets
 extremely beautiful and ethereal
 sony a 7 iii
-done in the style of caravaggio
 flirtatious and intrigued
 warmer and softer colours
 lighter brown hair
@@ -98042,7 +97774,6 @@ ghost in the shell geisha robot
 cats sleeping
 sitting in a cafe alone
 black swimsuit
-in style of caravaggio
 sitting relax and happy
 nose of red skull
 there are birds on her head
@@ -98146,7 +97877,6 @@ his hair is messy and wild
 breed corgi and doodle mix
 vibrant realistic
 death and dying
-in the style if greg rutkowski
 greg rutkowski. sharp focus
 trending on cnn
 well defined jawline
@@ -98243,7 +97973,6 @@ racoon
 abstract illustration
 bridge over the water
 in the shape of a ent
-pixar art style
 pantone color
 unreal engine 9
 beautiful sculpted details
@@ -98306,7 +98035,6 @@ wearing a crown and green cape
 during a hail storm
 backstreet boys
 1 9 4 7
-pre-raphaelites style
 cga graphics scheme
 mistic
 monsoon
@@ -98414,7 +98142,6 @@ huge success
 checkered motiffs
 playing with a fox
 birds of paradise
-style of ilya kushinov
 beautiful setting
 looking hot
 forcing him to flee
@@ -98717,7 +98444,6 @@ orange balaclava
 playing tennis
 stanger things
 amazon jungle
-style of virgil finlay
 loose watercolor drawing
 mecha font
 charles vess and thomas kinkade
@@ -99053,9 +98779,6 @@ absence makes heart grow fonder
 sea line
 redering
 paradise in the background
-in style of paul gauguin
-in style of andy warhol
-in style of jackson pollock
 in style of niko pirosmani
 oil on canvas on geometric rock
 tessellating patterns
@@ -99099,8 +98822,6 @@ infested with pitch green
 grass-like
 deep red roots
 6 0 s anime art
-in style of henri rousseau
-in style of rene magritte
 bold lighthouse in horizon
 weave
 gourd
@@ -99363,7 +99084,6 @@ president donald trump
 informative guide
 alien forest
 patchwork-streak style
-style of jim burns
 people didn't notice
 dark blue atmosphere
 rpg background
@@ -99388,8 +99108,6 @@ epic mood
 patches of green fields
 in a frame
 colored paper collage
-style of alena aenami
-style of kelly freas
 research center
 glass obelisks!!
 large scale scene
@@ -99508,7 +99226,6 @@ discord profile picture
 twitch emote
 spiderweb landscape
 some pink
-in the styles of joan miro
 akane owari danganronpa
 athletic fashion photography
 sparring
@@ -99620,7 +99337,6 @@ john berkey and norman rockwell
 halftone effect
 highly detailed and complex
 renaissance themed
-in style of van gogh
 venice biennale
 hugo boss prize
 blue parka
@@ -99850,7 +99566,6 @@ big brain
 the sea and storms behind him
 slav epic
 an intricate art nouveau frame
-christopher nolan film style
 tribe huts in the jungle
 dystopian sci-fi
 distant twinkling stars
@@ -100031,7 +99746,6 @@ sacred perfect lighting
 ancient chinese architecture
 ancient chinese beauties
 ancient city landscape
-art style of marc simonetti
 volcano fog
 glowing green lights
 caravan
@@ -100247,7 +99961,6 @@ deep black robe
 drawn in ballpoint pen
 neon tokyo
 cinematic cgsociety
-satoshi kon artstyle
 edge detection
 small necklace
 anime girl walking on water
