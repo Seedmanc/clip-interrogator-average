@@ -449,7 +449,6 @@ Arthur Rackham
 Arthur Sarkissian
 Arthur Streeton
 Arthur Webster Emerson
-artist
 Artur Grottger
 Artur Tarnowski
 Arturo Rivera
@@ -1033,7 +1032,7 @@ David Park
 David Paton
 David Ramsay Hay
 David Roberts
-david rubín
+David rubín
 David Simpson
 David Small
 David Teniers III
@@ -1063,7 +1062,7 @@ Derek Chittock
 Derek Gores
 Derek Hill
 Derek Jarman
-derek zabrocki
+Derek zabrocki
 Derf
 Derold Page
 Desmond Morris
@@ -1092,7 +1091,6 @@ Dirck van Delen
 Dirck van der Lisse
 Dirk Crabeth
 Dirk Helmbreker
-disney
 Ditlev Blunck
 Dmitry Levitzky
 Doc Hammer
@@ -1456,7 +1454,7 @@ Feng Zhu
 Fenghua Zhong
 Ferdinand Bol
 Ferdinand Hodler
-ferdinand knab
+Ferdinand knab
 Ferdynand Ruszczyc
 Ferenc Joachim
 Fern Coppedge
@@ -3679,7 +3677,6 @@ Nathan Oliveira
 Nathan Wyburn
 Nathaniel Hone
 Nathaniel Pousette-Dart
-national geographic
 Naza
 Nazmi Ziya Güran
 Ndoc Martini
@@ -4427,9 +4424,6 @@ Sebastian Spreng
 Sebastian Vrancx
 Sebastiano Ricci
 Sengai
-senior artist
-senior character artist
-senior environment artist
 Serafino De Tivoli
 Serge Poliakoff
 Serge Sudeikin
