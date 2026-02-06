@@ -2,7 +2,6 @@
 .cog/
 .vscode/
 bench/
-cache/
 ci_env/
 clip-interrogator/
 clip_interrogator.egg-info/

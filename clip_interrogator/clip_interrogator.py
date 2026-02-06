@@ -45,7 +45,7 @@ class Config:
     clip_offload: bool = False
 
     # interrogator settings
-    cache_path: str = 'cache'   # path to store cached text embeddings
+    cache_path: str = 'clip-interrogator-average/cache'   # path to store cached text embeddings
     download_cache: bool = False # when true, cached embeds are downloaded from huggingface
     chunk_size: int = 2048      # batch size for CLIP, use smaller for lower VRAM
     data_path: str = os.path.join(os.path.dirname(__file__), 'data')
@@ -380,6 +380,7 @@ class LabelTable():
 
     def _load_cached(self, desc:str, hash:str, sanitized_name:str) -> bool:
         if self.config.cache_path is None or desc is None:
+            print('no cached')
             return False
 
         cached_safetensors = os.path.join(self.config.cache_path, f"{sanitized_name}_{desc}.safetensors")
