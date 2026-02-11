@@ -191,7 +191,7 @@ class Interrogator():
 
     def generate_caption(self, pil_images: list[Image]) -> list[str]:
         if self.caption_model is None:
-            return ''
+            return []
         assert self.caption_model is not None, "No caption model loaded."
         self._prepare_caption()
         inputs = self.caption_processor(images=pil_images, return_tensors="pt").to(self.device)
