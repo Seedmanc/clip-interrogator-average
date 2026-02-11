@@ -52,6 +52,7 @@ class Config:
     device: str = ("mps" if torch.backends.mps.is_available() else "cuda" if torch.cuda.is_available() else "cpu")
     flavor_intermediate_count: int = 2048
     quiet: bool = False # when quiet progress bars are not shown
+    force_cached = False #use cached dictionaries even if hash doesn't match
 
     def apply_low_vram_defaults(self):
         self.caption_model_name = 'blip-base'
@@ -126,8 +127,8 @@ class Interrogator():
         trending_list.extend([site+" contest winner" for site in sites])
 
         raw_artists = load_list(config.data_path, 'artists.txt')
-        artists = [f"by {a}" for a in raw_artists]
-        artists.extend([f"inspired by {a}" for a in raw_artists])
+        artists = [f"by {a.lower()}" for a in raw_artists]
+        artists.extend([f"inspired by {a.lower()}" for a in raw_artists])
 
         self._prepare_clip()
         self.artists = LabelTable(artists, "artists", self)
@@ -357,9 +358,9 @@ class LabelTable():
 
         hash = hashlib.sha256(",".join(labels).encode()).hexdigest()
         sanitized_name = self.config.clip_model_name.replace('/', '_').replace('@', '_')
-        self._load_cached(desc, hash, sanitized_name)
+        self._load_cached(desc, hash, sanitized_name, ci.config.force_cached)
 
-        if len(self.labels) != len(self.embeds):
+        if len(self.labels) != len(self.embeds) and not ci.config.force_cached:
             self.embeds = []
             chunks = np.array_split(self.labels, max(1, len(self.labels)/config.chunk_size))
             for chunk in tqdm(chunks, desc=f"Preprocessing {desc}" if desc else None, disable=self.config.quiet):
@@ -383,7 +384,7 @@ class LabelTable():
         if self.device == 'cpu' or self.device == torch.device('cpu'):
             self.embeds = [e.astype(np.float32) for e in self.embeds]
 
-    def _load_cached(self, desc:str, hash:str, sanitized_name:str) -> bool:
+    def _load_cached(self, desc:str, hash:str, sanitized_name:str, force_cached) -> bool:
         if self.config.cache_path is None or desc is None:
             return False
 
@@ -407,7 +408,7 @@ class LabelTable():
                 print(e)
                 return False
             if 'hash' in tensors and 'embeds' in tensors:
-                if np.array_equal(tensors['hash'], np.array([ord(c) for c in hash], dtype=np.int8)):
+                if force_cached or np.array_equal(tensors['hash'], np.array([ord(c) for c in hash], dtype=np.int8)):
                     self.embeds = tensors['embeds']
                     if len(self.embeds.shape) == 2:
                         self.embeds = [self.embeds[i] for i in range(self.embeds.shape[0])]
