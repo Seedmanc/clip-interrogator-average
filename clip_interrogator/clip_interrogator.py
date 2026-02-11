@@ -191,13 +191,15 @@ class Interrogator():
 
     def generate_caption(self, pil_images: list[Image]) -> list[str]:
         if self.caption_model is None:
-            return ['','','']
+            return ['','']
         self._prepare_caption()
         inputs = self.caption_processor(images=pil_images, return_tensors="pt").to(self.device)
         if not self.config.caption_model_name.startswith('git-'):
             inputs = inputs.to(self.dtype)
         tokens = self.caption_model.generate(**inputs, max_new_tokens=self.config.caption_max_length)
         results = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)
+        if len(results) < 2:
+            results += ['']
         return results
 
     def image_to_features(self, imgs: list[Image]) -> torch.Tensor:
