@@ -345,7 +345,7 @@ class Interrogator():
 
 
 class LabelTable():
-    def __init__(self, labels:List[str], desc:str, ci: Interrogator, force_cached):
+    def __init__(self, labels:List[str], desc:str, ci: Interrogator, force_cached=False):
         clip_model, config = ci.clip_model, ci.config
         self.chunk_size = config.chunk_size
         self.config = config
