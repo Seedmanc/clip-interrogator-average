@@ -23,9 +23,6 @@ CAPTION_MODELS = {
     'git-large-coco': 'microsoft/git-large-coco',           # 1.58GB
 }
 
-CACHE_URL_BASE = ''# 'https://huggingface.co/pharmapsychotic/ci-preprocess/resolve/main/'
-
-
 @dataclass
 class Config:
     # models can optionally be passed in directly
@@ -131,8 +128,8 @@ class Interrogator():
         artists.extend([f"inspired by {a.lower()}" for a in raw_artists])
 
         self._prepare_clip()
-        self.artists = LabelTable(artists, "artists", self)
-        self.flavors = LabelTable(load_list(config.data_path, 'flavors.txt'), "flavors", self)
+        self.artists = LabelTable(artists, "artists", self, self.config.force_cached)
+        self.flavors = LabelTable(load_list(config.data_path, 'flavors.txt'), "flavors", self, self.config.force_cached)
         self.mediums = LabelTable(load_list(config.data_path, 'mediums.txt'), "mediums", self)
         self.movements = LabelTable(load_list(config.data_path, 'movements.txt'), "movements", self)
         self.trendings = LabelTable(trending_list, "trendings", self)
@@ -231,7 +228,7 @@ class Interrogator():
         else:
             prompt = f"{caption}, {medium} {artist}, {trending}, {movement}, {flaves}"
 
-        return _truncate_to_fit(prompt, self.tokenize)
+        return _truncate_to_fit(prompt, self.tokenize) if self.caption_model is not None else prompt
 
     def interrogate_fast(self, images: list[Image], max_flavors: int=32, caption: Optional[str]=None) -> str:
         """Fast mode simply adds the top ranked terms after a caption. It generally results in
@@ -242,7 +239,8 @@ class Interrogator():
         caption = self.rank_top(image_features, captions)
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors)
-        return _truncate_to_fit(caption + ",  " + ", ".join(tops), self.tokenize)
+        result = caption + ", " + ", ".join(tops)
+        return _truncate_to_fit(result, self.tokenize) if self.caption_model is not None else result
 
     def interrogate_orthogonal(self, images: list[Image], max_flavors: int = 32) -> str:
         #doesn't work much...
@@ -347,7 +345,7 @@ class Interrogator():
 
 
 class LabelTable():
-    def __init__(self, labels:List[str], desc:str, ci: Interrogator):
+    def __init__(self, labels:List[str], desc:str, ci: Interrogator, force_cached):
         clip_model, config = ci.clip_model, ci.config
         self.chunk_size = config.chunk_size
         self.config = config
@@ -358,9 +356,9 @@ class LabelTable():
 
         hash = hashlib.sha256(",".join(labels).encode()).hexdigest()
         sanitized_name = self.config.clip_model_name.replace('/', '_').replace('@', '_')
-        self._load_cached(desc, hash, sanitized_name, ci.config.force_cached)
+        self._load_cached(desc, hash, sanitized_name, force_cached)
 
-        if len(self.labels) != len(self.embeds) and not ci.config.force_cached:
+        if len(self.labels) != len(self.embeds) and not force_cached:
             self.embeds = []
             chunks = np.array_split(self.labels, max(1, len(self.labels)/config.chunk_size))
             for chunk in tqdm(chunks, desc=f"Preprocessing {desc}" if desc else None, disable=self.config.quiet):
@@ -389,16 +387,6 @@ class LabelTable():
             return False
 
         cached_safetensors = os.path.join(self.config.cache_path, f"{sanitized_name}_{desc}.safetensors")
-
-        if self.config.download_cache and not os.path.exists(cached_safetensors):
-            download_url = CACHE_URL_BASE + f"{sanitized_name}_{desc}.safetensors"
-            try:
-                os.makedirs(self.config.cache_path, exist_ok=True)
-                _download_file(download_url, cached_safetensors, quiet=self.config.quiet)
-            except Exception as e:
-                print(f"Failed to download {download_url}")
-                print(e)
-                return False
 
         if os.path.exists(cached_safetensors):
             try:
@@ -474,8 +462,7 @@ def _merge_tables(tables: List[LabelTable], ci: Interrogator) -> LabelTable:
 
 def _prompt_at_max_len(text: str, tokenize) -> bool:
     tokens = tokenize([text])
-    #return tokens[0][-1] != 0
-    return False
+    return tokens[0][-1] != 0
 
 def _truncate_to_fit(text: str, tokenize) -> str:
     parts = text.split(', ')
