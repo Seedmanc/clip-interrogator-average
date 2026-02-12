@@ -240,7 +240,7 @@ class Interrogator():
         captions = [caption] if caption else self.generate_caption(images)
         image_features = self.image_to_features(images)
         caption = self.rank_top(image_features, captions)
-        merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
+        merged = _merge_tables([self.artists,   self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors)
         return _truncate_to_fit(caption + ",  " + ", ".join(tops), self.tokenize)
 
@@ -284,7 +284,7 @@ class Interrogator():
         caps.remove(caption1)
         caption2 = self.rank_top(image_features, caps)
         caption = caption1 + ' , ' + caption2 if caption1 != caption2 else caption1
-        merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
+        merged = _merge_tables([self.artists,   self.mediums, self.movements, self.trendings], self)
         flaves = merged.rank(image_features, self.config.flavor_intermediate_count)
         best_prompt, best_sim = caption, self.similarity(image_features, caption)
         best_prompt = self.chain(image_features, flaves, best_prompt, best_sim, min_count=min_flavors, max_count=max_flavors, desc="Flavor chain")
