@@ -57,7 +57,7 @@ bokeh
 global illumination
 dramatic
 symmetrical
-d & d
+d&d
 intricate detail
 atmospheric
 d&d
@@ -1539,7 +1539,7 @@ dark surrealism
 simple background
 collage
 ultra sharp
-tankoban
+tankobon
 trading card front
 incredible
 shining
@@ -1548,7 +1548,6 @@ long white hair
 telephoto lens
 canvas
 mythical
-: :
 sharpness
 old
 medium format
@@ -2206,7 +2205,7 @@ hearthstone card game artwork
 hannah yata charlie immer
 advanced lighting technology
 midday
- dither
+dither
 horns
 golden
 fractal structures
@@ -3467,7 +3466,7 @@ dark cinematic
 award winning illustration
 godlike
 bathed in light
-'action lines '
+action lines
 smiling softly
 detailed picture
 unnerving
@@ -3554,7 +3553,7 @@ ultrasharp focus
 sofubi
 big trees
 beside the river
-gta : dubai
+gta: dubai
 dense fog
 intricate art nouveau
 ultra-detail
@@ -3894,7 +3893,7 @@ full head and shoulders
 llama with dreadlocks
 natalie shau
 burning halo
- 4k photorealism
+4k photorealism
 delicious
 flares
 red and white
@@ -4031,7 +4030,7 @@ snakes
 f/22
 y2k
 liepke
-(eos 5ds r
+eos 5ds r
 sharp features
 sharpened
 curves
@@ -4099,7 +4098,7 @@ golden eyes
 occlusion
 straight hair
 dutch golden age
-(steampunk)
+steampunk
 3d collage
 night lights
 accurate and detailed
@@ -4670,7 +4669,7 @@ soft illumination
 impossible
 wearing a hoodie
 venetian red
-fisheye  lens
+fisheye lens
 porcelain
 car
 new york city
@@ -4871,7 +4870,7 @@ intricate and highly detailed
 dark fantasy style art
 crimson
 scenic full shot
-f/2 2
+f/2.2
 blue moon
 stunning sunny lighting
 hard backlight
@@ -5173,7 +5172,7 @@ artgerm and j. dickenson
 cyber neon lights
 moment
 anime frames
- cinematic
+cinematic
 mix of styles
 james gurney and greg rutkowski
 rule of third
@@ -5285,7 +5284,7 @@ clean line
 tank girl
 psychic
 luis rollo
- sunbeams
+sunbeams
 in 1995
 mark brookes
 watery eyes
@@ -5458,7 +5457,7 @@ caught on trail cam
 rabbit
 kramskoi
 huifeng huang
-facial features )
+facial features 
 kenton nelson
 1981
 hazel green eyes
@@ -5674,7 +5673,7 @@ overknee socks
 suffering
 medium close up
 cloudy sky
-facial features)
+facial features
 pbr render
 azure tones
 holding a gun
@@ -5867,7 +5866,7 @@ amazing values
 chemtrail
 occult diagram
 f/1.8
-f 1 1
+f 1.1
 manly
 surreal oil painting
 peter morbacher
@@ -6070,7 +6069,7 @@ kanye west
 high detail photography
 gooey
 romantic storybook fantasy
-f 1 6
+f16
 zeng fanzh
 sasoura
 luminous scene
@@ -6148,7 +6147,7 @@ dad bod
 vivid color glow
 ultra wide angle view
 booster flares
-aged 2 5
+aged 25
 magical atmosphere + masterpiece
 cool color palette
 synth
@@ -6437,7 +6436,7 @@ reality
 narrow face
 lsd dream emulator psx
 sun shining through
-1 6k resolution
+16k resolution
 of a family leaving a spaceship
 neutral background
 the void
@@ -6599,7 +6598,7 @@ fairy tale illustrations
 hybrids
 fantasy character octane render
 reference sheet white background
- ( colorful  )
+colorful
 splash comics
 half asian
 photo of a huge theater stage
@@ -7234,7 +7233,7 @@ violet polsangi pop art
 broad light
 majestic mountains
 beautiful piercing eyes
- habitat 67 background
+habitat 67 background
 gold leaf art
 modern cyberpunk
 stylized stl
@@ -8547,7 +8546,7 @@ heise-lian yan fang
 high speed photography
 wrinkled
 vegetal dragon cyborg
-photography award )
+photography award 
 mixed media collage
 lush flora
 hoodie
@@ -8676,7 +8675,7 @@ watercolor art
 racking focus
 extreme panoramic
 art station trending
-matrix)
+matrix
 day of the tentacle style
 nordic
 leggins
@@ -8717,7 +8716,7 @@ scarred
 epic background
 saturated color
 highly detailed saturated
-nikon d 750198 5
+nikon d 750 1985
 serene colors
 environmental lighting
 dark scifi
@@ -8729,7 +8728,7 @@ green and warm theme
 uniform plain sky
 1980's art
 berries dripping juice
-cleary see face
+clearly seen face
 tite kubo
 color film camera
 neo-impressionist
@@ -8881,7 +8880,7 @@ slavic dog head man
 medium closeup
 dragon crown
 high poly
-sigma 50mm f1.4195 0
+sigma 50mm f1.4 1950
 unpleasant face
 introspective
 hydrangea
@@ -9058,7 +9057,7 @@ very detailed art
 real faces
 ayami
 official valentino editorial
-( streamline modern )
+streamline modern
 scary style
 cream and white color scheme
 pretty eyes
@@ -9124,7 +9123,7 @@ elaborate polished
 drippy
 trending artstation
 cool tones
- haute couture
+haute couture
 super fine inking lines
 caring
 golden sunlight
@@ -9500,7 +9499,7 @@ liquid hands and feet spinning
 girl with long hair
 uhdr
 plant predator
- ruins of ancient rome
+ruins of ancient rome
 military gear
 smooth background
 published concept art
@@ -9763,7 +9762,7 @@ lights are on in the windows
 metallic reflections
 dystopian future
 viewed from below
-6 4 megapixels
+64 megapixels
 sea in the background
 dark grey skin
 direct sunlight
@@ -10076,7 +10075,7 @@ red irises
 chair
 round gentle face
 1970s science fiction
- photograph
+photograph
 detailed head
 in the style of hans thoma
 gradient darker to bottom
@@ -10155,7 +10154,7 @@ epic concept art
 horror atmosphere
 lotus
 tactical squads
-:10 gas grenades
+gas grenades
 1989
 indie
 gigantic forest trees
@@ -10601,7 +10600,7 @@ extreme sports photography
 product lighting. 4k
 at future neon light rooftop
 smiling kindly
-( watercolor )
+watercolor
 fashionable cyberpunk mechanoid
 real life pokemon
 metropolitan museum photo
@@ -10630,7 +10629,7 @@ painted character portrait
 industrial art style
 contemporary design
 arms down
-roll 2 0
+roll 20
 transformation
 2006
 late night
@@ -10900,7 +10899,7 @@ future technology
 naruto
 in a dark room
 silver small glasses
-high level texture render)
+high level texture render
 pink and green
 seascape
 shadow depth
@@ -11209,7 +11208,7 @@ retro science fiction
 snoop dogg
 still photo
 extreme aesthetic
-cyberpunk 2077)
+cyberpunk 2077
 editorial photograph
 highlight
 also known as artemis the selene
@@ -11312,7 +11311,7 @@ perfectly shaded body
 magazine photo
 ornate border
 dark eerie movie frame
-nier : automata inspired
+nier: automata inspired
 swimming
 3/4 bust
 intricate art photography
@@ -11349,7 +11348,7 @@ bright fuchsia skin
 girih
 frenetic brushwork
 azctec warrior
-16k resolution:0.8
+16k resolution
 photorealistic cinematic
 maya ali mage
 vultures
@@ -11357,7 +11356,7 @@ flowing white hair
 sydney hanson
 wearing an elegant dress
 enb
-mamiya rb 6 7
+mamiya rb 67
 craig mullins nekro
 hasselblad x 1 d
 mechanical cyborg
@@ -11389,7 +11388,7 @@ baugh casey
 interesting shapes & form
 android cameraphone
 1-point perspective
-( shy smiling face )
+shy smiling face
 greek romanian
 top half of body
 vincenzo catena style
@@ -11743,7 +11742,7 @@ album artwork
 swedish countryside
 cinestill 800t 18mm
 glossy finish
-street art:2 masterpiece
+street art masterpiece
 1997
 people's perspective
 bravery
@@ -11989,7 +11988,7 @@ barong family member
 apollinaris vasnetsov
 norman rockwell. detailed
 cables and wires
-( dia de los muertos )
+dia de los muertos
 hollywood promotional image
 round cute face
 alien room background
@@ -12396,7 +12395,7 @@ lean face
 nikon camera
 proportional body
 action lines
-  award winning
+award winning
 haunted mansion
 dynamic wide angle lens
 nice
@@ -12733,7 +12732,7 @@ futuristic decor
 victo ngai and tristan eaton
 chaos marine
 whole shoe is in picture
-color ( sony a 7 r iv
+color sony a 7 r iv
 lots of glass details
 luminist polar landscape
 wearing wizard robes
@@ -12741,7 +12740,7 @@ round elements
 promotional movie still
 demon noble character design
 fine fix duplicate line
-(mist filters)
+mist filters
 portrait of medieval old king
 loba andrade from apex legends
 chengwei pan on artstation
@@ -13393,7 +13392,7 @@ on a battlefield
 sideshow figurines
 scrolls
 raining outside the window
-( steampunk )
+steampunk
 horizontally symmetrical
 colorful dress
 light effect. feminine
@@ -13430,7 +13429,7 @@ real life photograph
 coast
 all black cyberpunk clothes
 vector sharp graphic
-modern minimalist f2 0 clean
+modern minimalist f20 clean
 detailed intricate render
 dissection relief
 an abstract
@@ -13537,7 +13536,7 @@ toon
 studio lit
 paul pope
 anime proportions
- strong dither
+strong dither
 museum display
 orange glow
 patent registry
@@ -13555,12 +13554,12 @@ cool japanese street fashion
 pink clouds
 trending on cgtalk
 stains
-photography award)
+photography award
 epic level of detail
 gunplay
 petra collins
 rings
-2001 : a space odyssey
+2001: a space odyssey
 victorian painting
 tavern
 metaphorical
@@ -13589,7 +13588,7 @@ megascans texture
 ten-gallon hat
 90s toy commercial
 uv
-(unreal engine)
+unreal engine
 very neat
 dressed in a frilly ragged
 late at night
@@ -13768,7 +13767,7 @@ bad
 wearing gas masks
 lanky
 photorealistic landscape
-( highly detailed figure )
+highly detailed figure
 sprites
 fifth element
 color scheme
@@ -14331,7 +14330,7 @@ silver dechroic details
 many mechflowers
 dark lighting atmosphere
 cinematic moody colors
-shot on iphone 1 3 pro max
+shot on iphone 13 pro max
 pale black armor
 auslese
 brown hair fringe
@@ -14728,11 +14727,11 @@ vaporwave lighting style
 in-game footage
 bokeh lights
 standing on two legs
- ( horror art  )
+horror art
 pleasing aesthetics
 combat helmet
 kerem beyit
- low contrast
+low contrast
 lord of the rings calendar
 cloth physics
 open space
@@ -14797,7 +14796,7 @@ mind wandering
 gear
 evil cult
 mature color scheme
-bokeh )
+bokeh 
 epic natural light
 chiroptera head
 dribble popular
@@ -14836,7 +14835,7 @@ sharp armor
 sharp metal dragon claws
 warframe hound
 round faced
-greens)
+greens
 man dressed as a chicken
 esoteric clothing
 reduced contrast
@@ -14939,7 +14938,7 @@ retropunk
 in paris
 1965
 tropical fish
-street art  masterpiece
+street art masterpiece
 dragan bibin
 sage smoke
 albert lynch
@@ -15230,7 +15229,7 @@ warm moody lighting
 cobblestones
 the amazing world of gumball
 gray sky with wispy clouds
- ( koi colors  )
+koi colors
 tennis ball monsters
 epic nebula
 faded colours
@@ -15290,7 +15289,7 @@ valerian
 studio packshot
 contemporary sculpture
 extra limbs
-( art nouveau )
+art nouveau
 tarkovsky greatest scene
 breakcore
 villainess
@@ -15496,7 +15495,7 @@ futuristic clothing
 gold details
 white sparkles everywhere
 marvel comic
-f/1 6
+f/16
 vouge style photo
 centralised
 bohemian
@@ -15525,7 +15524,7 @@ sunset in the background
 painting on canvas
 wine
 hippie
-iso : 200
+iso: 200
 red eye
 mattel
 floating in the air
@@ -16121,10 +16120,10 @@ cinestill colour
 monitors
 figures
 dreamy colors
-hasselblad x 1 d-5 0 c
+hasselblad x 1 d-50 c
 ƒ/2.5
-focal length : 85.0mm
-exposure time : 1/800
+focal length: 85.0mm
+exposure time: 1/800
 wearing jeans
 ireland
 light box
@@ -16548,7 +16547,7 @@ al duke
 neon jellyfish headdress
 24mm f8 aperture
 exotic expression
- ( wearing jeans  )
+wearing jeans
 energy flowing
 soft yellow background
 colleen moore 25 years old
@@ -16656,7 +16655,7 @@ front facing camera
 film grain and noise
 distant knotted branches
 floral background
-32k hd^10
+32k hdr
 patriot
 ship
 background blur
@@ -16982,7 +16981,7 @@ gamer
 fromsoftware
 unusual color palette
 press conference
-magic : the gathering
+magic: the gathering
 curly messy high bun hairstyle
 simple structure
 d&d vibe
@@ -17238,7 +17237,7 @@ great light and shadows
 diagonal spell vfx
 intricate fantasy robes
 image overlays
-in detroit : become human
+in detroit: become human
 big rocks
 exposed metal bones
 bright rainbow nimbus
@@ -17261,7 +17260,7 @@ medium portrait soft light
 with a black background
 vintage glow
 glowing owls
-photo ( far   shot )
+photo ( far shot )
 metropolitan museum collection
 pixar weta portrait
 very beautiful style
@@ -17305,7 +17304,6 @@ for junior
 elegant face
 symmetrical baroque painting
 yin yang
-0192 5
 game character concept art
 blonde curly hair
 very grainy texture
@@ -17325,8 +17323,7 @@ in the city
 special forces security
 helipad
 destructible environments
-anime cyberpunk
-:6 gas grenades
+anime cyberpunk=
 moebius comic
 20 megapixels
 national geographics
@@ -17745,7 +17742,7 @@ japanese landscape
 shades
 versatile
 autofocus
-4k uhd video capture at 3 0 fps
+4k uhd video capture at 30 fps
 voluptuous male
 hyper detailed background
 continents
@@ -17832,7 +17829,7 @@ toy photo
 120 degree view
 high detail shot
 dialog text
-need for speed : carbon
+need for speed: carbon
 cover shot
 annie swynnerton
 eytan zana
@@ -17942,7 +17939,7 @@ eye in forehead
 dark smooth background
 swiping brushwork
 guerrillero heroico
- ( yoshinari yoh  )
+yoshinari yoh
 whitebangs
 half body portrait of juliana
 dressed in blue
@@ -18542,7 +18539,7 @@ don davis
 oddly familiar
 purple color pallete
 huge distance
- dr sues
+dr sues
 coral headdress
 thierry mugler
 afro samurai manga style
@@ -18697,7 +18694,7 @@ extra ketchup
 bacon lettuce and tomatos
 wearing choker
 120 black and white film
-( golden ratio )
+golden ratio
 gravity rush
 dog playing the saxophone
 monster design
@@ -18716,7 +18713,7 @@ legs taking your pov
 extreme close shot
 painted texture
 face portrait of a woman
- overhead view
+overhead view
 with skin of obsidian
 aurora artifacts
 lava lamp
@@ -18750,7 +18747,7 @@ winning illustration
 dark blue neon light
 gradient purple
 high quality warframe fanart
-point of view : up
+point of view: up
 paranormal flashlight
 human silhouette
 ringflash lighting
@@ -19317,7 +19314,7 @@ toki doki
 supervillain
 pictorial mark
 hair light
-kodachrome 6 4
+kodachrome 64
 bioshock style
 slicked black hair
 ring-flash
@@ -19512,7 +19509,7 @@ large lightning storm
 hair tied in a ponytail
 various refine techniques
 best practice
- konstantin razumov
+konstantin razumov
 with anxious piercing eyes
 brutalist alien civilization
 murloc tinyfin
@@ -19629,7 +19626,7 @@ high-angle view
 360 projection
 vibrant high contrast coloring
 tartan scarf
-in batman : arkham knight
+in batman: arkham knight
 armor made of steel
 fantasy game spell icon
 huge futuristic building
@@ -19659,7 +19656,7 @@ killua zoldyck
 8mm extreme fisheye
 organic shape
 in billy herrington body
-taken with canon 8 0 d
+taken with canon 80d
 madness creature
 russian clothes
 man male demon
@@ -20041,7 +20038,7 @@ cyan and orange palette. vivid
 climax
 shiny floors
 reflective ground
-(inktober)
+inktober
 minecraft style
 jaya su berg
 blue and purple
@@ -20396,7 +20393,7 @@ dull grey expressionism
 future fashion
 heroic action pose
 leather jackets
- western film
+western film
 glowing green
 mother
 rayonnant style
@@ -20514,7 +20511,7 @@ brutalist dark fantasy
 game of throne art
 sprite 2d
 clayton crain
-( mechanical )
+mechanical
 manga style only
 gradient orange
 detailed designs
@@ -20762,7 +20759,7 @@ glossy white metal
 arabian
 some sun light ray
 cells
-(golden hour)
+golden hour
 night-time
 desaturated color theme
 large arrays
@@ -21388,7 +21385,7 @@ with tiny people
 power runes
 pulsing energy
 srgb
-(mist)
+mist
 leaf
 with clothes on
 smoke in the background
@@ -21530,7 +21527,7 @@ band playing instruments
 great fantasy mood
 pink neon lights
 beautiful dark creepy landscape
-( el dia los muertos )
+el dia los muertos
 kalighat
 with pale skin
 hologram sci-fi hood
@@ -21852,7 +21849,7 @@ zeronis style
 stolen footage
 environmental
 skateboarding
- very coherent
+very coherent
 cartographic
 ethereal lighting colors scheme
 sinew
@@ -22124,7 +22121,7 @@ desert in the background
 dramatic dynamic lighting
 ameera al-taweel
 adam hughes
-(rust)
+rust
 stethoscope
 wielding a sword
 floating bouquets
@@ -22167,7 +22164,7 @@ luminism woods
 dripping blue natural iwakura
 anime hi-fructose
 finnian in grungerock alien sky
-of of aura hd
+of aura hd
 iwakura lain
 the antler people
 digital design
@@ -22252,7 +22249,7 @@ goat
 spiky hair
 bungie
 hurt
-2009)
+2009
 saturn devouring his son
 color manga panel
 naughty
@@ -22775,7 +22772,7 @@ atom
 1960's fashion
 ayan nag
 various backgrounds
-nintendo 6 4 screenshot
+nintendo 64 screenshot
 pixar zootopia. 3d rendering
 rabbit shaped helmet
 on the cover of a magazine
@@ -23721,7 +23718,7 @@ matrix code
 xi jinping
 zombies in the streets
 walk
- digital art
+digital art
 hollósy simon
 glass negative
 silver gelatine realistic
@@ -23739,7 +23736,7 @@ jane newland
 neon streetlights
 zenithal lighting
 reflections and refractions
- conceptual art
+conceptual art
 mary anning
 digital art hi
 medieval manuscript
@@ -24097,7 +24094,7 @@ miranda meeks
 fractal armor
 persian folkore artstyle
 beautiful glowing eyes
-cell shading. ( rb 6 s
+cell shading. rb 6 s
 beautiful dark magician girl
 radiant vibrant colors
 winged eyeliner
@@ -24503,7 +24500,7 @@ neuromancy
 attention
 viscous volumetric smoke
 sharp angles
-( cyberpunk 2077
+cyberpunk 2077
 azo yellow
 t-rex
 smoke background
@@ -25122,7 +25119,7 @@ high particle count
 you're something special
 masculine features
 extremely detailed + 8k
- overhead view of a table
+overhead view of a table
 shade
 joel fletcher
 owen klatte
@@ -25130,7 +25127,7 @@ angie glocka
 justin kohn
 sleek outfit
 sail boats
-sullen old maid ( redhead
+sullen old maid redhead
 abandoned in a desert
 above the waist
 arduino
@@ -25261,7 +25258,7 @@ facial expressions
 style of vogelsang
 elke
 wired
-f/2 8
+f/2.8
 custom computer
 home office
 glowing grey eyes
@@ -25574,7 +25571,7 @@ dramatic soft shadow lighting
 cocky smirk
 vibrant backlit
 shallow depth of field hdr 8k
-emotion : madness
+emotion: madness
 complex patterns
 8k high detail and intricate
 bilaterally symmetrical
@@ -25784,7 +25781,7 @@ long dark shadows
 quicksilver
 dreamland of chinese
 hyper concept art
-canon 8 0 d
+canon 80 d
 small crown
 overgrown garden environment
 on a bridge
@@ -25990,7 +25987,7 @@ intricate silk clothing
 portrait of the joker
 blue eyes and blond hair
 presenting pizza
-natural materials  high detail
+natural materials high detail
 close up front view
 high-end fashion photoshoot
 psychedelic shaman
@@ -26070,7 +26067,7 @@ jedi robes
 motorcycle concept art
 energy spheres
 halberd
-( brown skin )
+brown skin
 notan
 ultra 4k
 moviestill
@@ -26502,7 +26499,7 @@ doctor strange
 fairycore
 war zone
 fantasy house
-sigma 85mm f_1.4
+sigma 85mm f/1.4
 dragonborn
 dutch still life of the 1600s
 the rock
@@ -26513,7 +26510,7 @@ xbox
 news photography
 playstation
 soft lightening
-symmetric balance)
+symmetric balance
 japanese live-action movie
 naturist
 crisp lighting
@@ -26667,7 +26664,7 @@ colored ink
 mordor
 from italica
 play-doh
-prime lense)
+prime lense
 broken buildings
 nezuko
 from vogue magazine
@@ -26773,7 +26770,7 @@ will smith
 holding microphone
 clothed.1990s
 pivix
-highly  detailed
+highly detailed
 watercolor splash
 steampunk goggles
 warm sunset colors
@@ -26887,7 +26884,7 @@ dark armor
 bluish and cream tones
 in a laundry mat
 in an abandoned office building
-warhammer 4 0k setting
+warhammer 40k setting
 shag cut
 taking mind altering drugs
 the three fates
@@ -27174,7 +27171,7 @@ masahiro ito
 black and brown colors
 ghostly form
 super nintendo game sprite
-grumpy  old
+grumpy old
 white fog
 highly detailed wide
 exquisite detail perfect
@@ -27254,7 +27251,7 @@ sat in his throne
 casting dark magic
 vouge
 adrien girod
- ( el dia los muertos  )
+el dia los muertos
 tar-like
 tease
 rural splendor
@@ -27323,7 +27320,7 @@ exterior botanical garden
 on future tokyo night rooftop
 lawyer
 artdoll
-focal length : 200.0mm
+focal length: 200.0mm
 hyper realistic realistic
 very detailed fine art
 hallucinogenic
@@ -27385,7 +27382,7 @@ wearing flight suit
 his last moment
 riccardo federici
 character faces
-final fantasy 1 4
+final fantasy 14
 brush work
 money sign pupils
 cinematic keyframe
@@ -27461,9 +27458,9 @@ kim wexler and saul goodman
 with glowing blue lights
 key character poster
 imperious
-( golden hour )
+golden hour
 masked female violinists
-nintendo 6 4
+nintendo 64
 eagle wings
 wooden parquet
 depth haze
@@ -27795,7 +27792,7 @@ with beautiful exotic
 floating molecules
 half figure front
 portrait of dangerous
- brown skin
+brown skin
 portrait of destiny from sandman
 batwings
 tropical fruit
@@ -27824,7 +27821,7 @@ fluffly
 real life pokemons
 fear anxiety terror
 grain 1990
-30 year old man  athletic
+30 year old man athletic
 haunted sad expression
 soft anime
 ornate pattern
@@ -27882,7 +27879,7 @@ textbooks
 emotional vibrant
 intricate environments
 redscale photography
-  very coherent
+very coherent
 dramatic framing
 swarm of bats
 blue sky with beautiful clouds
@@ -27900,9 +27897,9 @@ three-dimensional
 superrealism
 mind
 algorithmic
-( low key light )
+low key light
 dark and moody colors
-february)
+february
 constructivist
 wearing aristocrat robe
 f 1.4
@@ -28459,7 +28456,7 @@ celtic knot
 35mm f/5.0
 bloodborne style
 iso1200
-fisheye  lens
+fisheye lens
 mid distance
 hamster
 bad dream
@@ -28470,7 +28467,7 @@ one punch man
 harrison ford
 movie photo
 shadowy and eerie character
-eyes). full body realistic
+eyes. full body realistic
 hot topic
 stopmotion animation
 swirling smoke
@@ -28920,7 +28917,7 @@ sparking eyes
 computer monitors
 colourful clothes
 modern supernatural horror
-( ray of sunlight )
+ray of sunlight
 military pants
 brown cloak
 front trading card
@@ -28970,7 +28967,7 @@ aurora colored hair
 rim light on character
 lighting path traced
 curtain
- apocalypse landscape
+apocalypse landscape
 metropolitan museum
 organic acrylic flow art
 messy clothes
@@ -29217,7 +29214,7 @@ bare chest
 detailed digital 2d fantasy art
 unreal engine rendering 4k
 reynold brown
- shards
+shards
 ultra resolution details
 deep aesthetic colors
 mix styles of tsutomu nihei
@@ -29405,7 +29402,7 @@ light rays beaming through
 golden arches logo
 smooth feature
 when mars attacks
-lamp  ( fish tank
+lamp fish tank
 closeup giant dahlia flower head
 standing on mountain
 densely packed buds of weed
@@ -29819,7 +29816,7 @@ punk rock album cover art style
 foggy photo 8k
 in the desert beside the gulf
 akihito tsukushi
-location  chicago ( alley )
+location chicago ( alley )
 shot with sony alpha
 photo of a classroom
 candlelit restaurant table
@@ -29843,7 +29840,7 @@ novi stars
 liminal diffusion
 liminal spaces and environments
 black armored uniform
-portrait of 1 5-year-old boy
+portrait of 15-year-old boy
 medium yellow blond hair
 portrait of megara
 idw mtmte tfwiki
@@ -30234,7 +30231,7 @@ from blade runner(1982)
 perfect lines
 body and head in view
 stupid
-desolate  long shot
+desolate long shot
 gecko
 flowers rain everywhere
 f/11
@@ -30387,7 +30384,7 @@ canvas painting
 design milk
 russian architecture
 japanese street
-(doctor)
+doctor
 detailed fantasy art
 an alien landscape
 sci-fi themed
@@ -30777,7 +30774,7 @@ photo taken with canon 5d
 sea of thieves
 ancient magic
 f/2.8l canon ef is lens
-physical : tiniest midriff ever
+physical: tiniest midriff ever
 bionic exploded drawing
 jet black tuffe coat
 dark blue jeans
@@ -31158,7 +31155,7 @@ glow up
 handwritten
 chilled out smirk on face
 distant thoughtful look
-digital fantasy art )
+digital fantasy art 
 some stalls
 wide angel shot
 beautifully lit buildings
@@ -31173,7 +31170,7 @@ oscar
 chess piece
 hotel
 gritty world
-but as macro  photography
+but as macro photography
 godbeams
 brass sheet
 steel wire
@@ -31296,7 +31293,7 @@ teal hair
 hi-res textures
 ultra sharpness
 energy core
- red dead
+red dead
 tim hildebrant
 jeremy
 lipkin
@@ -31680,7 +31677,7 @@ cassette futurist
 cuddly fur
 morhbacher
 oscilloscope
- ( mickey mouse  )
+mickey mouse
 moist brown carpet
 photography hyperrealism
 medium long hair
@@ -32044,7 +32041,7 @@ mechanical limbs
 pyramid hoodvisor
 neon fluorescent colors
 architecturally accurate
-( ultra realistic )
+ultra realistic
 orange body
 sleek visor
 sharp bone structure
@@ -32060,7 +32057,7 @@ broken composition
 timbered house with bricks
 scenic view of river
 5-channel
-(winking)
+winking
 long shirt
 aerodynamic
 engraved texture
@@ -32246,7 +32243,7 @@ painting of cute dog
 logical anatomy
 space jammers
 pale goth beauty
-medium  graffiti
+medium graffiti
 wall
 galaxy raytracing
 theater curtains are red
@@ -32278,7 +32275,7 @@ portrait anime space cadet girl
 cold grey eyes
 oversaturated lens flair
 portrait jisoo blackpink
-thoughtful )
+thoughtful 
 nordic crown
 portrait of cyrano de bergerac
 portrait of gigachad
@@ -32416,7 +32413,7 @@ abstract claymation
 two young men
 one man human
 one man vampire
-(dia de los muertos)
+dia de los muertos
 triadic color
 ultra low poly modelling
 warcraft 3
@@ -32473,7 +32470,7 @@ protest
 long hair with a ponytail
 fenrir
 manhattan
-'2d graphic design
+2d graphic design
 highly detailed'
 gilt silk torn fabric
 textbook page
@@ -32484,7 +32481,7 @@ in style of heavy metal comic
 gaze
 potato skin
 potato
-( colorful )
+colorful
 passport
 red theme
 annie leibowit
@@ -33620,7 +33617,7 @@ green tonalities
 perfume
 award-winning-photograph
 windows98 logo
- 4k digital art
+4k digital art
 colorful 8k
 with a white
 crystal lights
@@ -34002,7 +33999,7 @@ bruises
 erosions
 inlets
 powerful scene
-as a strict school teacher )
+as a strict school teacher 
 surveillance
 simple logo
 flickering air
@@ -34105,7 +34102,7 @@ head tilted down
 anthropomorphic furry art
 edo
 eighties miami vice
-subject : kangaroo
+subject: kangaroo
 lush scenery
 magical background
 eerie jungle
@@ -34530,7 +34527,7 @@ colorful intricate masterpiece
 with brown hair
 black crows
 symmetrical beauty face
- ( rainbow  )
+rainbow
 detailed mechanical hands
 faded lsd colors
 making out
@@ -34592,7 +34589,7 @@ guard
 high quality costume
 vivid colors scheme
 on the beach at sunset
- dark
+dark
 sacrament
 zhang yimou
 photorealistic octane render 8k
@@ -35091,7 +35088,7 @@ carl zeiss
 tamron so 85mm
 hulk like physique
 perfect and proportional body
-marijuana ) wet
+marijuana wet
 the shrike
 wearing white silk
 close-up face portrait from up
@@ -35115,7 +35112,7 @@ cold but beautiful
 about 35 years old
 2 colours
 shadow of the cross
-in empty  legnica
+in empty legnica
 samara weaving
 bead necklace
 hair blowing
@@ -35198,7 +35195,7 @@ monster energy drink
 street moon landscape
 swim suite
 brutal bloody slutty make up
- theatrical
+theatrical
 dramatic stormy scene
 maxar
 very long shadows
@@ -35246,7 +35243,7 @@ patron saint of 🛸🌈👩🏾
 real life characters
 scary mood
 akasuki brightmind
-photo  far
+photo far
 advanced cybernetics
 kodak ultra f9
 wearing a red gilet
@@ -35353,7 +35350,7 @@ brown clothes
 reebok
 action horror
 sense
-nikon 1 0-24mm
+nikon 10-24mm
 astonishing scenes
 wide golden eyes
 designed for cozy aesthetics
@@ -35432,7 +35429,7 @@ the god poseidon
 the harbour at stromness orkney
 adorably cute
 beautiful iridescent colors
- ( kauai  )
+kauai
 crushing despair
 the photography artwork
 snapshots
@@ -35517,7 +35514,7 @@ metal kitchen utensils
 perfect woman
 handsome drow
 studio photoshoot
-  ( knight rider kitt
+knight rider kitt
 artistic record jacket
 no human
 doom shotgun pov
@@ -35528,7 +35525,7 @@ vmk myvmk
 on my bed
 hey
 hd aerial photography
- abstract
+abstract
 anatomically correct skeleton
 verdant plants
 lineage 2 revolution style
@@ -35882,12 +35879,12 @@ precious
 a middle-shot from front
 2030
 still from alita
-(jean jules linden)
+jean jules linden
 wall mural
 full subject
 neverwinter nights
 uhd realistic faces
-(pen)
+pen
 wearing a white tuxedo
 lots of smoke
 a photo of a disheveled man
@@ -36264,7 +36261,7 @@ true color
 bioluminescent lighting
 eiffel tower photography
 food photograph
-(cyberpunk 2077)
+cyberpunk 2077
 golden fire palette
 back to us
 80s hair
@@ -36716,7 +36713,7 @@ encompass violet irises
 trimmed with a white stripe
 ink on canvas
 zine
- 4k synthwave art style
+4k synthwave art style
 realism art style
 three point light
 tolkien and michael komarck
@@ -36745,7 +36742,7 @@ aperture f/11
 exposure 1/200
 snoop dogg tennis ball monster
 viewed from bellow
- golden ratio
+golden ratio
 scar under left eye
 wearing a bone gas mask
 jelly-like texture. photograph
@@ -36810,7 +36807,7 @@ toxic slime
 toxic air
 rough sea
 majestic beautiful
-'if all can begin again
+if all can begin again
 emissive
 faint volumetric god rays
 grim crushing atmosphere
@@ -36818,7 +36815,7 @@ lots of sakura flowers
 heavenly glow
 like alice in wonderland
 proud look
- vibrating colors
+vibrating colors
 epic scale fisheye view
 dzo
 awesome color palette
@@ -37109,7 +37106,7 @@ waving
 snake fangs
 with violence in his eyes
 plaid shirt
- rigidly defined abs
+rigidly defined abs
 triangle shape face
 medium length white hair
 walking through a lush jungle
@@ -37574,10 +37571,10 @@ diffuse natural sun lights
 year 2447
 attack on titan scenery
 steel armor
-( castle in the background )
+castle in the background
 brush pen
 spruce trees
-anthropomorphic robot  thing
+anthropomorphic robot thing
 headshot profile picture
 morbidly obese
 shamanic poste
@@ -38009,7 +38006,7 @@ the nature of existence
 caramel. rugged
 gamers magazine cover
 footprints in the sand
- fractal waves
+fractal waves
 cosmic girl
 fishnet
 overgrown forest
@@ -38097,7 +38094,7 @@ michael kors
 meat veins
 worn in leather armor
 horror dramatic moment
-cover. photo : david roemer
+cover. photo: david roemer
 small spacecraft in background
 face and body features
 silk screen
@@ -38243,7 +38240,7 @@ fantasy town
 large cute anime eyes
 2099 neo-tokyo
 futuristic sunglasses
-sigma 85mm f1 6
+sigma 85mm f16
 peaks
 felucia landscape
 long dark curly hair
@@ -38318,7 +38315,7 @@ mk ninja
 handguns
 full face tattoo epic portrait
 gelatin silver process photo
-liminal ( diffusion
+liminal diffusion
 spaces
 corrupted armor
 jc park
@@ -38703,7 +38700,7 @@ glowing yellow face
 clothed in silk
 photo of slim girl model
 little shy smile
-8k 85mm f1 6
+8k 85mm f16
 kicking up dirt
 bokeh. debadged
 in an colorful alien planet
@@ -38994,7 +38991,7 @@ some people around
 🌲🌌
 made of drink
 sword fight
- dream
+dream
 wispy clouds
 angels and demons
 grasping
@@ -39030,7 +39027,7 @@ jrr tolkien
 high-tech space cult
 soft shadowing
 dreamy art
-(night)
+night
 rainforest background
 cedric peyranavernay
 4 legs
@@ -39045,9 +39042,9 @@ photography portrait
 character model
 cinematic mode
 optical flare
- misa amane
+misa amane
 viscous smoke
-bladerunner 2049 )
+bladerunner 2049 
 ( dog ) looks like elephant
 in a park
 josh brolin
@@ -39055,9 +39052,9 @@ spongy
 tropical color scheme
 james yang
 studio mir
-(anime girl)
+anime girl
 presents
-reds)
+reds
 sharp focus 4k
 city of munich
 abandoned warehouse
@@ -39214,7 +39211,7 @@ long orange hair
 standing in class
 not blurry
 yukii morita
-the (void
+the void
 on a advanced lab
 boss
 big clear eyes
@@ -39236,7 +39233,7 @@ dj rave party
 award wining photo
 cinematic action shot
 pigtail braids
-black border: 0.75
+black border
 hair tied and braided loosely
 pool tubes
 80s photo
@@ -39463,7 +39460,7 @@ backlight sunset sky
 courage
 colossus of rhodes
 disney inspired
-staring  into the camera
+staring into the camera
 henry cartier bresson
 baseball
 spotlighting
@@ -39505,7 +39502,7 @@ glossy flecks of iridescence
 iridescent texture
 digital art 4k unsettling
 mauve and cyan
-(abstract)
+abstract
 psychedelic sky
 teal orange color palette
 mason
@@ -39815,7 +39812,7 @@ by tom bagshaw and boris vallejo
 photorealistic eyes render
 beautiful ambience
 city in the sky
-eye white). full body realistic
+eye white. full body realistic
 canadian goose with a funny hat
 military police
 analogue
@@ -40202,7 +40199,7 @@ transylvanian castle
 tokyo ghoul
 magic item
 mysterious man
-(attack on titans anime)
+attack on titans anime
 technical sketch
 highly detailed rounded forms
 inside out and outside in
@@ -40633,7 +40630,7 @@ bright coloured streaks of hair
 rotated
 strong rimlight
 scantily clad
-(art nouveau)
+art nouveau
 james gilleard and james jean
 kittens
 beautiful and symmetrical face
@@ -40653,7 +40650,7 @@ fine bubbles
 krenz cushart and artgerm
 wallpaper design
 berries decoration on the dress
-daniel merriam :.1
+daniel merriam:.1
 dark purple color scheme
 perfect female body
 ryokans and edo era houses
@@ -40667,7 +40664,7 @@ dia de los muertos makeup
 symmetrical scene
 symmetric character
 trending on art
- brush stroke
+brush stroke
 dennis velleneuve
 dark brown
 doing a prayer
@@ -40725,7 +40722,7 @@ tom burke
 skyrim pc screenshot
 dynamically shot
 nug pic
-(webcomic)
+webcomic
 flat graphic style
 stephane martiniere
 trending on conceptartworld
@@ -40759,8 +40756,8 @@ full focus
 wearing a vest
 big spider
 epic scifi fantasy art
-(monster)
-(octane render
+monster
+octane render
 olmsted
 mexican mustache
 looking in the window
@@ -41530,7 +41527,7 @@ ancient greek statue
 prince of egypt
 lens flare. occult photorealism
 outer space environment
- ( synthwave  )
+synthwave
 from inside a temple
 ute osterwalder
 volcanic background
@@ -41574,7 +41571,7 @@ anime tribal boy with long hair
 high quality detailed anime
 cold studio lighting
 seven deadly sins anime
-style of final + fantasy + 1 5
+style of final fantasy 15
 crosswalk
 museum sculpture
 aniston
@@ -41766,7 +41763,7 @@ waist up portrait
 spooky halloween night
 fantasy duel
 flamingos
- dia de los muertos
+dia de los muertos
 dark feathered wings
 pigment
 steampunk aesthetic
@@ -42107,7 +42104,7 @@ synthwave image
 on a clearing
 swirling paint
 glowing iris
- extreme detail
+extreme detail
 neon reflections in the puddles
 studio ghibli composition
 feather suit
@@ -42303,7 +42300,7 @@ pop-surrealism
 shot at dark with studio lights
 playing techno house music
 offset
-( the blood meridian
+the blood meridian
 rich palette
 happy couple
 realistic. cheng yi
@@ -42561,7 +42558,7 @@ cyberpunk femme fatale
 tropical climate
 copper details
 warm color highlights
- robot cyborgs
+robot cyborgs
 at dusk lighting
 show room scene
 smooth red skin
@@ -43271,7 +43268,7 @@ bracts
 vintage footage on tokyo streets
 bump mapped
 skeleton drummer
-windows 9 5
+windows 95
 scales on her chest
 soaring towers and bridges
 postmodern painting
@@ -43326,7 +43323,7 @@ tall castle enclosed palisade
 beautiful witch with long hair
 inari shrine
 teen elf
-lamp  ( armchair
+lamp armchair
 the ancient world
 love death robot
 the cloudy moonlit sky
@@ -43445,11 +43442,11 @@ pride flag in background
 expired black and white film
 cinematography composition
 topology
-( ferris wheel )
- cat
+ferris wheel
+cat
 ragdoll cat
 graphic design background
- mila kunis
+mila kunis
 looking scared
 beautiful studio face
 pulitzer prize
@@ -43471,7 +43468,7 @@ film still from the movie
 linocut print
 splattered vibrant paint
 action thriller
-(moon in the background)
+moon in the background
 high-body detail
 tatooine
 live
@@ -43485,20 +43482,20 @@ cafe racer
 schematic in a notebook
 trippy symbolic
 tokyo at night
- risograph
+risograph
 popular on behance
 the fashion of the time
 risograph gradient
 amazing lightning
 reflection of led lights
 clouds and fields in background
-( art deco )
+art deco
 vapour
 an affable devil among demons
 16-bit rgb
 (beautiful) girl
 jewelry photography
-muted color (blues
+muted color blues
 jan matejko and j. dickenson
 professional model photography
 snow scene
@@ -43520,7 +43517,7 @@ directions and moods. faces only
 behind her a gothic cathedral
 heavy rock concert
 shady alleys
- closeup
+closeup
 palm trees in the background
 joyce ballantyne
 organic ink
@@ -44154,9 +44151,9 @@ closeup photograph
 neo-cyberpunk
 exquisite matte painting
 magick
-with overhead cloudy  skies
+with overhead cloudy skies
 partly sunny
-(exotic artifacts)
+exotic artifacts
 water damage
 1/1000
 volumetric dust rays
@@ -44480,7 +44477,7 @@ spaceship hangar
 cyberpunk look
 maya ali sorceress
 villager
-(high contrast)
+high contrast
 white roses
 dutch style
 under rain
@@ -44502,7 +44499,7 @@ in a dojo
 octane redshift
 live concert
 promo material
-staggered depth)
+staggered depth
 emma watson as harry potter
 from legend of zelda
 arms folded
@@ -44675,7 +44672,7 @@ red and blue lighting
 rich atmosphere
 highly realistic photo
 emaciated
-patrick bateman)
+patrick bateman
 human fighter
 human and dragon fusion
 black holes
@@ -44752,7 +44749,7 @@ photo illustration
 u.s. national security advisor
 funny face
 john wayne
-84mm)
+84mm
 holding axe
 domino mask
 long straight black hair
@@ -45013,7 +45010,7 @@ delicacy
 fortnite skin
 pretty woman
 lush fairy forest
-vivid)
+vivid
 nostalgia of a fairytale
 cavalry
 kodak 2383 vision color
@@ -45249,7 +45246,7 @@ cinematographic atmosphere
 dark studio backdrop
 highly creative
 engineering bay
- oil painting
+oil painting
 photo taken on a nikon
 warm lighting with cool shadows
 her face looks like an orchid
@@ -45303,7 +45300,7 @@ highly detailed vector art
 black scheme
 audience
 kantoku
-in her early 3 0
+in her early 30
 perspective piece
 rain droplets frozen in time
 gradient white to silver
@@ -45328,8 +45325,8 @@ cubic blocks mix stripes cuts
 standing alone in grassy field
 shamanism
 leather armored
-( film noirs )
-( brush stroke )
+film noir
+brush stroke
 transmitters on roof
 electrical appendages
 big scene
@@ -45377,7 +45374,7 @@ roses in her hair
 stylized concept art
 focal depth
 braided hair. nightime
- stage lights
+stage lights
 no helmet
 all inside frame
 white and gold color palette
@@ -45474,7 +45471,7 @@ wind blows the leaves
 klaus film
 alien exotic
 court jester
-nvidia raytracing demo)
+nvidia raytracing demo
 feather earring
 different colors
 cosmic architecture
@@ -45532,7 +45529,7 @@ in a cyberpunk setting
 cute and lovely
 soft fur texture
 magical power
-1950s concept art  )
+1950s concept art 
 led-lit armor
 laura watson
 lineless
@@ -45657,7 +45654,7 @@ extremely
 calm serene atmosphere
 personified
 arriflex lens
-he‘s wearing a red neckerchief
+he's wearing a red neckerchief
 dressed as a knight
 that resembles a bull's
 the dress's lower
@@ -45865,7 +45862,7 @@ weathered concrete
 mummy portrait
 from luxor
 annie liebowitz
- trending on cgsociety
+trending on cgsociety
 made of carrara marble
 with nerdy glasses and goatee
 branding
@@ -46385,11 +46382,11 @@ watercolor drawing
 in a medium full shot
 russian and japanese mix
 starry sky in background
- shallow depth of field
+shallow depth of field
 color kodak film stock
 rich deep pink
 gorgeous woman
-(books)
+books
 robot hands
 grim gwent card
 renaissance port city background
@@ -46575,7 +46572,7 @@ from horror movies
 summer unreal engine 5
 brown suit vest
 artwork about a road to freedom
- misty atmosphere
+misty atmosphere
 time dragging on for too long
 tooth
 at borobudur
@@ -47011,11 +47008,11 @@ lush wildlife
 with great birds
 haunted house interior
 cracks of magma
-( matte painting
+matte painting
 paint smeared with palette knife
 sprouting
 bbc promotional artwork
-star trek : the next generation
+star trek: the next generation
 shadow cast of dark corridor
 realistic fortnite
 meaty
@@ -47267,7 +47264,7 @@ armor piercing missiles
 kerala motifs
 global awarded
 conquering imbalance
-photorealistic  art style
+photorealistic art style
 contented
 cross contour
 wire sculpture drawings
@@ -47307,7 +47304,7 @@ fleshscape
 side elevation
 trench crusade
 red black white colors
-steampunk  grainy texture
+steampunk grainy texture
 glow sticks
 vaporwave surreal ocean
 checkerboard pattern underwater
@@ -47445,7 +47442,7 @@ parking lot
 misty forest scene
 surface hives
 deformed human body
-sigma 85mm f  8
+sigma 85mm f 8
 circa 1984
 face made out of clouds
 demon boxing hero
@@ -47577,7 +47574,7 @@ mars aerial photography
 bottles covered in wax
 on a botanical herbarium paper
 with arms up
-wild shape : raccoon
+wild shape: raccoon
 frost clings to her skin
 lost in the moment
 dimmed lightning
@@ -47820,7 +47817,7 @@ furniture around
 business surrounding
 beautiful adult library fairy
 in an elevator
-( evangelion )
+evangelion
 with long antennae
 dark desert background
 full-body art
@@ -47845,7 +47842,7 @@ watertank
 cgsociety unreal engine
 funny illustration
 top tex bottom text meme
-graffiti   background ( smoke )
+graffiti background ( smoke )
 ultramarine metal
 soil
 ancient stone tiling
@@ -47861,7 +47858,7 @@ kyoto inspired
 girl pinup
 a backpack
 evening at dusk
-( octane render )
+octane render
 futuristic pistol
 ivy vines
 dark building
@@ -47882,7 +47879,7 @@ identical
 guide
 garbage wheel bin
 steampunk automaton
-environments )
+environments 
 gentle femdom
 gentlemens dinner
 geometric futuristic cityscape
@@ -48060,7 +48057,7 @@ only
 once
 wearing winged helmet
 fantasy painting hd
-high focus f-2 2
+high focus f-22
 sun at dawn
 rectangular pool
 movie still from game of thrones
@@ -48099,7 +48096,7 @@ james gurney brom
 wearing a full leather outfit
 knee
 his cape is the american flag
-carnal ) wet
+carnal wet
 glittering sun rays
 force field
 wearing ivory colour dress
@@ -48288,7 +48285,7 @@ music instruments
 music records
 living tree
 full body portrait holding bottle
-(neon colors)
+neon colors
 lee bermejo and darwyn cooke
 long lost technology
 long shot kodak portra 400
@@ -48376,7 +48373,7 @@ colorful caparisons
 mf doom reptile eyes
 mf doom with reptile eyes
 round ears
- ( black witch hat
+black witch hat
 knees
 steven wiltshire
 loony toons
@@ -48390,7 +48387,7 @@ bubble goth makeup
 wide leg hakama trousers
 tibetan inspired architecture
 modern office
- cinematic  concept art
+cinematic concept art
 modern scientific documents
 golden throne
 modern technology building
@@ -48527,8 +48524,8 @@ realistic glass sculpture
 wind-swept
 sarah shahi
 person made of tree
-background ( smoke
-concrete )
+background smoke
+concrete
 dark hangar background
 pristine and clean
 five points of articulation
@@ -48593,7 +48590,7 @@ sadness look
 charmed sexy look
 amazing blue background theme
 perfect lips
-portal game 9999 9 valve
+portal game 99999 valve
 dc style
 black iron crown
 intricate gold crown
@@ -48711,7 +48708,7 @@ portrait of the old necromancer
 hyper refined
 portrait saruman
 burnt umber and blue
-smiling  attractive
+smiling attractive
 neal adam
 body and torso
 snow white as a d&d fighter
@@ -48790,7 +48787,7 @@ ruins of ancient technology
 running robots in a marathon
 andrey tarkovsky
 russian revolution 1910
-rustic yet enormous scp (secure
+rustic yet enormous scp secure
 35mm f2.8 4k
 samurai portrait photo
 satan daughter
@@ -48827,7 +48824,7 @@ wearing correct era clothes
 shop window for magical weapons
 side portrait of cute girl
 nike shirt
-( land )
+land
 photoreal details
 simple yet detailed
 animal skulls
@@ -48940,7 +48937,7 @@ in the fallout wasteland
 the crown is very high
 technology cloak
 the orb of time
-  kauai
+kauai
 small reflecting rainbow stars
 the robot wearing her human mask
 the see horse valley
@@ -49074,7 +49071,7 @@ great proportions
 stunning high tech
 anthropology photo
 modern calligraphy art
- cosmic
+cosmic
 🌻🎹🎼
 🍁 cute
 🤤 girl portrait
@@ -49101,7 +49098,7 @@ a robot
 eating a cheese platter
 dim atmosphere
 nikon d6
-(extremely detailed
+extremely detailed
 notan art
 latino american
 colorful crystals
@@ -49141,7 +49138,7 @@ aardman studios
 teal orange color scheme
 bladerunner style
 victo ngairich grainy texture
- dieter rams
+dieter rams
 asymmetric composition
 on a boat on a lake
 detailed impasto brush strokes
@@ -49160,7 +49157,7 @@ happy birthday candles
 havoc
 snow flurries
 breath condensation
-  hyperrealistic
+hyperrealistic
 toon boom render
 beach tennis
 extreme log shot
@@ -49466,7 +49463,7 @@ denim short pants
 hairband
 wide open wings
 sad green eyes
-high detailed)
+high detailed
 black shoes
 icy mountains in the background
 art nouveaux colored
@@ -49716,7 +49713,7 @@ defying gravity
 a red cape
 black heavy armor with gold trim
 space dandy
-(fish eye)
+fish eye
 reasonable lighting
 very famous photo
 fluff
@@ -49833,8 +49830,8 @@ the treetops of giant oaks
 medieval futurism
 rocket launchers
 a still life of a microwave
-(gears)
-(bolts)
+gears
+bolts
 wood panels
 50 years old
 pimps
@@ -49937,7 +49934,7 @@ purple liquid in cup glowing
 stinky
 her foot sticking out
 fractal design
-(bee)
+bee
 são paulo
 an alien city
 yellow and red color scheme
@@ -49969,8 +49966,8 @@ carved from sapphire stone
 rtx ray tracing
 an intact ancient alien ship
 age of empires 2
-(anthropology of wonder)
-(colonial expedition)
+anthropology of wonder
+colonial expedition
 andre the giant
 short grey hair
 pained expression
@@ -50278,7 +50275,7 @@ columbo
 first-person pov
 uses explosives
 c4 explosive
-(ethereal)
+ethereal
 smoke fills the area
 german and soviet soldiers
 renzo piano
@@ -50290,7 +50287,7 @@ artistic depiction
 baroque ornament details
 very close detailed closeup
 1959
-crib goch  ridge
+crib goch ridge
 old hollywood
 white flower
 sailing boats
@@ -51403,8 +51400,8 @@ young carrie fisher
 alt art
 holding a tankard of ale
 lightning eyes
- metal
- 4k digital art
+metal
+4k digital art
 view(full body + zoomed out)
 at the top of a red rock canyon
 fire beam
@@ -51419,7 +51416,7 @@ tabletop miniature
 no numbers
 made from paper
 magical fishing rod weapon
-f/1 1
+f/11
 amulet
 laboratory background
 3d studio max
@@ -51451,7 +51448,7 @@ evan lee
 xintong chen
 deep blue oceans
 a yellow sun shining down
- adamantly defined abs
+adamantly defined abs
 acton figure
 background is white
 3d society
@@ -51556,7 +51553,7 @@ award-winning scifi
 super clear
 finger of god
 brian kesinger
-( vibrating colors )
+vibrating colors
 tiles curtains
 full of grass
 kickflip
@@ -51709,10 +51706,10 @@ museum light
 littered with garbage
 lee madgwick and zack snyder
 futuristic vehicles
-(grin)
+grin
 intricate dark background
 in claymation
-(empty black void)
+empty black void
 in the movie dune
 of an old man
 people running in fear
@@ -51725,7 +51722,7 @@ envious atmosphere
 scruffy facial hair
 fires hyperrealistic
 dark. studio lighting
-focal length : 50mm
+focal length: 50mm
 ring lighting
 trance compilation cd
 league of legends art style
@@ -51961,7 +51958,7 @@ from 1890
 beautiful and mysterious
 schlieren flow visualisation
 very fluffy
-( cyberpunk )
+cyberpunk
 cgsociety hd
 cgsociety 4k uhd
 high res beautiful lighting
@@ -52108,7 +52105,7 @@ glamour lighting
 hadron collider technology
 metal gears
 swirling bioluminescent energy
-shot with iphone 1 0
+shot with iphone 10
 photography 50mm f1.4
 heroic fantasy art
 center angle
@@ -52209,7 +52206,7 @@ rubedo
 clean post process
 official poster artwork
 cave paintings
-warhammer 4 0k fantasy
+warhammer 40k fantasy
 lightweight but imposing
 brigandine
 4k manga wallpaper
@@ -52226,7 +52223,7 @@ sci-fi look
 levitating sand
 winged wolves
 rivers of blood
- colored pen
+colored pen
 prismatic colors
 markus vogt
 dim cinematic lighting
@@ -52850,7 +52847,7 @@ digital artray tracing
 dense hypermaximalist metropolis
 reading for a party
 sword antlers
- tarot card
+tarot card
 third dimensional
 complex computations
 alone gorgeous latin woman
@@ -53015,7 +53012,7 @@ light through windows
 clouds visible
 photographed on ektachrome film
 ornate portrait
-detailed : cornea
+detailed: cornea
 bloodborne diagrams
 light caustics effect
 thick braided beard
@@ -53226,7 +53223,7 @@ asian old skinny scientist
 assembled
 blue transparent jelly
 steppe
- bubbles
+bubbles
 straight grey hair
 realistic soft lighting
 payne's grey and venetian red
@@ -53376,7 +53373,7 @@ interstellar hyper realism
 cute smiling face
 attractive face and body
 cute happy face
-cell shading. buy now ( rb 6 s
+cell shading. buy now rb 6 s
 beautiful cyborg priestess
 4k cinematic panoramic view
 full object in middle
@@ -53593,7 +53590,7 @@ still in package
 intense black eyes
 thin corpse
 rigid
-minimalist   )
+minimalist 
 dramatic black smoke everywhere
 dark future atmosphere
 individual
@@ -53770,9 +53767,9 @@ greek nose
 elaborate digital art
 black fog
 cat-superman
-cat  playing a piano
- synthwave art style
-(pink colors)
+cat playing a piano
+synthwave art style
+pink colors
 volumetric fur
 cat photo
 cat giraffe hybrid
@@ -54084,8 +54081,8 @@ beautifully ordinated
 cooking show
 copper wire
 dangerous swamp
- realistic photo
-corgi with  angelic wings
+realistic photo
+corgi with angelic wings
 evil guitars
 an expressive oil painting
 cosmic cataclysm
@@ -54226,7 +54223,7 @@ minimal geometric
 one-eyed man
 dachshund
 riften city in the background
-the elder scrolls v : skyrim
+the elder scrolls v: skyrim
 girl watching sunset
 empty wheat field
 holding daisy
@@ -54329,7 +54326,7 @@ signature on the bottom
 wolfgirl
 horrific surreal nightmare
 living spore microorganisms
-large  eyeglasses
+large eyeglasses
 with labels and notes
 for a beautiful
 upside-down
@@ -54483,7 +54480,7 @@ j. w. godward
 cute miniature resine figure
 wide angle lens. 8k
 feathers and paint
- dark green
+dark green
 snake from metal gear
 edo style
 megacity streets seen from above
@@ -54625,7 +54622,7 @@ fairy tale place
 venom fang
 murky lighting
 fog golden hour
-fallout 5 : miami
+fallout 5: miami
 technicolour 1
 vermilion and red lake
 tosa school
@@ -54927,8 +54924,8 @@ standing in a field with flowers
 dark sepia toned shading
 girl with plaits
 silicone patch design
-wearing : tanktop
-hair : long brown
+wearing: tanktop
+hair: long brown
 girlboss
 many trees
 in the hillside
@@ -55109,7 +55106,7 @@ feathered headdress
 in the justice league
 in assassin's creed 3
 well designed female dragon head
-iron age : leonardo da vinci
+iron age: leonardo da vinci
 polyphonic bio-communications
 arcane ritual
 entangled vibrating
@@ -55316,7 +55313,7 @@ jamie lee curtis
 dynamic proportion
 sepia sunshine
 tokyo-esque town
-distance  shot
+distance shot
 mocap
 japanese scenery in edo period
 jason momoa as assyrian
@@ -55395,7 +55392,7 @@ big towers
 iridescent. fantasy
 art of kryssalian
 spring evening
-( few clouds )
+few clouds
 language learning logo
 lara croft medieval
 street photograph
@@ -55440,7 +55437,7 @@ natural short hair
 heian
 black white gold
 saab 39 gripen
-heavy ink  mike mignola
+heavy ink mike mignola
 warm air
 cloudy atmosphere
 red green color palette
@@ -55792,7 +55789,7 @@ windowsill
 anamorphic shot lens
 in john salt style
 games 3d
-location ( favela   wall )
+location ( favela wall )
 magical battlefield background
 on a futuristic shopping mall
 feather native american headgear
@@ -55965,7 +55962,7 @@ she is about 70 years old
 richly defined face
 akihiko yoshida 8k
 portrait of a melancholic lady
-( redhead
+redhead
 raised hand
 wielding a wrench
 portrait of a mystical giant eye
@@ -55994,7 +55991,7 @@ portrait of an alcoholic
 reptile face
 evergreen forest
 portrait of anthropomorphic bear
-detailed no. 1 0 downing street
+detailed no. 10 downing street
 portrait of archie andrews
 wearing pink hair bow
 portrait of ben stiller
@@ -56062,7 +56059,7 @@ magnetic waves
 grinning lasciviously
 portrait young girl
 anthropomorphic female deer
-shirtless  high detail
+shirtless high detail
 geese
 glassy fracture
 wholesome techno-shaman lady
@@ -56381,7 +56378,7 @@ marking lines
 masked heroes
 irradiated humans
 jellycat
- ( aquarium bed
+aquarium bed
 terrifying monster
 teutonic knight
 thanos working at starbucks
@@ -56612,7 +56609,7 @@ abandon the ego
 modern tones
 lots of negative space
 photo kodak lens
- moist
+moist
 ✨🕌🌙
 ❤🔥🍄🌪
 🐋 as 🐘 as 🤖 as 👽 as 🐳
@@ -56645,10 +56642,10 @@ hooded cloaked sith lord
 cruise control
 impossibly lifelike composition
 butterfly pop art
- very coherent vector art
+very coherent vector art
 nuke
 square jaw-line
-'groovy'
+groovy
 with stalinist style highrise
 realism drawing
 hidden animals
@@ -56704,26 +56701,26 @@ neon coloring
 flower garden summer morning
 robert kinoshita
 the dawn of man
-  ( jaguar e-type car
+jaguar e-type car
 bullet proof vest
 string puppet
 sounds in the graveyard
 lying down
 lovely languid princess
-breastplate  )
+breastplate 
 visor covering eyes
 river flow through borneo jungle
 amazing professional picture
 cyberwars
 1989 disney
- glitch art
+glitch art
 firewatch
- isometric
- unreal engine
+isometric
+unreal engine
 strong grain
 strong shadow
 detailed pixel artwork
- god king of ai art
+god king of ai art
 sound wave
 perfect anime
 giant legs
@@ -56733,7 +56730,7 @@ dog looks like elephant
 in my bedroom
 heavy fire on the background
 in a fighting pose
-( sasquatch
+sasquatch
 back-lit
 green bright red
 phenomenally aesthetic
@@ -56758,7 +56755,7 @@ myst on the air
 chasing a kangaroo
 2070
 ethan van sciver
-5 fingers). full body realistic
+5 fingers. full body realistic
 vectorial
 /r/earthporn
 1010mm
@@ -56809,9 +56806,9 @@ damage paper
 standing on a shelf
 12 figures
 representing the 4 seasons
-(3 are winter
+3 are winter
 3 are spring
-3 are summer and 3 are autumn)
+3 are summer and 3 are autumn
 rolleiflex tlr
 14 yo berber boy
 bouguereau and bowater
@@ -57207,9 +57204,8 @@ david noren
 a beautiful pole dancing fairy
 fashionweek backstage
 neon sunglasses
-'20
 ultraviolet and neon colors
-white: 0.5
+white
 looks like ebru şahin
 looks like fabiula nascimento
 looks like laura barriales
@@ -57325,7 +57321,7 @@ cognitive cohesion coherence
 crisp hd resolution
 theophanic atmospheric vivarium
 redwoods
-high resolution print   red
+high resolution print red
 pink mohawk
 takada akemi
 velly distant forest
@@ -57568,7 +57564,7 @@ stick figure
 elegant art nouveau style
 glass window
 c3po
-(snow)
+snow
 shed
 a still life of a robot
 cassette tape
@@ -57727,8 +57723,8 @@ red cross
 harp
 green hat
 sharp soft focus
-(heart)
-(fire)
+heart
+fire
 an alien jungle
 an alien planet
 blu-ray transfer
@@ -57775,7 +57771,7 @@ spaceships in sky
 high precision
 mirror lake
 robot portrait
-art deco era)
+art deco era
 hourglass shaped eye irises
 playing at swimming pool
 game promotional poster
@@ -58412,7 +58408,7 @@ looking straight to the camera
 in spacesuit
 drawn in fine-tip pen
 aquarel
-dnd)
+dnd
 the scream painting
 intricate gold jewelery
 professional photography canon
@@ -58442,7 +58438,7 @@ highly detailed refraction
 accurate isometric viewpoint
 art decoration
 highly accurate light refraction
-rich in texture )
+rich in texture 
 building blocks
 tiny sticks
 tiny insects
@@ -58462,9 +58458,9 @@ in an arena
 ethereal cardinal bird
 united states
 38 years old
-(dark shorter curly hair)
-(38 years old)
-(good looking )
+dark shorter curly hair
+38 years old
+good looking
 eva green is metamorpho
 the element woman
 cumulonimbus clouds in the sky
@@ -58477,7 +58473,7 @@ office furniture
 geometric wood carvings
 steampunk airship
 eyes everywhere
-ezreal (league of legends
+ezreal league of legends
 giant scale
 in style of cytus and deemo
 slight evil smile
@@ -58548,8 +58544,8 @@ red filter
 iso-250
 {perfect body}
 full art illustration
-5 fingers). full body
-eyes). full body
+5 fingers. full body
+eyes. full body
 no additional arms
 no extra legs
 red leather short coat
@@ -59084,7 +59080,7 @@ award-winning oil painting
 wearing cool sunglasses
 mr. bean (rowan atkinson)
 nuclear fungus
- holding in his hand
+holding in his hand
 enhanced noise
 chrome armor
 medium-length portrait
@@ -59776,7 +59772,7 @@ nile river environment
 zero suit samus
 zoe saldana
 game board
- synthwave art style
+synthwave art style
 benches
 background(solid)
 bloodborne cathedral
@@ -60154,7 +60150,7 @@ local people chasing to attack
 evidence
 70s retro scifi art
 antonio j. manzanedo
-(screen print)
+screen print
 stamp
 shes alone
 maximalist fashion dress
@@ -60389,7 +60385,7 @@ information visualization
 blacklight neon colors
 sunrise background
 where being rest in peace
-'dark sun'- campaign setting
+'dark sun' campaign setting
 the dark sun of athas
 oil on canvas (1921)
 realistic weapons
@@ -60406,8 +60402,8 @@ with cables and wires coming out
 smirk expression
 digital concept art illustration
 floating lanterns
- split hair dye
- two tone hair dye
+split hair dye
+two tone hair dye
 french resistance
 lead-covered spire
 during night
@@ -60614,7 +60610,7 @@ photorealistic raytracing
 cloud day
 the last airbender
 spaceship window
-elle fanning)
+elle fanning
 casting fire spell
 in the middle of round ruins
 bright colour
@@ -60668,7 +60664,7 @@ sally
 travel guide
 good times
 desi
-great quality )
+great quality 
 ink artwork
 carrion
 side portrait imagery
@@ -60746,7 +60742,7 @@ studio medium format photograph
 high resolution texture
 resignation
 for 1970s sci-fi
-surrealism  concept art
+surrealism concept art
 fit woman
 basil flying
 merchant collector
@@ -60786,7 +60782,7 @@ walking through the trees
 over the tree tops
 roofed forest
 big island
-cold brew coffee )
+cold brew coffee 
 no restaurant
 ornate and brooding
 rounded ceiling
@@ -60908,7 +60904,7 @@ cinematic lighting tri-x
 bugatti
 soft and muted colors
 gothic harts
-warhammer 4 0
+warhammer 40
 cinema verite
 rendered in cinema 4d octane
 illinois
@@ -61313,7 +61309,7 @@ wires for hair
 iridescent fractal whirls
 inner ear
 exotic artifact
- ( surrealism  )
+surrealism
 extremely detailed oil portrait
 giant and fat
 back yard
@@ -61521,14 +61517,14 @@ smelters
 forges
 chiseled architecture
 braziers
- railings
+railings
 venus project
 futuristic skyscraper
 1800's
 dark fantasy city
 fursona wearing stylish clothes
 matte background. unreal engine
-aesthetic  female genie
+aesthetic female genie
 green jungle
 kara walker james jean
 vibrant chromatic colors
@@ -61671,7 +61667,7 @@ intricate detailed background
 electronic brain
 an artistic pose
 fine painting
- digital art
+digital art
 synthwave art style
 sakura pigma micron
 ringed planet in the sky
@@ -61686,7 +61682,7 @@ with a snowy mountain and ice
 wearing a hospital gown
 teenage female schoolgirl
 mystical and new age symbolism
-taken on iphone 1 3 pro
+taken on iphone 13 pro
 beyond the known universe
 70s palette
 strands of fog
@@ -61823,7 +61819,7 @@ with organs labeled
 quadruped
 exact anatomy
 anatomically correct heart
- forgetful
+forgetful
 botanical artwork
 romanesque style
 glowing third eye
@@ -62019,7 +62015,7 @@ rounded architecture
 gunpowder smoke
 marton csokas
 army parade glorious march
-screen short from mafia 2193 0style
+screen short from mafia 2 1930style
 diner caffee
 soft cute colors
 arrendajo in avila pinewood
@@ -62472,7 +62468,7 @@ sparse freckles
 queen of the ghosts
 squish
 macro
-35mm  lens
+35mm lens
 indistinguishably unique
 beautiful young asian woman
 holy imagery
@@ -62535,7 +62531,7 @@ big foot
 many speakers
 raper artist
 8k cinematic lighting
-matej ‘retro' jan
+matej 'retro' jan
 big juicy burger
 flying into the sky
 poster tour
@@ -62587,7 +62583,7 @@ russian criminal tattoos
 vamp
 stylised comic art
 frank frazetta manga style
- ( skeleton  )
+skeleton
 black canvas
 black eyed kids
 in the beach
@@ -62827,7 +62823,7 @@ ghostly atmosphere
 bright:
 taurus
 lourmarin
- bioluminescent colors
+bioluminescent colors
 eating a pizza
 rubber hose
 rainy city at night
@@ -62893,7 +62889,7 @@ sci-fi
 blue and yellow ribbons
 black and violet costume
 aura of power. detailed
- mask
+mask
 formal black suit. detailed
 redneck country
 heroes of might and magic 3
@@ -63075,7 +63071,7 @@ little people
 cauldrons
 medieval castle on background
 young adult fantasy novel cover
-sharp )
+sharp 
 fashionable dark witch
 anatomically correct features
 close-up profile face
@@ -63094,8 +63090,8 @@ daz studio genesis iray
 fractal details diamond skin
 camera looking down into the maw
 summer festival night
-‘luca'
-‘raya and the last dragon' etc
+luca
+raya and the last dragon' etc
 dream aesthetic
 gleaming skin
 still photograph
@@ -63365,7 +63361,7 @@ werecrow
 sludge
 creepy astronaut
 spider abdomen
- spiderwoman
+spiderwoman
 halloween theme
 nice style culture
 furniture magazine
@@ -63635,7 +63631,7 @@ stage speakers
 master sword
 space nebula in background
 very beautiful long slim legs
-violent west )
+violent west 
 kelp forest
 photographic journalism
 european river
@@ -64013,10 +64009,10 @@ ethereal realm
 central shot
 organic forms
 ussr armor
-art colouring : roberto bernardi
-art foreground : eloy morales
-background : diego fazio
-structure : kyle lambert
+art colouring: roberto bernardi
+art foreground: eloy morales
+background: diego fazio
+structure: kyle lambert
 discovered photo
 disassembled
 evangelion anime
@@ -64237,7 +64233,7 @@ detailed photoreal
 pre-rendered
 knight wearing plate armor
 spider zero
- mystic
+mystic
 finn from adventure time
 fiora from league of legends
 light transport
@@ -64271,8 +64267,8 @@ fleshy-cyborg-zombie
 50mm fe f/1.8
 in the backrooms
 large pillars
- ( alien  )
- ( art deco  )
+alien
+art deco
 garden at home
 small fence
 fluffy cat t-shirt design
@@ -64445,7 +64441,7 @@ big intelligent eyes
 fire behind him
 warm illumination
 magical digital
-anime  key visual
+anime key visual
 wondrous and magical
 in an urban setting
 neon green lava streets
@@ -64758,7 +64754,7 @@ hell with people suffering
 evil spirits roam with lanterns
 fighting for life
 marvel concept art
- fantasy plants
+fantasy plants
 here's johnny
 smooth contours
 whimsical beaver
@@ -64788,7 +64784,7 @@ vray cinematic smooth
 lee madgwick & yuto yamada
 long spiky fluffy smooth hair
 multi pastel colors
-smooth in   the background
+smooth in the background
 madhubani
 profile photography
 she has purple hair
@@ -64953,7 +64949,7 @@ laughter and screaming face
 detailed set design
 thy
 hyper realistic poison bottle
-marijuana leaves ) wet
+marijuana leaves wet
 green suit and bowtie
 porcelain white face
 locker room
@@ -65015,7 +65011,7 @@ raver girl
 ar glasses
 dreamcast
 futuristic orbital station
- stippled gradients
+stippled gradients
 summer landscape with mountain
 skyscrapers 1930s
 miami. illustration
@@ -65136,7 +65132,7 @@ dark runes
 wooden crates
 invisibility
 finding words
-iphone 1 3 pro max
+iphone 13 pro max
 ipseity
 irelia from league of legends
 the blade dancer
@@ -65158,11 +65154,11 @@ detailed hatching
 peter eisenman
 isometric futuristic building
 forelight
-( conceptual art )
-( ready-made )
+conceptual art
+ready-made
 4k post processing 8k
 wind egyptian god
- takeshi amano
+takeshi amano
 jacen solo
 jack nicholson as napoleon
 jack russel dog
@@ -65170,7 +65166,7 @@ jack russel terrier
 khakis
 japanese cyborg
 sunny bay window
-far  away
+far away
 1988 melt movie classic
 city hunter
 Japanese farmer
@@ -65399,8 +65395,8 @@ in matrix
 portrait of young man
 maddening knowledge
 mysterious eerie portrait
-pouty look  octane render
-sci-fi concept art  nixri
+pouty look octane render
+sci-fi concept art nixri
 spring fashion
 magazine illustrations
 hyperreal highly detailed 8k
@@ -65847,11 +65843,11 @@ light ray from a blurry window
 art bundle
 phantom list
 phone wallpaper hd
-concrete   wall )
+concrete wall 
 location ( favela )
-background ( dark   smokiness )
-medium  graffiti
-anthropomorphic   humanoid
+background ( dark smokiness )
+medium graffiti
+anthropomorphic humanoid
 in lake
 photo from behind of a cowboy
 sitting at the table
@@ -65948,7 +65944,7 @@ brass plated
 work clothes
 stereogram
 pingu sitting behind a computer
-pinhole photo : dream
+pinhole photo: dream
 morrocan lamp
 natural geographic photography
 soft light through blinds
@@ -66003,7 +65999,7 @@ portrait demi rose
 black fire color reflected armor
 ice-carving
 dull blue cloudy background
-( ivory black )
+ivory black
 noticeable tear on the cheek
 wearing in shirt
 strong spirit
@@ -66590,7 +66586,7 @@ small cottage with red shutters
 tiny house
 render 3d
 dramatic ambient light
- colored photography
+colored photography
 smol fluffy cat wearing smol hat
 smooth design spaceship sketches
 snail in the style of nfl logo
@@ -66668,15 +66664,15 @@ peeled oranges
 sliced grapefruit
 still of rainbow ophanim
 movie leaks
-dressed in a   12th century
- ( in a dark
+dressed in a 12th century
+in a dark
 colorful clear sharp focus
 storm at sea
 crystal waters
 mary ellen mark
 face as of dwayne johnson
 sitting with wrists together
-intricate  professional
+intricate professional
 real saxophones
 real sousaphones
 real bongos
@@ -66780,7 +66776,7 @@ telepaths
 ted danson
 wearing white chef hat
 near kitchen stove
-lamp  ( mirror
+lamp mirror
 low saturated red and blue light
 terraforming mars
 tesla dune buggy
@@ -66868,7 +66864,7 @@ hard light digital painting
 the robot in her mechanical mask
 the rules of proportion
 the sands of time
-the scooter ( edm band
+the scooter edm band
 the shire castle
 the smooth black lioness
 the sorcerer's doll
@@ -67000,11 +66996,11 @@ unholy gathering
 universe in a grain of sand
 unique environment
 up close portrait of mr bean
-( boris johnson )
+boris johnson
 us in a vast night
 vampire cat
 vanishment of the gods
-black background)
+black background
 vast ice dungeon
 vast mountain landscape
 siliconized
@@ -67020,7 +67016,7 @@ sharp claws close up
 in a rock chair
 furaffinity award winning
 beauty mark on cheek
- deep black eyes
+deep black eyes
 dark super storm
 leaves on branches
 solar power
@@ -67244,7 +67240,7 @@ halos
 intimidating full body armor
 dream los angeles
 rembrandt and gigadō ashiyuki
-deity)
+deity
 desktop
 ferdinand knab background
 cubic minerals
@@ -67259,8 +67255,8 @@ large breasts size
 royal photography
 a gigantic wall
 bigger than the size of a planet
-photorealistic 35mm'
-( gears of war )
+photorealistic 35mm
+gears of war
 the mome raths outgrabe
 dark cape
 neck chains
@@ -67276,11 +67272,11 @@ big white moon background
 victoriana
 falling hearts
 auguste toulmouche
-.. if only i could sleep
+if only i could sleep
 refraction caustics
-atmospheric clouds'
+atmospheric clouds
 zido
-'wherever you go
+wherever you go
 style of the matrix
 2 arms
 scrambler
@@ -67289,7 +67285,7 @@ black cat at her feet
 wearing a tanktop and skirt
 photo of head
 logan's run
-  3d render
+3d render
 ventricles and aorta
 strange planet
 brass goggles
@@ -67297,12 +67293,12 @@ dan munford
 pink gradient background
 aardman
 low camera position
- emma lindstrom
- glitch art pixel sorting
+emma lindstrom
+glitch art pixel sorting
 fine grain texture
 confident smirk
 rich detailed pixels
- dithered
+dithered
 brand identity
 floats in space
 modern color
@@ -67326,12 +67322,12 @@ arcane style
 game level
 parhelion atmospheric halos
 volcano exploding
-strong shadows)
-(a bowl of fruit)
+strong shadows
+a bowl of fruit
 palpatine
 fur hdr
 birthday wrapped presents
-colorful digital screens) xf iq4
+colorful digital screens xf iq4
 road trip
 szekely bertalan. atmospheric
 * colour splash *
@@ -67510,7 +67506,7 @@ fire fight
 free-fire
 1992 video game concept art
 set in cyberpunk bank vault
- 80s anime style
+80s anime style
 ghost in the shell bullet vfx
 bizarre alien creature
 gold and silver
@@ -67850,7 +67846,7 @@ goonies
 candid flash photography
 dalle2
 8bit game. cute c4d
-high texture detail)
+high texture detail
 in trenches
 she has white eyes
 cozy candlelight
@@ -67872,7 +67868,7 @@ style of ralph steadman
 flowing black hair
 luxury fashion
 old war poster
- full body robot
+full body robot
 many origami roses
 mmorpg scene
 3d eco brutalist
@@ -68285,10 +68281,10 @@ curls on top of his head
 grey-eyed
 beige hair
 magdalena andersson
-scary castle  mystical
+scary castle mystical
 a middle aged elf
 very very detailed face
-desolate  a long shot
+desolate a long shot
 symmetric photography
 gladiator armor
 glowing blue mushrooms in mire
@@ -68313,13 +68309,13 @@ sitting atop a dusty mountaintop
 a mythical creature
 half dog
 lots of books
-psychology  concept art
+psychology concept art
 a new
 offset lithography
 strong moonlight
 atomic bomb
 guilty gear strive splash art
-(flowers)
+flowers
 museum archive
 fitzgerald
 coffee stain
@@ -69532,7 +69528,7 @@ futuristic cyberpunk scenario
 edward scissorhands
 contemporary surrealism
 nihonga
-(cheese)
+cheese
 night day time
 statue of liberty at left
 infinity hieroglyph waves
@@ -70001,7 +69997,7 @@ architectural photo
 ultra 8k quality
 wolverine ate
 woody's homework
-human  sorceress
+human sorceress
 distraught
 sitting in a movie theater
 human flesh
@@ -70456,7 +70452,7 @@ mistborn
 pokeball
 misty mountains
 low poly 3d model
-black and white)
+black and white
 greenery growing
 white plank siding
 galvalume metal roofing
@@ -71011,7 +71007,7 @@ holistic medicine advertisement
 biopunk toys made in china
 ren and stimpy style
 cartoon from the 90's
-megastructure background)
+megastructure background
 symmetrical portrait rpg avatar
 shed roof
 blood dripping from mouth
@@ -71341,7 +71337,7 @@ inside a decayed surgical room
 inside a decayed hospital room
 tyrion lannister
 ufo attack
-kano)
+kano
 ufo landing
 wearing clown makeup
 real wings
@@ -71509,7 +71505,7 @@ zyzz
 volumetric light and mist
 moonlight through trees
 concept art scene
- horror game
+horror game
 highly detailed. realistic award
 🇺🇦
 mystic shepherd
@@ -71541,7 +71537,7 @@ the style of rococo
 ancient swirls
 hand carved
 imax 70mm. silent running
-lightyear ( film
+lightyear film
 70mm dramatic lighting
 100 meter in the distance
 three fourths view
@@ -71589,8 +71585,8 @@ advanced digital paint
 seen from outside
 bo xun ling
 square glasses
- fireworks in the sky
- character design
+fireworks in the sky
+character design
 fiery environment
 bokeh dof sky
 her face is coated in a white
@@ -71785,7 +71781,7 @@ diablo concept art
 chunky build
 fallas party figures
 stratosphere
- film noir
+film noir
 gloomy and depressed
 six point perspective
 red and black colour scheme
@@ -71876,7 +71872,7 @@ ultra fine colored inking lines
 relaxing at the beach
 acid house
 variable lighting
- scifi
+scifi
 ( apocalyptic ) 8k
 band name is tripmachine
 procedural light
@@ -71999,8 +71995,8 @@ completely consisting of fire
 1970 colour photography
 golden arches
 red wall
-( all seeing eye )
-( dieter rams )
+all seeing eye
+dieter rams
 professional digital edit
 large waves crashing over it
 close photo
@@ -72141,7 +72137,7 @@ perfect teeth
 zbrush hard surface
 4k wide angle
 she is dressed as a belly dancer
-sigma 85mm f/1 4
+sigma 85mm f/14
 silly cartoon
 minimal contraption
 stop motion character
@@ -72212,7 +72208,7 @@ looking at sunset
 reykjavik
 intricate ink painting
 court sketch art
-fisheye  lens photography
+fisheye lens photography
 chromatic aberration
 he is holding a large book
 tournament
@@ -72351,7 +72347,6 @@ tumbleweeds
 outside alone smoking weed
 optical art
 modulated line
-cgsociety-no cameron
 paul kratter
 geri keary
 octane. trending on artstation
@@ -72540,7 +72535,6 @@ panning shot
 kodak ektar 100 film
 holding up a large shield
 so happy that her face hurts
-3453 1579
 reuben wu
 hong soonsang
 burnt armor
@@ -72663,7 +72657,7 @@ flowery wallpaper
 shot from the side
 detailed torso
 disneyland castle
-princess peach)
+princess peach
 desjarlais
 wearing black dress and hat
 wearing black old dress and hat
@@ -72688,7 +72682,7 @@ portal opening
 raising of consciousness
 focus gate
 radioactive horror painting
-mandy jurgens 8k 150 mpx
+mandy jurgens
 4k cinematic still
 the tree is on top of a calm sea
 intricate and detailed lace set
@@ -72707,7 +72701,7 @@ colorful plasma hairs
 striking visuals
 in her art room
 octane render a lonely rainbow
- muted colors
+muted colors
 perfect high resolution
 head looking up
 view from inside
@@ -72893,7 +72887,7 @@ scattered glowing pink fireflies
 yoshiaki kawajiri
 river of blood
 rock band
- illustration
+illustration
 handheld
 anatomical details
 great details
@@ -72936,7 +72930,7 @@ super fine detail
 cages
 cryengine render 8k
 colorful lightning cinematic
-sigma 5 0
+sigma 50
 happy colours
 large geometric shapes
 2050s
@@ -73001,7 +72995,7 @@ star wars digital art
 buildings in the distance
 distorted photo
 fire golem creature
- large black hat
+large black hat
 beautiful color art
 everything is burning
 arms of lemons
@@ -73149,7 +73143,7 @@ renewable energy
 hidetaka tenjin
 bursting with muscles
 group mass composition
-seasons : 🌸 ☀ 🍂 ❄
+seasons: 🌸 ☀ 🍂 ❄
 photographer art wolfe
 pointed hoods
 wood materials
@@ -73277,7 +73271,7 @@ jester hat
 edward hopper vibe
 yellow and black grapes
 walnuts
-ultra detailed content : face
+ultra detailed content: face
 mimic. random position content
 frontal realistic
 xenophobia
@@ -73909,7 +73903,7 @@ cinematic imax shot
 it's getting dark
 rendered in 4k
 wearing a round helmet
- photorealistic
+photorealistic
 she wear gasmask
 floating into the sky
 narrow passage
@@ -74036,7 +74030,7 @@ lycra costume
 high detial
 cybermosque interior
 wearing golf shorts
-obese )
+obese 
 massive glowing neon axe
 destroyed armor
 high definition screen capture
@@ -74103,7 +74097,7 @@ age of empires 3
 city lights in the background
 agent cooper
 ahegao
-lying in bed  blanket
+lying in bed blanket
 star wars rebels
 3 boat in river
 ai biomech
@@ -74300,7 +74294,7 @@ kodak ektachrome 100
 data bending
 peter mohrbacher highly detailed
 su fu
-aleriia   v ( lerapi )
+aleriia v ( lerapi )
 an ancient city on fire
 black and brown
 1930 photo
@@ -74356,16 +74350,16 @@ formal wear
 young jennifer connelly
 game ui
 raku
- everything is floating
+everything is floating
 greatly detailed
- floating
+floating
 cash on a sidetable
 jc leyendecker phil hale
 partially human
 she is the queen of black roses
 on a farm
 with an iv drip
-enviromental portrait
+environmental portrait
 evening in the forest
 full of glass. cgsociety
 an axe elemental
@@ -74404,7 +74398,7 @@ detailed 8k hd
 smiling like a jerk
 marihuana
 orange flowers
-warhammer 4 0k artwork
+warhammer 40k artwork
 melting into jolteon
 subject made of white mesh rope
 holding a big camera
@@ -74546,7 +74540,7 @@ fiendish
 real heart
 bonsai anatomy atlas
 ken currie
-strange crown )
+strange crown 
 flawless beauty
 ancient alien jungle
 last light
@@ -74562,7 +74556,7 @@ dark corridors
 ancient eldritch horror cthulhu
 on old parchment paper
 faeries
-daniel merrian  ornate
+daniel merrian ornate
 ancient goddess
 ancient gods
 playing basketball
@@ -74829,7 +74823,7 @@ arasaka mech
 red and blue neon
 funny jumbled letters
 marc simonetti and jeffrey smith
-arcane : league of legends
+arcane: league of legends
 blast of mystical energy
 mana in the air
 channeling mystical energy
@@ -75157,7 +75151,7 @@ golden windows
 red brocade and blue gemstones
 burnt sienna and cerulean blue
 massive waves
-nintendo 6 4 release day
+nintendo 64 release day
 barren tundra
 deep sinkhole
 basketball court
@@ -75509,7 +75503,7 @@ beautiful woman in spacesuit
 crazy detailed
 black and yellow colors
 very full lips
-neon  atmosphere
+neon atmosphere
 broken armor
 neverending story
 beautiful wood elf
@@ -75853,7 +75847,7 @@ jungle camo
 bradley cooper in finding nemo
 4k rendering
 brain tree eye holy grail
-take me away from the norm'
+take me away from the norm
 workshop background
 art nouveau dress
 dark misty foggy valley
@@ -76025,7 +76019,7 @@ vienna city
 european buildings
 austrian architecture
 in dark corridor
-rocks)
+rocks
 gnarled
 horrific background
 capybaras in tokyo
@@ -76107,7 +76101,7 @@ corona rendered
 dark brotherhood
 category b film poster
 cathedral of sun
-monks  fire
+monks fire
 stained glass window
 top of a canyon
 5th floor
@@ -76320,11 +76314,11 @@ conversation pit
 amused
 cinematic jennifer lawrence
 donald trump as baron harkonnen
-oozing bile )
+oozing bile 
 the last of us zombie
 cinestill 800 t 35mm 1989
 twilight in the city
- monster anatomy
+monster anatomy
 fey
 denis villeneuve film look
 blade runner set
@@ -76348,7 +76342,7 @@ unreal 5 engine rendered
 vorestation borg hound
 medical mecha canine
 cinematic silk road landscape
- baron harkonnen
+baron harkonnen
 imperial officers in white
 window into space behind them
 ornate patterned people
@@ -76475,7 +76469,7 @@ close up bust shot
 massive 70s hi fi system
 sharp focus 3d
 close up guns and roses
-‘zootopia'
+zootopia
 complicated circuits and wires
 gazing dark brown eyes
 gungrave
@@ -76530,7 +76524,7 @@ close-up of a robot sitting down
 platform game
 blurry plume smoke at background
 manga painting
-(snowy new york in background)
+snowy new york in background
 wearing long royal robe
 with straight black hair
 with high cheekbones
@@ -76611,7 +76605,7 @@ large antennae
 vs studio
 classic vibes
 cubist picasso
-lynchian  ominous
+lynchian ominous
 cognitohazard
 nicki minaj curvy
 coin with the letter n
@@ -76620,7 +76614,7 @@ dusty old ferrotype
 collage style joseba elorza
 invisible woman
 holds a small knife in hand
-moody  studio ghibli
+moody studio ghibli
 small gadget
 espiritus
 brujeria
@@ -77171,7 +77165,7 @@ dancing lights
 ink under paint
 long swirly dark hair
 canon eos 1000 d
-exposure time : 1/5
+exposure time: 1/5
 giant bugs
 daniel motz
 bill lowe gallery
@@ -77285,7 +77279,7 @@ floating robes
 whipped cream on top
 beautiful face portrait
 demon black blue purple
- wearing a long coat
+wearing a long coat
 demon necromancer
 demon woman
 cavities
@@ -77374,8 +77368,8 @@ focused photo
 solarpunk futuristic utopia
 enduring
 royal attire akira
-(neotokyo)
-(aesthetics)
+neotokyo
+aesthetics
 surreal oil on canvas
 rich bright sunny colors
 bright spells
@@ -77419,7 +77413,7 @@ digital advanced anime art
 light shafts and foggy atmosphere
 soft lulling tongue
 stacking supermarket shelves
-face  close-up
+face close-up
 emo style
 loop lighting
 awestruck
@@ -77675,7 +77669,7 @@ giant red led screens
 detailed cover artwork
 dwarf cleric
 smuggler
-dwarf scientist of 1 9 century
+dwarf scientist of 19 century
 oldman with mustach
 dazzling lights
 movie frame still
@@ -77702,7 +77696,7 @@ ecopunk rococo
 sermon of philistine greed
 sumai-e artstyle
 illustrated starbucks interior
-shattered glass  sunbeams
+shattered glass sunbeams
 sacred geometry melting
 editorial portrait
 beautiful lit lamps
@@ -77817,7 +77811,7 @@ lovely eyes
 magazine centerfold
 pop realism
 emo anime girl
-kawaii decor  rainbowcore
+kawaii decor rainbowcore
 maximalist maximalism vaporwave
 emo girl and her cat
 empress of the wasteland
@@ -77939,7 +77933,7 @@ parametric flow
 ethereal starlit city at sunset
 sea dragon
 ussr suit
-skin : tjalf sparnaay
+skin: tjalf sparnaay
 intricately
 full card design
 j. c. penny wish book 1982
@@ -78087,7 +78081,7 @@ magical witchcraft
 mortar and pestle
 old manuscripts and scrolls
 level 1 plate armour
-obsidian  skin
+obsidian skin
 chrono trigger guilty gear style
 heavily exaggerated proportions
 doom hell theme
@@ -78308,7 +78302,7 @@ chilly dark mood
 flooded tower
 floral jungle treehouse
 biedermeier
-( symmetrical )
+symmetrical
 flower goddess
 gundam box art
 copper veins
@@ -78330,7 +78324,7 @@ in an open forest
 forest elf bard playing lute
 forest floor
 white fungal spores everywhere
-( visually stunning
+visually stunning
 forest portal
 forest with lake
 stranded
@@ -78644,7 +78638,7 @@ game asset of fighters
 orange and white color scheme
 furniture and decor
 animated disney movie inking
-reference images ( front
+reference images front
 game card frame
 crustacean head
 mesomorph
@@ -78716,7 +78710,6 @@ alien tentacles
 girl walking in a canyon
 concept art rendering
 girl jumping in a flower field
-girl sitting in a flower field
 giant daisy flowers head
 dragon mouth
 glowing raytracing
@@ -78766,7 +78759,7 @@ pour cell painting
 arcane jayce
 ginger bearded man with glasses
 ginger cat in mid action
-cgsociety )
+cgsociety 
 mutsumi akasaki
 wallpaper splash art promo art
 ginko showing a new mushi
@@ -78825,7 +78818,7 @@ subtle smiling
 glamorous jill valentine
 glamorous tifa lockheart
 circular cardboard eyes
-luscious ) in the last of us
+luscious in the last of us
 colorful glass art
 cast in epoxy
 helmet made of glass
@@ -78982,7 +78975,7 @@ featuring pink brains
 fozen ice hard edges
 nobody living there
 fantasy medium shot
-8 0 ies aesthetic
+80-s aesthetic
 sitting on cyberpunk motorbike
 corpses floor
 wet relections in eyes
@@ -79006,7 +78999,7 @@ gucci bread
 gucci goddess
 guinea pig looking up at the sky
 fivestarstory style
-transformers : the last knight
+transformers: the last knight
 guts berserk
 sharp focus high quality
 nostalgic 8k
@@ -79203,7 +79196,7 @@ dramatic cloudy setting sun
 from 1000 feet in distance
 film noir realistic
 in the magic room
-accurate features )
+accurate features 
 healing glowing lights
 red and blue color theme
 high detailed close up of
@@ -79263,7 +79256,7 @@ wearing a crown made of antlers
 gradient sapphire
 mudoken
 gradient dark purple
-1 0/1 0 comedy
+10/10 comedy
 artbreeder. high quality art
 nomadic urbanism
 detailed forest
@@ -79339,7 +79332,7 @@ wooden match sticks 4k texture
 baggy
 watercolor pen drawing
 symmetrical image
-highway 5 0
+highway 50
 superhero with a cat head
 roberto benardi
 keng lye
@@ -79508,7 +79501,7 @@ brian froud juan gimenez
 detailed close up shot
 glass beads clay amulets
 magic artifacts
-feathers ) wet
+feathers wet
 milk dripping
 sensual color scheme
 in water john everett millais
@@ -79517,7 +79510,7 @@ lush forest in valley below
 dressed in orange inmate attire
 with bunny rabbit ears
 very fuzzy
-ethnicity : japanese
+ethnicity: japanese
 italian garb the future
 cinematic accent lighting
 dull pink background
@@ -79624,7 +79617,7 @@ cut
 in a whimsical fairytale forest
 jimi hendrix style poster
 sublime detail
-(by tom purvis)
+by tom purvis
 bright room
 very clear face
 mark arian 0.25
@@ -79746,7 +79739,7 @@ room is full of people
 protons
 inside an arabian market bazaar
 hauting
-comming
+coming
 walkways
 torch-lit
 boat with lamp
@@ -79856,7 +79849,7 @@ asset on grey background
 pathes
 precisely drawn
 intense line work
-it doesn't hurt me ( ye-yeah
+it doesn't hurt me ye-yeah
 amityville
 shot on leica sl2
 itachi
@@ -80242,8 +80235,8 @@ oled lights in corners
 low poly vector illustration
 holywood actress
 dilapidated houses
- ( buses
-trams  )
+buses
+trams
 90s first person shooter
 android jones and atey ghailan
 lucifer the star
@@ -80448,7 +80441,7 @@ ike in real life
 wet reflective tile floor
 rough wood
 swedish style
-may 1 0
+may 10
 vantablack cape
 cyber space cowboy
 outter space
@@ -80707,7 +80700,7 @@ native american warrior
 ground perspective
 nature environment
 rainfall and mud
-nba 2k 2 1
+nba 2k 21
 stars glittering in background
 nebula with the shape of a skull
 lateral view
@@ -81077,7 +81070,7 @@ philosopher alvin plantinga
 phoenix warrior
 phone wearing a cowboy hat
 japanese drift car
-background ( dark   smoke )
+background ( dark smoke )
 very intricate photorealistic
 photo from the 1850s of a farmer
 inside a massive dark cave
@@ -81123,8 +81116,7 @@ weeping willows and flowers
 high dynamic range color
 photo of cthulhu
 25year old
-bronze (eos 5ds r
-marble (eos 5ds r
+bronze eos 5ds r
 photo of futuristic cityscape
 trending on mentalray
 tv program
@@ -81158,7 +81150,7 @@ chewing tobacco
 salma hayek in a hi vis vest
 modern city street
 three hairy fat cave people
-(smoke)
+smoke
 vibing to music
 photograph of san francisco
 short dark blond beard
@@ -81237,7 +81229,7 @@ light ground fog
 cd cover artwork
 piranesi's chamber
 pixar 3d render
-(french bande dessinée)
+french bande dessinée
 neon tube jewelry
 pixar cars in mad max fury road
 war boys
@@ -81277,7 +81269,7 @@ porsche gt 3 in hawaii city
 hollosy simon and da vinci
 long hair blue centred
 licking tongue
-portal game 9449 9 valve
+portal game
 portal to the ethereal realm
 portland oregon
 green eyes fine face pretty face
@@ -81320,7 +81312,7 @@ airships on background
 eyardt
 mossy head
 portrait knight female
-(beautiful eyes)
+beautiful eyes
 two male
 wearing shirts
 odst
@@ -81455,7 +81447,7 @@ dressed well
 suit and waistcoat
 leather robes
 soft filmic tonemapping
- cyberpunk
+cyberpunk
 portrait of a navy seal soldier
 portrait of a norse moon goddess
 portrait of a old
@@ -81510,8 +81502,8 @@ in front of a sci fi cityscape
 blue fire everywhere
 henry de toulouse lautrec
 one eye closed
-scene : sunflower field
-colors : yellow sunflowers
+scene: sunflower field
+colors: yellow sunflowers
 holding a baguette
 luscious with sesame seeds
 mandelbulb. black and white
@@ -81599,8 +81591,8 @@ ancient ruins background
 portrait of demi rose
 black iron tiara
 portrait of don knotts
- eye glasses
- dark skin
+eye glasses
+dark skin
 portrait of drizzt do'urden
 long curly green hair
 skull face paint
@@ -81913,7 +81905,7 @@ purple and blue leather
 intense blue eyes
 antarctic night
 realistic alien
-  human eyes
+human eyes
 green body. red eyes
 long curly fur
 full skull shaped face cover
@@ -81956,7 +81948,7 @@ common street
 tentacled creature mix
 krypton ion
 heavy metal 1981
-authority  high detail
+authority high detail
 distant rainstorm
 zeiss 14mm f1.8
 large alien eyes
@@ -81988,7 +81980,7 @@ crafting spells
 festive colors
 red-iris
 fantasy mage
-dark taint  athletic
+dark taint athletic
 image full of reflections
 realistic rendering for stool
 brutalism style stool
@@ -82236,7 +82228,7 @@ with young jedi army behind him
 iconic shot
 saints row fursuit tails mod
 furries wearing tails
-beautiful  museum photo
+beautiful museum photo
 unholy abomination
 sea monster looks like ship
 marine animal
@@ -82281,7 +82273,6 @@ shark cat hybrid
 9126k film
 7000mm film
 1850s era clothes
-16384k film
 professional high quality scan
 1950s scifi
 red and blue black light
@@ -82659,8 +82650,8 @@ teenage girl riding a dragon
 teenage grunge punk rock
 futuristic ambiance
 gamer screen on metallic desk
-sink  ( fish tank   )
-lamp  ( gym
+sink ( fish tank )
+lamp gym
 temporal dead zone
 tengri
 tengu mask
@@ -82862,7 +82853,7 @@ three bat head
 three body problem
 three cats drinking in a bar
 swirly body painting
-three guilders : a magician
+three guilders: a magician
 three people running a marathon
 super heroine costume
 outside the window a storm rages
@@ -83061,7 +83052,7 @@ dark purple hair and cybernetics
 fine black ink
 alien invasion. 24mm
 herman nitsch and herman nitsch
-( herman nitsch
+herman nitsch
 very realistic. fog
 sexually attractive
 realistic 8k hd
@@ -83318,7 +83309,7 @@ young southern woman
 young tsar
 green eyes
 straight nose
-thighs  gorgeous
+thighs gorgeous
 super cute funky black girl
 very sexy devil outfit
 zelda with triforce
@@ -83386,8 +83377,8 @@ embrace the superego
 portrait of leonard cohen
 portrait of a cartoon animal
 in oil
- colourful
- organic
+colourful
+organic
 office cubicle background
 chinese ink and wash painting
 cats musical 1998
@@ -83432,9 +83423,9 @@ softly glowing control panels
 covet death
 portrait of a small character
 8k high resolution image
- movie scene
+movie scene
 magical glowing eyes
-  cat
+cat
 bats pop art
 bats splash painting
 detailed implants
@@ -83462,7 +83453,7 @@ malice mizer
 ai yazawa
 ye mighty
 boundless and bare
-anime shading)
+anime shading
 playing drums
 chiaroscuro painting
 wide angle 70mm lens
@@ -83508,8 +83499,8 @@ princess mononoke inspired
 the lovers
 remains
 medium close-up shot
-black and white ink'
-brooding clouds'
+black and white ink
+brooding clouds
 a human head made of glass
 sucker punch
 old vintage paper
@@ -83519,74 +83510,74 @@ french academic painting
 giant thorns
 i'm so tired
 cr3
-'the red citadel
+the red citadel
 utopian space ship
 soft calm warm neon atmosphere
-masterpiece'
+masterpiece
 textbook pages
 tight navy-blue leather outfit
-unreal engine'
+unreal engine
 pixel town
 flailing
 gripping
 prisms refracting light
-renaissance painting'
+renaissance painting
 no distortions
 black and white coloring
 claes oldenburg
-  ( bomb
+bomb
 old kitchen backdrop angled view
-  ( garbage truck
+garbage truck
 black tactical gear
 people falling off a playground
 adventure playground
 hellish doom hallway
 cover art design
 cute beautiful
-in the astral plane  )
+in the astral plane 
 homely atmosphere
 smart sharpen
 doing a backflip
 metallic mask around the mouth
- ( anime  )
+anime
 pam
 dwight
 candles in foreground
 light halos
- 3d render
-( geometric )
- bit flip | god of ai art
+3d render
+geometric
+bit flip | god of ai art
 linocut wood block print
 red + black + dark blue + beige
 white + blue + gold + black
-'he knows what you did'
+he knows what you did
 full og shrek
 portrait a woman like reol
 1960s psychology book cover
 senor salme
 blue orange
 red yellow blue
- ( soviet tank  )
+soviet tank
 meadows on hills
 blue flowers bloomed all over
 glowing spores flying
 chaotic fractal patterns
 beautiful fire
-( ultra realistic
+ultra realistic
 archaeological discovery
-photography )
+photography 
 ink painting
 crystals enlight the scene
 view is centered on the robot
 ( dog ) jumps over hill
 Spielberg movie
 speilbergian lighting
-classic 80s flick )
+classic 80s flick 
 through my eyes
 cinematic colors sharp
 handsome girl
- generative
-( pirate with a bandanna )
+generative
+pirate with a bandanna
 bigfoot wearing sunglasses
 wooden cabinet
 animal shapes
@@ -83604,8 +83595,8 @@ aquatic life
 blizzard north 1997
 male plate armored chest
 at the taco bell drive through
-getting his tacos and drink)
-(fantasy violin)
+getting his tacos and drink
+fantasy violin
 cinematic shoot
 cartoon look
 with black metal face paint
@@ -83677,7 +83668,7 @@ smoke from mouth
 casting a root spell
 crossing road
 body meshes
- strong stippled shadows
+strong stippled shadows
 the alps are in the background
 ufo abduction
 green alleys
@@ -83884,7 +83875,7 @@ cyber western
 wearing white skirt
 nasa space tourism
 jpl
-22nd century  town street
+22nd century town street
 1960s space girl
 on the runway
 channel boots
@@ -83938,7 +83929,7 @@ epic megastructure
 lens flares. cinematic
 2013 scion tc
 🕹️ 😎 🚬
-sexy lips :5 stylish
+sexy lips stylish
 loose messy hair
 thoughtful eyes
 poised beautiful body
@@ -84007,7 +83998,7 @@ oil on water
 3d goddess minerva
 wave frequencies
 deux ex machina
-mexican muralism ) ravi supa
+mexican muralism ravi supa
 subdivision
 ultra glossy
 japanese mascot
@@ -84094,9 +84085,9 @@ light green and deep blue mood
 fbx
 high-definition photograph
 purple glowing inscription
-(1 as december
+1 as december
 1 as january
-1 as february)
+1 as february
 different hair colors
 3 layers of sky above each other
 cartoonish and simplistic
@@ -84221,7 +84212,7 @@ cinema 4d detailed face
 two braids
 low mood
 while posing in the same bed
-green: 0.5
+green
 crocodile loki
 ripple
 white metallic
@@ -84364,7 +84355,7 @@ voxelart
 8ft tall
 soft cool tones
 she has pale blue skin
- advertising photo
+advertising photo
 lots of light
 instagram art
 white t-shirt with red sleeves
@@ -84407,7 +84398,7 @@ roguelike style
 natural hands and arms
 geometric style
 some curved armor
-(waterfall)
+waterfall
 a 15 foot tall
 fantasy oil canvas
 popeye
@@ -84504,7 +84495,7 @@ in a oil painting style
 the forefoot to make a v gesture
 afremov leonid
 chaotic composition
- 3d-terms
+3d-terms
 soft organic abstraction
 hot temperature
 tropical mood
@@ -85038,7 +85029,7 @@ a large sphere of red energy
 sora as a cat
 walking to work with a briefcase
 accurate depiction
-black  background
+black background
 artistic digital art
 professional logo design
 digital marketing
@@ -85060,7 +85051,7 @@ floating and flying island
 a maid in a magical forest
 a majestic gothic indian dragon
 fantasy paining
-(sharp)
+sharp
 high walled tunnel
 green floor
 harold mccauley
@@ -85191,7 +85182,7 @@ jeff
 walking away from camera
 photograph taken in 1989
 35mm macro photography
-(vines)
+vines
 venus effect
 1.8f
 proudly walking down the street
@@ -85615,7 +85606,7 @@ masterful painting
 hq 4k phone wallpaper
 phantasmagorical
 dream sequence
-1996)
+1996
 syd mead and raphael lacoste
 neon digital art
 dark neon colored universe
@@ -85685,8 +85676,8 @@ winter time
 dark pine trees
 aizome patterns
 pink color scheme
-(digital art)
-(art station)
+digital art
+art station
 an alien cityscape
 a pair of ribbed
 rich and deep colors
@@ -85788,7 +85779,7 @@ an intruder
 an island floating in the air
 ultra realistic hd
 an obese
-(tropicalism)
+tropicalism
 energy vortex
 granting him a noble title
 arena background
@@ -86033,7 +86024,7 @@ aztec queen
 aztec warrior with jaguar mask
 glowing screens
 aztec yaotl warrior
- and blue
+and blue
 yellows and reddish black
 badass filters and effects
 bayc
@@ -86041,9 +86032,9 @@ big bad
 metal art
 vibrant colors hyper realism
 chrome bodysuit
- morning
+morning
 wild rave outfit
-disney concept art  nixri
+disney concept art nixri
 fun rave outfit
 chris bourassa brooks gordon
 low saturation colors
@@ -86136,7 +86127,7 @@ no extra ears
 beautiful lonely girl
 true proportions
 light grey mist
-(light orange mist)
+light orange mist
 light blue mist
 scarlet tones
 manila
@@ -86559,7 +86550,7 @@ inside an empty ussr submarine
 foggy and dark
 condorito
 nature photography 4k
-coating a stubborn core.'
+coating a stubborn core.
 black. airports
 subways
 apulia
@@ -87397,8 +87388,8 @@ taken through a telescope
 water is made of stardust
 no ui
 gaming chair as a toilet
-gandalf (lotr
-in orange clothes) fight
+gandalf lotr
+in orange clothes fight
 gandalf the white
 leica noctilux
 looking threatening
@@ -87488,7 +87479,7 @@ human chimera
 hq 4k wallpaper
 strong sunlight
 glamorous runway model
-street art:2 highly detailed
+street art highly detailed
 post-processing. high detail
 riding a camel
 gnome illusionist
@@ -87787,7 +87778,7 @@ clown fish
 ghostly teenager bedroom
 cityscape in the window
 ominous landscape of north bend
-'lone dark figure'
+lone dark figure
 real details
 ishowspeed
 dan
@@ -88016,7 +88007,7 @@ insanity in his eyes
 john paul ii
 slight yellow hue
 john snow
-(canon
+canon
 johnny cash
 bible illustration
 johnny depp as tony stark
@@ -88071,7 +88062,7 @@ in the starry night
 kane from command & conquer
 shipgirls
 kanye west album cover
-storybook wide shot  hd
+storybook wide shot hd
 kanye west funko pop
 league of legends splashscreen
 gta 5 artwork
@@ -88299,8 +88290,8 @@ lower back of a beautiful woman
 lucina from fire emblem
 in-game 3d model
 white poet shirt
-luffy (one piece
-1997 )
+luffy one piece
+1997
 luffy dressed as naruto
 luffy from one piece
 luffy gear 5
@@ -88362,7 +88353,7 @@ award winning movie still
 man in his 40s
 man mutating to zombie
 man proposing his girlfriend
-(synthwave)
+synthwave
 fully visible
 ornate filigree armor
 kami
@@ -88952,7 +88943,7 @@ in a movie still cinematic
 portrait of dolly parton
 fierce and wild look
 portrait of elsa from frozen
-(brave police j decker)
+brave police j decker
 intense gaze
 no facial features
 portrait of hades
@@ -89420,7 +89411,7 @@ pioneering aesthetic
 irori fireplace
 sekiro in bloodborne world
 selena quintanilla perez
-selfie  of a man
+selfie of a man
 the game designer
 front facing shot
 sunset panorama
@@ -89675,7 +89666,7 @@ see you on the other side
 too late
 tv news
 70mm/f2.8
-tabaxi  rogue
+tabaxi rogue
 taj mahal made of cheese
 narrow nose
 atmospheric full moon
@@ -89779,7 +89770,7 @@ the grand temple of flowers
 intricate stone carvings
 stone carvings
 the gruffalo
-the harry potter trio (harry
+the harry potter trio harry
 prop
 technical document
 the incel
@@ -90337,7 +90328,7 @@ serene bedroom setting
 upbeat
 yor forger
 face clearly visible
-(fantasy)
+fantasy
 youtube clickbait
 young almighty god
 plain walls |light hearted
@@ -90367,13 +90358,13 @@ abandoned vehicles
 zombie pirate
 zootopia (2016)
 thick line ink
-  soft
+soft
 4k oil painting
 pop makeup style
 science fiction art
 near the window
 cutting a salad
- realistic photography
+realistic photography
 cgsociety inspired
 epic mythology
 allegorical painting
@@ -90382,7 +90373,7 @@ mystic ninja
 sculpture and hyperrealism
 gta character
 pose(arms up + happy)
-waterfall(beautiful
+waterfall beautiful
 japanese maples
 object design
 cinestill 50d film photo
@@ -90405,7 +90396,7 @@ people running away
 manipulative
 vintage electronics
 in a navy blue sweater
-f/1 1 bokeh depth of field
+f/11 bokeh depth of field
 pop japonisme 3d ultra detailed
 one ice cube
 blocktober
@@ -90613,8 +90604,8 @@ tall stone spires
 metropolis filmic gotham city
 stunning sci-fi concept art
 symmetrical doorway
-pastel'
-sachucci 9519 80's anime style
+pastel
+sachucci 95 1980's anime style
 dramatic studio light
 mountain label
 elton john in a fist fight
@@ -90965,7 +90956,7 @@ evil color scheme
 made of nanomaterials
 pink bees
 smoke billowing
-he‘s wearing a red scarf
+he's wearing a red scarf
 over his shoulder
 holding a big sword
 iceland hills in the background
@@ -91017,7 +91008,7 @@ cow-girl
 diffuse outline
 numerous limbs
 surreal collage
-one blue ) and huge bat ears
+one blue and huge bat ears
 dark washed tint
 8k vray render
 blue dog
@@ -91437,7 +91428,7 @@ with freckles
 enchanting vibes
 hand draw
 andro
- ( copper  ) wire whiskers
+( copper ) wire whiskers
 at the park
 clear vector
 vectorial curves
@@ -91593,7 +91584,7 @@ blood on the floor
 high resolution ultradetailed
 glass labware
 with a small beard
- half and half hair dye
+half and half hair dye
 arthur haas
 gigapixel photo
 contracept
@@ -91657,7 +91648,7 @@ from back
 large commercial led screens
 made of candy
 with a mirror
- looking at the camera
+looking at the camera
 varying ethnicities
 installation
 spike
@@ -91680,7 +91671,7 @@ chasing a robber down a street
 bald eagle
 photomorph artwork
 chocolate frosting
-final fantasy 1 2 style
+final fantasy 12 style
 post-war scenery
 red-toned mist
 complex pattern
@@ -91829,7 +91820,7 @@ hills and ocean
 cinematic moody
 season 3 ( 1997 )
 post apocalyptic attire
-outfit : jeans and white vest
+outfit: jeans and white vest
 holding swords
 organic matter
 f 4.0
@@ -92111,7 +92102,7 @@ standing on a ladder
 comic shading
 carrying a scoped hunting rifle
 inventing a time machine
- ( volumetric lighting  )
+volumetric lighting
 senior concept artist
 covered in sprinkles and crumbs
 radiating golden light
@@ -92526,7 +92517,7 @@ orange grass
 trees with faces
 with a square
 nice sunset
-( collage )
+collage
 saturn in the sky
 creeks
 landslides
@@ -92546,7 +92537,7 @@ green skin with scales
 35mm pointing up
 neon aesthetic
 looks a bit similar to amy adams
-bun )
+bun
 reading the newspaper
 oozing lava
 found on a volcano
@@ -92920,7 +92911,7 @@ obverse and reverse
 in the middle of a small colony
 anemones and starfish
 australian tonalism escher
-shadowy cat under the bed'
+shadowy cat under the bed
 room shot
 japanese text kanji
 nvidia promotional image
@@ -93126,7 +93117,7 @@ fujifilm x-t 30
 crass
 complete model
 global illumination hdri
-seamless pattern  symmetry
+seamless pattern symmetry
 graffiti on the side
 strobe and laser lights
 prismatic cumulus clouds
@@ -93151,7 +93142,7 @@ new species
 detailed unblurred face
 camera photo
 red lava rivers
-ethereum  logo
+ethereum logo
 ultra high def
 launch test
 dreamy style
@@ -93255,7 +93246,7 @@ black nails
 toulouse lautrec
 buzz cut hair
 mixed media photography
- character concept art
+character concept art
 chicken sandwich
 taken with canon eos 5d
 nixeu and sakimichan
@@ -93537,7 +93528,7 @@ high detailed vfx
 set in 1992 japan
 rendered illustration
 bib bang
-bottom half wood  carved
+bottom half wood carved
 over the head of a sea wolf
 twink
 final judgement
@@ -93909,7 +93900,7 @@ rock columns
 in a spiky tribal style
 blue-grey gear
 robot icon
-(cybernetic)
+cybernetic
 steampunk bioarmor
 eye patch on one eye
 very intricate braided hair
@@ -94316,7 +94307,7 @@ golf course and swimming
 luxury equipment
 with ominous shadows
 aeromorph
-larry elmore : 0.5
+larry elmore
 aesthetic siamese cat
 broken throne
 cold mood
@@ -94483,7 +94474,7 @@ allegory of winter
 as 3 figures
 peaceful evening harbor
 very detailed face and ears
-tan skin)
+tan skin
 anatomically correct android
 sultry digital painting
 ponte 25 de abril
@@ -94694,7 +94685,7 @@ skulls made of algae
 fully space suited
 an astronaut giving a peace sign
 using synthesizer
- zero-gravity
+zero-gravity
 an astronaut lost in the ocean
 an astronaut relaxing in space
 windy mane
@@ -94779,7 +94770,7 @@ an enormous elephant king
 huge tentacles
 an enormous silver tree
 n7 armor
-( bladerunner 2049
+bladerunner 2049
 chloe price
 dark swamp
 an epic anime of tough luck
@@ -95051,7 +95042,7 @@ anatomy of a bird
 yeltsin
 blue planet still
 ruan jia and michael komarck
-quirky king of faes ( with long
+quirky king of faes with long
 ruan jia and arthur rackham
 in a museum room
 ancient persian temple dungeon
