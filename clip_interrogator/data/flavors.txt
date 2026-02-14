@@ -11142,7 +11142,7 @@ pencil art on paper
 rivendell
 quartz
 posing heroically
-comic book:.2
+comic book
 tall ceiling
 very happy
 in a post apocalyptic setting
@@ -12289,7 +12289,7 @@ arabic
 photorealistic beautiful face
 kirchner
 round shapes
-basquiat | afrofuturism
+basquiat afrofuturism
 softly-lit
 content balance proportion
 half-length portrait
@@ -22501,7 +22501,7 @@ dynamic colorful background
 pale blue backlight
 with cute-fine-face
 pants
-rugged | stars
+rugged stars
 sketchy
 in the deep
 stressful
@@ -24068,7 +24068,7 @@ thug life
 cleaver
 forest plains of yorkshire
 clear geometry
-concept art | dyson
+concept art dyson
 dramatic sci-fi movie still
 matte painting movie poster
 art nouveau swirls
@@ -31728,7 +31728,7 @@ jimi hendrix playing guitar
 smoke on water
 combat drone strike war footage
 high angle vertical
-curly blonde hair | d&d
+curly blonde hair d&d
 natural soft rim light
 mechanical vegetal cyborg
 on loan from louvre
@@ -37804,7 +37804,7 @@ outram
 tap out
 supercomputers text to images
 unity demo video
-cinematic still in adam | unity
+cinematic still in adam, unity
 humanoid mech
 blueray
 cinematic still of westworld
@@ -38571,7 +38571,7 @@ patch logo design
 photographic hyperrealism
 brown cobble stones
 blair armitage
-cinematic | | very anime
+cinematic, very anime
 turned back to camera
 carpet at the floor
 pheasant guard sits on a stump
@@ -40492,7 +40492,7 @@ covered bridge
 the dog is doing a ballet dance
 gorgeous painting
 copper oxide material
-illustration:.4
+illustration
 misty neon lights
 studio ghibi
 black wings slightly burnt
@@ -40520,7 +40520,7 @@ fine bubbles
 krenz cushart and artgerm
 wallpaper design
 berries decoration on the dress
-daniel merriam:.1
+daniel merriam
 dark purple color scheme
 perfect female body
 ryokans and edo era houses
@@ -42090,7 +42090,7 @@ diverse outfits
 colourful 4k hd
 ultra detailed high resolution
 with techware
-boho chic | | very anime
+boho chic, very anime
 weta studio and james jean
 erin
 rafael grassetti
@@ -42481,7 +42481,7 @@ goop
 dark theme night time
 young audrey hepburn
 gorgeous romantic sunset
-holding a long sword | divine
+holding a long sword, divine
 skulls at her hips
 vxf movie
 80's horror movie film still
@@ -43476,7 +43476,7 @@ abstract white fluid
 realistically rendered clothing
 parlor
 shadowing
-neal adams | portrait
+neal adams, portrait
 set in observatory at night
 orthodox cyberpunk
 trending on cgsociety art
@@ -46420,7 +46420,7 @@ impending fear
 poses
 tsutomu nihei art
 brutal human detailed
-knees tucked in | rain falls
+knees tucked in, rain falls
 print on magazine
 sun shining through the leaves
 saturation 40
@@ -51858,7 +51858,7 @@ wearing a long flowing robe
 subtle anime style
 starlit
 twisted gardens
-demonic | horror themed
+demonic, horror themed
 sacredness
 autumn color
 construction yard
@@ -55002,7 +55002,7 @@ icon for weather app
 illustrated logo
 wearing fishnets
 surrealistic roman architecture
-digital painting | intricate
+digital painting, intricate
 clouds swirling
 sky setting
 distant town in valley and hills
@@ -56021,7 +56021,7 @@ similar to the mona lisa
 white flower crown
 legolas as an elf ranger
 gold hazel eyes
-black jacket | shiny
+black jacket, shiny
 accent lighting Peugeot onyx
 silhouette of man
 vin diesel head in egg cup
@@ -60457,7 +60457,7 @@ colors red
 eating a pizza margherita
 shot on hasselblad
 dark dingy
-leather pants | natural lighting
+leather pants, natural lighting
 breathtaking lighting
 pencil and charcoal
 games lag
@@ -64342,7 +64342,7 @@ intricate detail and composition
 messy bedroom
 gorgeous stella maeve magician
 gorgeous young alison brie
-holy city | illustration
+holy city, illustration
 casting a flame spell
 tools for science research
 goth clown girl
@@ -67661,7 +67661,7 @@ dramatic mountains in background
 bushes of blueberry
 palm trees james gurney
 fractal thunder dan mumford
-comic book:.2 | unreal engine:.3
+comic book, unreal engine
 rich vines and verdant flowers
 symetrical composition
 a beautiful land art of a large
@@ -68888,7 +68888,7 @@ clint eastwood as wolverine
 powdered wig
 james mccarthy
 imagine
-volumetric lighting:.7
+volumetric lighting
 cracked and faded in places
 box cutter
 a devilish grin on his face
@@ -71388,7 +71388,7 @@ palatial scene
 mushrooms grow
 fictitious birds fly
 drumheller
-grand canyon | golden hour
+grand canyon, golden hour
 the nexus portal
 entwined in vines and nature
 vine twist
@@ -77923,7 +77923,7 @@ joe keery
 graphic glitches
 black an white
 pembrokeshire
-graphic design | meta design
+graphic design, meta design
 wolff olins
 fist of the north star
 fistfighting demons
@@ -78144,7 +78144,7 @@ prosthetic
 white prosthetic eyes
 hindu god
 forest style studio shot
-succubus | medieval
+succubus, medieval
 prison bars
 screaming. not realistic
 dr who
@@ -80342,7 +80342,7 @@ nba 2k 21
 stars glittering in background
 nebula with the shape of a skull
 lateral view
-no hood | | realistic shaded
+no hood, realistic shaded
 dark blue and green tones
 futuristic architectural art
 trending at art station
@@ -83154,7 +83154,7 @@ pam
 dwight
 candles in foreground
 light halos
-bit flip | god of ai art
+bit flip, god of ai art
 linocut wood block print
 red + black + dark blue + beige
 white + blue + gold + black
@@ -84846,7 +84846,7 @@ wind blowing and hair flowing
 beautiful long brown hair
 beautiful long fire hair
 wearing ice crystals
-he is about 20 years old | short
+he is about 20 years old, short
 dystopian sci-fi character
 heavenly bright light
 high cohesion
@@ -89910,7 +89910,7 @@ face clearly visible
 youtube clickbait
 young almighty god
 plain walls |light hearted
-long ashy hair | gentle lighting
+long ashy hair, gentle lighting
 young himalayan woman
 lumine
 young girl in steampunk clothes
@@ -91252,7 +91252,7 @@ edgar maxence and ross tran
 wearing viking clothes
 🤬 🤮 💕 🎀
 😭 🤧 💔
-realistic | detailed face
+realistic, detailed face
 dark foreboding atmosphere
 🎀 🗡 🍓 🧚
 godlike and stoic
