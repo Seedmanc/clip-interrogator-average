@@ -84,7 +84,6 @@ ornate
 photo realistic
 photo
 vivid colors
-trending on art station
 futuristic
 high details
 high definition
@@ -205,7 +204,6 @@ long hair
 wallpaper
 vintage
 focused
-art station
 insanely detailed and intricate
 smiling
 extremely high detail
@@ -468,7 +466,7 @@ pen and ink
 clear
 excellent composition
 raining
-mars ravelo and greg rutkowski
+mars ravelo
 good lighting
 surreal photography
 much wow
@@ -501,7 +499,6 @@ thierry doizon
 fantasy character portrait
 dof
 canon
-trending on artstation hq
 150mp
 intricate line drawings
 magic the gathering
@@ -592,7 +589,6 @@ grotesque
 sophisticated
 detailed product photo
 brown eyes
-aesthetic octane render
 triadic color scheme
 character concept art
 long lens
@@ -778,7 +774,6 @@ intricate detailed
 ue5
 western
 half body shot
-artstation hq
 ghibli
 gorgeous lighting
 fantasy illustration
@@ -883,7 +878,7 @@ colored
 cushart krenz
 grim yet sparkling atmosphere
 hyper real
-josan gonzales and dan mumford
+josan gonzales
 pearlescent
 professional digital painting
 low contrast
@@ -1025,7 +1020,6 @@ matte finish
 etching
 insane detail
 rich deep colors
-deviantart artstation
 fish eye
 the fifth element artifacts
 chrome
@@ -1065,7 +1059,6 @@ super highly detailed
 outrun
 no shadow
 cinema
-dan mumford. octane render
 midnight
 magazine
 movie scene
@@ -1375,7 +1368,6 @@ art noveau
 perspective
 well lit
 tranquil
-rembrandt lighting
 public works mural
 tiny
 ultra realistic digital art
@@ -1681,7 +1673,6 @@ rocks
 hacking effects
 savrasov levitan polenov
 high quality digital art
-realistic octane render
 rust
 with a pointed chin
 demonic
@@ -1775,7 +1766,6 @@ sky blue eyes
 40mp
 friendly
 biomorphic
-8k octane render
 terror
 necro
 40mm lens
@@ -1906,7 +1896,6 @@ cinematographic
 donald trump
 shadowy
 portrait photograph
-8k octane detailed render
 extremely hyper detailed
 dxo photolab
 embers
@@ -2002,7 +1991,6 @@ chibi
 macro shot
 key light
 substance designer
-artstation trending
 low-key neon lighting
 imaginative
 heavenly atmosphere
@@ -2159,7 +2147,6 @@ warframe
 jeff easley dramatic light
 action figure
 window
-trending on arstation
 highly detailed art
 dainty figure
 brutal
@@ -2226,7 +2213,6 @@ ivy
 intricate artwork
 bob haircut
 particles and dust in the air
-john park and greg rutkowski
 apocalypse art
 ikebana
 3d finalrender
@@ -2274,7 +2260,6 @@ telephone pole
 3d art
 beautiful features
 flowing
-d&d trending on artstation
 terminator
 georgic
 universe
@@ -2432,7 +2417,6 @@ bruegel
 big smile
 fangs
 dramatic lights
-hd octane render
 painting oil on canvas
 debris
 vertical orientation
@@ -2532,7 +2516,6 @@ bosch
 royalty
 messy
 portal
-frank weston and gustave baumann
 color film
 proportional
 interesting
@@ -2747,7 +2730,6 @@ micro art
 kubrick
 concert poster
 frank gehry
-cgsociety and fenghua zhong
 ear floof
 accurate animal imagery
 obsidian
@@ -2765,7 +2747,6 @@ old pawn shop
 mignola
 vibrant realistic colors
 reflective puffy coat
-8k octane comprehensive render
 genshin impact
 back light
 rich grainy texture
@@ -2836,7 +2817,6 @@ wenjun lin
 scifi platform
 photo 35mm leica
 jin kagetsu
-4k octane render
 iso 100
 moonlit
 cinematic colors
@@ -3110,7 +3090,6 @@ colorful swirly magic ripples
 photorealistic render
 beautiful details
 flower
-trending in artstation
 emerald
 cool colors
 head and shoulders
@@ -3211,7 +3190,6 @@ dark beauty
 movement
 fresh colors
 ornaments
-art station trends
 school uniform
 voluptuous
 hdd
@@ -3261,7 +3239,6 @@ ebay listing
 high modernization
 bokeh soft
 tech noir
-trending on artstation
 cottage core
 advanced digital anime art
 lace
@@ -3444,7 +3421,6 @@ unnerving
 handsome face
 volumetric shadows and lighting
 terrified
-artstation
 game concept art
 cloth
 mystical night
@@ -3618,7 +3594,7 @@ extra details
 no noise
 rich cinematic atmosphere
 glamour shot
-bob larkin and tomer hanuka
+bob larkin
 loving
 androgynous
 film lighting
@@ -3838,7 +3814,6 @@ basil wolverton
 low key
 traditional corsican
 hot
-artstation hd
 mad max
 landscape photography
 grey hair
@@ -4027,7 +4002,6 @@ horroristic shadows
 in the forest
 fountain
 adobe illustrator
-as trending on artstation
 layers
 pale beige sky
 pencil marks
@@ -4711,7 +4685,6 @@ ufo
 dark fractal background
 hilarious
 battle armor
-high octane render
 high speed
 muted color scheme
 photorealistic photography
@@ -5123,7 +5096,7 @@ heroine
 highly detailed sculpture
 black tank top
 reflective lighting
-artgerm and j. dickenson
+j. dickenson
 cyber neon lights
 moment
 anime frames
@@ -5185,7 +5158,7 @@ destroyed flipped wrecked cars
 fine face
 aesthetic lighting
 henry asencio
-danny fox and hilma af klint
+danny fox
 chemically propelled
 intricate filigree
 neutral expression
@@ -5317,7 +5290,6 @@ hollow knight
 high detail photograph
 extremely detailed face
 painted texture maps
-trending in art station
 long curly hair
 attention to detail
 dmt art
@@ -5345,7 +5317,6 @@ broken glass
 mario martinez
 best selling artist
 subtle muted cinematic colors
-fantasy art station
 material study
 style of john kenn mortensen
 ren heng
@@ -5448,7 +5419,7 @@ on the beach
 rack focus
 cunning expression
 fireplace
-yusuke murata and makoto shinkai
+yusuke murata
 peter kemp
 soothing
 hyperdimensional
@@ -5562,7 +5533,6 @@ wide face
 4k 3d render
 fireworks
 glitchcore
-cgstation
 action photo
 viktoria gavrilenko
 dota
@@ -5573,7 +5543,6 @@ editor's pickup
 sergio leone
 dark colour
 undead
-hyper realistic octane render
 water splashes
 personification
 joints
@@ -5647,7 +5616,6 @@ wearing a helmet
 iamag premiere
 alphonse murac
 completely framed
-loish and clamp style
 only one head single portrait
 clean crisp graphics
 red and cyan theme
@@ -5820,7 +5788,6 @@ desert landscape
 kojima
 full body profile
 expressive impressionist style
-4k cinematic octane render
 intricately defined
 forgotten
 popular
@@ -6172,7 +6139,6 @@ justify content center
 overjoyed
 frostbite engine
 4k digital painting
-style ivan talavera and artgerm
 stability
 aaa achievement collection
 cute detailed artwork
@@ -6192,7 +6158,6 @@ book illustration
 low lighting
 fine facial features
 super-resolution
-wes anderson film
 slightly blurry
 bushes
 lithograph engraving
@@ -6404,7 +6369,6 @@ elf ears
 2077
 prism highlights
 naval background
-leslie david and lisa frank
 symmetrical shot
 wicked
 speed painting
@@ -6530,7 +6494,7 @@ swollen veins
 futuristic fashion
 fairy tale illustrations
 hybrids
-fantasy character octane render
+fantasy character
 reference sheet white background
 splash comics
 half asian
@@ -6540,7 +6504,6 @@ soft and clear shadows
 intricate patterns
 red color scheme
 commercial photography
-award winning on artstation
 delicate features
 beautiful shadowing
 book
@@ -6631,7 +6594,6 @@ perfect symmetrical eyes
 beautiful cute
 jin-roh
 misa amane
-lois van baarle and bouguereau
 quechua
 stipple brush technique
 koi colors
@@ -6794,7 +6756,6 @@ deep space exploration
 4k ultra
 grim dark
 hunter
-3d octane cycle unreal engine 5
 paul bonner
 surreal art
 mountain in the background
@@ -6899,7 +6860,6 @@ beautiful artwork
 focus on pursed lips
 photo of a woman
 face centred
-james jean and petra cortright
 cinematic dramatic lighting
 beautiful and aesthetic
 fantasy forest
@@ -6974,7 +6934,6 @@ footage
 32k
 osr
 k-on
-trending on artstation hd
 photorealistic style
 tolkien
 flow
@@ -7472,7 +7431,6 @@ made of feathers
 violet evergarden
 tired expression
 few clouds
-james jean andrei riabovitchev
 space marine
 toonami
 wolfenstein
@@ -7482,7 +7440,6 @@ tall grass
 norman rockwell j
 adafruit
 highly detailed vfx portrait
-kelogsloops and greg rutkowski
 acid pixie
 magnolia
 humanoids
@@ -7682,7 +7639,6 @@ perfectly centered portrait
 1900's photo
 travel photography
 seseon yoon
-artgerm and warren louw
 bbwchan
 smooth cave rock
 ussr
@@ -8156,7 +8112,6 @@ white tank top
 black and white ink
 soft blur
 feimo
-alejandro jodorowsky
 30 years old
 leica s
 shiny eyes
@@ -8281,7 +8236,6 @@ the fifth element
 steroids
 posters
 avant-garde
-nixeu and greg rutkowski
 biomechanics
 professional photoshoot
 cinematic art
@@ -8429,7 +8383,6 @@ castle in the sky
 white color scheme
 4k detail
 tintype photograph
-photoreal octane render
 rose
 rogue
 skies behind
@@ -8599,7 +8552,6 @@ movie quality
 watercolor art
 racking focus
 extreme panoramic
-art station trending
 day of the tentacle style
 nordic
 leggins
@@ -8846,7 +8798,6 @@ raw sienna
 cyberpunk artifacts
 extremely sharp detail
 glam
-pixar and da vinci
 william-adolphe bouguerea
 sleek silver armor
 helghast
@@ -9042,7 +8993,6 @@ splashes of neon
 nekro borja
 elaborate polished
 drippy
-trending artstation
 cool tones
 super fine inking lines
 caring
@@ -9127,7 +9077,6 @@ shot on large format film camera
 famine
 anime manga style
 minimalist style
-8k resolution octane renderer
 rainbow hair
 fantastic details
 artemixel
@@ -9628,7 +9577,6 @@ future soldier clothing
 future combat gear
 anamorphic cinematography
 golden chain
-hyung tae and frank frazetta
 holding a wood piece
 digital fox
 hyper-detailed 8k
@@ -9796,7 +9744,6 @@ rainstorm
 awe-inspiring award-winning
 dark phantasy
 xision
-bowater charlie and brom gerald
 green glows
 beautiful macro photography
 bright green eyes
@@ -10166,7 +10113,6 @@ images on the store website
 jeff bezos
 frowning
 steampunk city background
-as seen on artstation
 flamethrower
 zoo
 poseidon
@@ -10665,7 +10611,6 @@ pinup pose
 clean edges
 daffodils
 attractive feminine curves
-3d sculpture 8k octane render
 2700 k
 sad face
 translucent material
@@ -10821,7 +10766,6 @@ white clouds
 super intricate
 mappa
 iron
-8k ultrahd octane render
 3d concept
 agony
 vintage shading
@@ -10853,7 +10797,6 @@ rockstar games
 mayan
 mgs
 wonder woman
-8k hd octane render
 poor
 brave
 baroque curls
@@ -11511,14 +11454,12 @@ dark black background
 miniature porcelain model
 kaleidoscope
 digital glitches
-high quality octane render
 magical world
 spider-man
 resin miniature
 detailed 4k
 digitally enhanced
 apex legends character
-arthur rackham and milo manara
 very dramatic light
 ever-present
 wearing a cape
@@ -11568,7 +11509,6 @@ art nouveau environment
 photorealistic 3d
 farmhouse
 dark design
-da vinci and pixar
 taller than man
 color kodak
 40mm f/2.8
@@ -11590,7 +11530,6 @@ super-flat
 detailed but rough
 vibrant but dreary gold
 house in the wood
-roger dean and andrei tarkovsky
 how a river
 oldwest
 tall buildings on the sides
@@ -12062,7 +12001,6 @@ hiphop
 wojtek fus
 3d clay render
 wild hair
-featured on art station
 psychedelic illustration
 bloom. fantasy
 scribbles
@@ -12163,11 +12101,9 @@ whimsical and psychedelic
 the good
 car design
 tri-x pan stock
-photorealistic 3d octane render
 colorful hyperrealism
 amazing d&d art
 gold accents
-detailed octane render
 flowery
 ghostblade
 xxl
@@ -12216,7 +12152,6 @@ half-length portrait
 side profile centered portrait
 epic shot cinematography
 brown exoskeleton
-trends at art station
 extreme close up portrait
 rocket launcher
 hoody woman explorer
@@ -12254,7 +12189,6 @@ with fiery golden wings of flame
 black short curtain haircut
 steam-punk illustration
 fractal veins. dragon cyborg
-alexander mcqueen haute couture
 motion shapes color design
 beer glasses
 walking in forest
@@ -12598,7 +12532,6 @@ movies with guns
 movie firearms
 muted neon smoke
 exquisite facial detail
-sandra chevrier portrait
 rippling
 milky way environment
 woody foliage
@@ -12616,7 +12549,6 @@ eerie highly detailed
 magical and mystical
 plush mascot
 futuristic decor
-victo ngai and tristan eaton
 chaos marine
 whole shoe is in picture
 color sony a 7 r iv
@@ -12630,7 +12562,6 @@ fine fix duplicate line
 mist filters
 portrait of medieval old king
 loba andrade from apex legends
-chengwei pan on artstation
 she's on my bed in bikini
 grim reaper
 beast
@@ -12688,7 +12619,6 @@ mental health
 thin nose
 different angles
 ligne claire
-artstation unreal
 red dead redemption2
 red dead redemption 2
 normal map
@@ -13366,7 +13296,6 @@ distant forest horizon
 sharp robot dragon paws
 girl standing in a flower field
 buses
-3d octane blender render
 glowing white face
 glowing laser beam eyes
 glowing white lasers
@@ -13876,7 +13805,6 @@ gopro footage
 long view
 political cartoon
 greenish blue tones
-wes anderson color palette
 tricorne hat
 film render
 digital 2d fantasy art
@@ -14003,7 +13931,6 @@ garbage pail kids
 george costanza
 worried
 an estate agent listing photo
-award winning. octane render
 asymmetrical portrait
 red tint
 hd texture
@@ -14069,7 +13996,6 @@ young girl
 with a whitish
 her face is coated in a whitish
 confident expression
-trending on deviant art
 with mountains as background
 droplets
 12mm
@@ -14177,7 +14103,6 @@ from side
 standing on mad max panzer tank
 large medium and small elements
 from the side
-andreas rochas
 lesbian art
 ecktochrome
 unreal 5 engine highly render
@@ -14431,7 +14356,6 @@ tokusatsu
 black woman
 big earrings
 greatsword
-amano and olivier ledroit
 hollow souls
 blasphemous
 very attractive man with beard
@@ -14482,7 +14406,6 @@ background focus
 8k portrait render
 unkempt beard
 jetpack
-unreal engine octane render
 red curtains
 image
 jack nicholson plays terminator
@@ -14781,7 +14704,6 @@ professional painting
 paint pour
 halftone
 david fincher
-deviantart artstation cgsociety
 sunset time
 scowling
 sharply detailed
@@ -14972,7 +14894,6 @@ arnold
 8k cinematic
 mysterious mood
 rodin
-wlop and sakimichan
 wide ayes
 promo photo
 detailed character
@@ -15252,7 +15173,6 @@ smiling amazed
 wearing a dragon mask
 nikon d 4 x
 distinct
-sharp edges. octane render
 outdoors ruined cityscape
 metal mask
 progressive rock album cover
@@ -15745,7 +15665,6 @@ mantra rendering
 cartoonish cute
 rockstar games art
 global illumination intricate
-michael garmash and
 smoke behind wheels
 girl with super long hair
 the movie the thing
@@ -15760,7 +15679,6 @@ demonic eyes
 many scars
 organic matte painting
 holographic effect
-sakimichan and makoto shinkai
 greek myth
 8k hd wallpaperjpeg artifact
 melting face
@@ -15886,7 +15804,6 @@ the sailor jupiter. beautiful
 cybernetic machines
 very close up foot shot
 big beautiful blue eyes
-rembrandt painting
 neon background
 fanciful
 sepia tones
@@ -16187,7 +16104,6 @@ stunning scenery
 dead space artwork
 contrasted colors
 shingeki no kyojin
-artgerm and patrick demarchelier
 tv static
 abstract shapes
 tatsumaki from one punch man
@@ -16249,10 +16165,8 @@ sandstone
 ultra ornate detail
 ethereal opalescent mist
 fire hair
-perspective 3d octane render
 steve zheng
 glisten
-francis bacon and agnes cecile
 ultrarealistic digital art
 security
 labels
@@ -16549,7 +16463,6 @@ yellow and black color scheme
 8k hyper detailed
 field of flowers
 relaxing on a couch
-highly detailed octane render
 clean aesthetic
 morning glory flowers
 communist
@@ -16698,7 +16611,6 @@ cyberpunk city at night
 8k octane
 daft punk
 terrified 👿
-rendered in octane render
 disco ball
 accurate hands
 morpheus
@@ -16979,7 +16891,6 @@ short dof
 kendall jenner
 modern clothes
 moonshine
-satchely and akihiko yoshida
 character adoptable
 desert transition area
 australian desert
@@ -17095,7 +17006,6 @@ painfully adorable
 l.lawliet
 playful creativity
 lone industrial spaceship
-3d octane render conceptart
 action glamour pose
 male robotic anthro orca
 under the ocean
@@ -17408,7 +17318,6 @@ halfrear lighting
 carved
 deepdream
 little nightmares
-kilian eng and jake parker
 venus godness athena
 margot robbie portrait
 master chief
@@ -17417,7 +17326,6 @@ mindflayer
 sparks of light
 front lighting
 intricately deteailed
-greg rutkowski and j.dickenson
 dignifying
 nosferatu
 clothing
@@ -17478,7 +17386,6 @@ forward facing angle
 fire background
 makoto
 pillows
-artstation contest winner
 celtic knots
 arabian beauty
 tri-x 400 tx
@@ -18241,7 +18148,6 @@ masterpiece album cover
 crying tears
 dressed with fluent clothes
 whimsical intricate details
-tom bagshaw and sabbas apterus
 in gentle green dawn light
 demonic photograph
 app
@@ -18252,7 +18158,6 @@ bushy eyebrows
 futuristic but colorful shading
 orange cat
 evil mood
-photorealistic octane render
 hyper light drifter
 jars
 perfectly lit face
@@ -18465,7 +18370,6 @@ holy sacred light rays
 single point of light
 adapted to a drier climate
 from sam and max
-zaha hadid octane highly render
 aya takano
 in steampunk cityscape
 dynamic pose and movement
@@ -18501,7 +18405,6 @@ heavy forest
 hans zatzka
 on the orange surface of mars
 vine covered
-art nouveau octane render
 cockroach character
 resting head on hands
 combat scene
@@ -19019,7 +18922,6 @@ abandoned laboratory
 stan lee
 jean grey
 posing for the camera
-trending art station
 flamboyant
 dark and gloom
 pretty female phoebe tonkin
@@ -19261,7 +19163,6 @@ jedi master
 at night with dramatic moonlight
 face photo
 energetic varia suit
-artstation geometric
 centralized
 photo 85mm
 crisp contour lines
@@ -19558,7 +19459,6 @@ holding a revolver
 coherent face
 in a mixed style of æon flux
 global warming
-intricate artwork. octane render
 devious
 cybernetic civilizations
 large front teeth
@@ -19625,7 +19525,6 @@ white top
 mouse ears
 magical details
 360 degree equirectangular
-trend on behance 3d art
 in colour
 very long wavy azure blue hair
 standing athletic pose
@@ -19801,7 +19700,6 @@ cute nose
 mochiduki key
 tattoo on upper arm
 red hair and attractive features
-greg rutkowski and krenzcushart
 trinkets
 badge
 black marble
@@ -19958,7 +19856,6 @@ bust with a very long neck
 underwater face
 four fingers maximum
 soft blur background
-rembrandt lighting scheme
 usa-sep 20
 dream-like atmosphere
 bubbling geysers
@@ -20113,7 +20010,6 @@ dark cave
 jade
 sharp and focus
 over proportion
-3d 8k octane rendered
 krysten ritter
 speed lines
 detailed sky
@@ -20826,7 +20722,6 @@ coloring page
 kodak 2383 film
 hong kong
 mike judge art style
-cgsociety artstation
 wearing goggles
 san francisco
 cyberpunk neon
@@ -21424,7 +21319,6 @@ moody photography
 big drops of sweat
 valter de morais
 worksafe cgsociety
-esao andrews ornate
 compass
 cut and paste
 with a kid
@@ -22041,7 +21935,6 @@ eevee
 joseph michael linsner
 eldenring
 in a classroom
-abaddon and magali villeneuve
 ghibli moebius
 bruce weber
 goat
@@ -22432,7 +22325,6 @@ pbr texture
 heavenly lights
 thick outlines
 sydney mortimer laurence
-pierre pellegrini and ash thorp
 jin kim
 tokyo mural
 spiritualism
@@ -23415,7 +23307,6 @@ stock
 fantasy render
 in holograms of alien artifacts
 lilith
-lineart behance hd
 dark fantasy artwork
 rainbow background
 size difference
@@ -23500,7 +23391,6 @@ two frail
 cosmic dynamic lighting
 smoke and fire
 translucent roses ornate
-super rendered in octane render
 wearing black coat
 virgin mary
 belts
@@ -23540,7 +23430,6 @@ character is flying
 epic cyberpunk
 the milky way in the sky
 prostheses
-colorful octane render
 waiting room
 futuristic city background
 reverse
@@ -23700,7 +23589,6 @@ orange pastel colors
 home and garden
 dystopian background
 #digital 2d
-oil painting rembrandt
 ultra detailed face
 ps 1
 ue 4
@@ -23957,7 +23845,6 @@ dark auburn wavy hair
 breathe
 factorio
 face turnaround
-klimt and nixeu
 action poses
 looking straight
 japan. volumetric lighting
@@ -23988,7 +23875,6 @@ pensive and hopeful expression
 the chicken man
 smoke boiling
 trench warfare
-wes anderson color scheme
 portrait casting long shadows
 color photo of josip broz tito
 photo from the 70s
@@ -24136,7 +24022,6 @@ cute complexion
 unreal engine quality
 pancake short large head
 lenin
-bussiere and roberto ferri
 brightly lit purple room
 curved furniture
 award winning autochrome photo
@@ -24225,7 +24110,6 @@ render of heavy fantasy armor
 wind kissed pictures
 celebrating day of the dead
 scenery artwork
-with playstation 1 graphics
 senna from league of legends
 bend over posture
 sherilyn fenn 22 years old
@@ -24247,7 +24131,6 @@ the god hades
 big pods
 dystopian slums
 beautiful stunning waterfall
-ultra realistic 8k octane photo
 missing poster
 ishikei
 elegant legs
@@ -24304,7 +24187,6 @@ partly cloudy sky
 secret society
 empire silhouette
 character face study
-trending on pinterest. com
 french village interior
 garage
 jump scare
@@ -24447,7 +24329,6 @@ landscape wallpaper
 roleplay
 soothing colors
 wearing a white gi
-trending on art-station
 subtle gold accents
 alejandro olmedo art
 complex scene
@@ -24716,7 +24597,6 @@ arab inspired
 waist reaching ponytail
 large wings
 some tentacles are touching her
-arstation hd
 heavy contour lines
 some background blur
 futuristic building
@@ -26128,7 +26008,6 @@ dark eerie photo
 reality warping
 full frontal portrait
 vibrant mood
-san mumford
 an orange cat
 stormy overcast
 sheer
@@ -26165,8 +26044,7 @@ traps
 beautiful detailed concept art
 ruined gothic cathedral
 brad
-blur: -5
-ultrarealistic octane render
+blur
 silver crown
 wide-angle long shot
 primal
@@ -26243,7 +26121,6 @@ cthulhu mythos
 space fractal gradient
 ambient lain
 heroine japan vivid landscape
-artstation mans aesthetic
 hatched ear
 35mm camera
 django
@@ -26411,7 +26288,6 @@ lothlorien at night
 guyver style
 wearing tactical gear
 with text
-daily deviation on deviantart
 male warrior
 mandalorian
 marge simpson
@@ -26577,7 +26453,6 @@ happy trees
 equirectangular projection
 intricate brush stroke detail
 one girl
-artdevian
 squaresoft
 stylish navy blue heels
 michal lisowski
@@ -27033,7 +26908,6 @@ glittering multiversal ornaments
 female samurai
 forged
 kieth thomsen
-rendered in octane 3d
 symmetrical anatomy
 universal volumetric lighting
 unreal engine 5 4k uhd image
@@ -27427,14 +27301,12 @@ archs and columns
 by joseph binder
 hubble photography
 impressive fantasy landscape
-joshua middleton and artgerm
 in a liminal underground garden
 pouty face
 curvilinear perspective
 foggy lights
 valley mist
 dramatic lights spiritual scene
-beautiful octane lighting
 warm wood
 vibrant vegetation
 skull clown inside a circus
@@ -28251,7 +28123,6 @@ jill stingray
 va-11 hall-a
 dark robe
 joe rogan
-rene lalique and eddie mendoza
 goro
 intense painting
 virile
@@ -28438,7 +28309,6 @@ artificial lighting
 jojo style
 scientific photography
 claiming vengance
-wes anderson background
 stoic attitude
 contrast and shadows
 nikon z7
@@ -28735,7 +28605,6 @@ beautiful fantasy
 tsutomu kitazawa
 grace
 deep view
-concept design art octane render
 taken with canon eos 5 d mark iv
 jodie bateman
 photo from behind
@@ -28905,7 +28774,6 @@ torchlights
 parametric structure
 half robot and half woman
 winning artwork
-andy richter
 bloom flowers
 cathartic
 8k high quality detailed art
@@ -28996,7 +28864,6 @@ gta v loading screen art
 intricant
 beast wars
 plataform 2d game
-alex grey and romero ressendi
 sexy face with full makeup
 ornate and elegant
 aquapunk
@@ -29207,7 +29074,6 @@ telegram sticker design
 purple makeup
 fullbody painting
 big lizard head
-cryengine octane blender
 ambients
 cute fox
 battleground background
@@ -29230,7 +29096,6 @@ heavy metal magazine cover
 pepe moreno
 matt howarth
 stefano tamburini
-luis royo and alex ebel
 arcane vi
 kyle mclaughlin
 dark ambient album cover
@@ -29548,7 +29413,6 @@ bird head
 gloomy foggy atmosphere
 curled up under the covers
 still life vegetables
-8k octane unreal render
 outdoor design
 high definition and detailed 4k
 in clothes highly detailed
@@ -29593,7 +29457,6 @@ sandro bottecelli
 shades of pink and blue
 unrefined gold nugget
 softfocus
-ghibli. octane render
 brutalist city architecture
 catholic religious art
 portrait of a goth catgirl
@@ -30139,7 +30002,6 @@ dwarven architecture
 purple color
 ancient egyptian art
 google street view
-official fanart behance hd
 scifi character
 drinking coffee at central perk
 devilman
@@ -30323,7 +30185,6 @@ standing in a dark
 dusty atmosphere
 face of a alien deity
 for hire 3d artist
-pixar and industrial
 gorgeous and beautiful
 standing on a rock
 female cleric
@@ -30571,7 +30432,6 @@ samsung smartthings
 sir joshua reynolds
 1775 oil painting
 samurai jack
-alex horley and jimmy nelson
 shai-hulud
 scarlet johansson
 landscape 4k
@@ -30807,7 +30667,6 @@ concrete poetry
 spirit fantasy concept art
 river running through it
 city buildings on top of trees
-yusuke murata and junji ito
 shurikens
 diamond and rose quartz
 connecting lines
@@ -30862,7 +30721,6 @@ papers
 istock
 hand-drawn
 dystopian landscape
-greg rutkowski and jakub rebelka
 drunken boxing
 ripple effect
 her face muddy and sweat
@@ -31367,7 +31225,6 @@ renato muccillo
 girl with a pearl earring
 retro sci fi film
 1927 oil on canvas
-ruan jia and joao ruas
 anna dittmann alberto vargas
 cobblestone roads
 kirsi salonen
@@ -32048,7 +31905,6 @@ long blue cape
 dolphins and swordfish
 brightly lit blue room
 rich cold moody colours
-nick silva and ilya kuvshinov
 grace and blessing
 misty space
 front view 2000
@@ -32307,7 +32163,6 @@ human bodies
 pixar cute character design
 ancient tree
 unreal engine5
-trend on behance illustration
 very long snow colored hair
 pistons
 isometric voxel
@@ -32621,7 +32476,6 @@ action perspective concept
 traditional japanese
 fisheye camera
 beautiful anime artwork
-andrei riabovitchev symmetrical
 18th century painting
 green leaves
 cinema4d render
@@ -32702,7 +32556,6 @@ hyperrealistic faces
 crimson gradient
 style of jojolion cover art
 clouds and waves
-josephine wall and pino daeni
 magic particles; magic swirls
 intricate ink
 beautiful women
@@ -32883,7 +32736,6 @@ huge eyes
 shadowed
 naturalist
 her back is to us
-in the world of andrew wyeth
 digital art highly detailed
 holding knife
 vivid lights night time
@@ -33269,7 +33121,6 @@ with her long
 pastel sky
 academicism
 flowers and trees
-gaspar noe and christopher doyle
 end of days
 the last selfie ever taken
 the little prince
@@ -33300,7 +33151,6 @@ neoclassicist painting
 dark robes
 voldemort
 ww2 era photograph
-pixar and disney
 psychedelic landscape
 western comic art
 pastel drawing
@@ -33423,7 +33273,6 @@ americanoize
 lemonlight
 lv
 detailed organic textures
-fornite game. octane render
 ray swanland
 factories
 weird creatures
@@ -33765,7 +33614,6 @@ the devil tarot card
 #fututistic
 intarsia
 long fluffy fur
-trend in behance hd
 abstract paint color splotches
 nature meets architecture
 human skulls on ground
@@ -33919,9 +33767,7 @@ ornate floral
 rainbow eyes
 sky blue highlights in hair
 red fiery watery eyes
-hans bellmer and nadav kander
 pretty pretty face
-krenz cushart and wenjun lin
 mechanical implants
 self-aware
 under outer world forrest
@@ -33931,7 +33777,6 @@ vtm
 snake oil album
 of beautiful angel
 complete disregard
-rossdraws and jazza
 varnished
 simple stylized
 skull like
@@ -34215,7 +34060,6 @@ perfect pixel art
 forest in the distance
 igla movie shot
 beautiful thick female
-katsuhiro otomo and junji ito
 white sand beach
 boho
 lacking in three-dimensionality
@@ -34232,7 +34076,6 @@ making out
 benevolent android necromancer
 beautiful white girl cyborg
 intricate headpiece
-mc escher and ronny khalil
 white monochrome color
 space station light reflections
 police lights
@@ -34289,7 +34132,6 @@ vivid colors scheme
 on the beach at sunset
 sacrament
 zhang yimou
-photorealistic octane render 8k
 no escape
 brood spreading
 uranium
@@ -34297,7 +34139,6 @@ f-stop
 repulsion
 cars portraits
 vintage closeup photograph
-rembrandt oil painting
 caracal
 smug face
 soap
@@ -34325,7 +34166,6 @@ steel gray body
 konpeki no kantai
 glowing aztec tattoos
 no shading
-da vinci and francis bacon
 sorcerer magic witch
 purple color lighting
 pale bluish skin
@@ -34400,7 +34240,6 @@ rugged textured face
 hopeful expression
 star rain
 grungy; oil on canvas
-moody wes anderson
 glowing powder
 wood table
 men in black
@@ -34971,7 +34810,6 @@ pointed face
 ice grey eyes
 portrait of barack obama
 portrait of lara croft
-neoartcore and charlie bowater
 dominant shades of black
 complex outfit
 nature aesthetics
@@ -35186,7 +35024,6 @@ eyes in forehead
 she is redhead
 science fiction matte painting
 dim blue light
-8k octane rendered
 night clouds
 monitor
 bright blue future
@@ -35520,7 +35357,6 @@ julia fuentes
 wearing heavy armor
 at dusk at golden hour
 industrial light & magic
-andrei riabovitchevy
 crossed arms
 portable generator
 emergency countermeasures
@@ -35541,7 +35377,6 @@ a head-on
 nature lighting
 dark arts
 vibrant watercolor painting
-style of alan lee and john howe
 intricate patterns on face
 vivid rainbow of colors
 iridescent glistening smoke
@@ -36033,7 +35868,6 @@ gorge in the mountain
 shotgun
 narrow depth of field
 h.r. giger design of iron man
-shaun tan and peter mohrbacher
 in style of ghibli
 plushie
 fire reak real life
@@ -36217,7 +36051,6 @@ jackal skull
 table light
 picture of female paladin
 metallic red
-artgerm and genzoman
 armfold pose
 picture of a male cleric
 cinema quality
@@ -36395,14 +36228,12 @@ zine
 4k synthwave art style
 realism art style
 three point light
-tolkien and michael komarck
 high quality action photography
 digital art illustration
 standing on a beach
 circa 1924
 very dark shadows
 nightmare scene
-arthur and gustave baumann
 25yo
 dark paint
 intricate mycelial lace
@@ -36520,7 +36351,6 @@ dynamic action shot
 made of rubber
 gravitational lens
 realistic fire sharp focus
-art station landscape
 led light strips
 minimalistic background
 intricate roots
@@ -36715,7 +36545,6 @@ rendered in zbrush
 metal gear solid art style
 ultra rendered
 cosmic color scheme
-krenz cushart and artem demura
 big red lips
 smile face
 maintenance
@@ -37000,7 +36829,6 @@ epic video game art
 dusk on a city street
 perfect proportions defined face
 close medium shot
-nychos and arcimboldo
 leonardo
 hildebrandt
 light color
@@ -37125,7 +36953,6 @@ all white
 2023
 alpha
 death god
-chirico and rene magritte
 vampire the masquerade
 shot on canon eos r 5
 elvish
@@ -37352,7 +37179,6 @@ dark blue skin
 farscape
 white background wall
 beautiful moonlight night
-art station 3d
 bladerunner 2047
 flushed cheeks
 henri-edmond
@@ -37394,7 +37220,6 @@ wood headphones
 anatomically accurate face
 groundbreaking art
 maroon mist
-8k octane 3d render
 skewed perspective
 shallow focus background
 paper collage art
@@ -37509,7 +37334,6 @@ dangerous & powerful creature
 naples
 ominous depths
 flying machinery
-asya yoranova and alan lee
 futuristic cyberpunk tokyo night
 candy canes
 colored pencil illustration
@@ -37657,7 +37481,6 @@ heroic proportions figure
 outdoor fairgrounds
 light blue and white tones
 in a deep forest
-by ruan jia and stanley artgerm
 very large scales
 battlefield scene
 minimalistic architecture
@@ -37722,7 +37545,6 @@ jumping spider
 fox ears illustration
 drag
 extravagant dress
-dan mumford tom bagshaw
 illuminati symbol
 dark alley
 exposing screw
@@ -37842,7 +37664,6 @@ width
 snow dunes
 lioness
 wide lens photography
-jim warren and rob gonsalves
 epic 3d abstract emo girl
 thick looping wires
 floating monitors
@@ -38924,7 +38745,6 @@ weekly shonen jump issue 14
 sarcastic smiling
 in an action pose
 smooth light
-cyril rolando and m.w kaluta
 25mm f/1.8
 small square glasses
 simon lee
@@ -38945,7 +38765,6 @@ post processing effects
 holding an umbrella
 rule of threes
 lens glare
-insanely detailed octane render
 navy
 akatsuki akira
 military boots
@@ -39348,7 +39167,6 @@ michael sowa
 risoprint
 georgia anne muldrow
 compulsion
-3d render trending on artstation
 pamukkale
 white travertine terraces
 classical style
@@ -39365,7 +39183,6 @@ acid rains
 ouch
 love death and robots
 action sequence
-featured in artstation
 dark grey
 best of
 abstract style
@@ -39442,7 +39259,6 @@ god bless america
 moth
 bugatti veyron
 by jim bush and ed repka
-by tom bagshaw and boris vallejo
 photorealistic eyes render
 beautiful ambience
 city in the sky
@@ -39714,7 +39530,6 @@ henry cavill as james bond
 henry cavill as a warrior
 raven wings
 vines hanging down
-artstation 4k
 fish tail
 canon ts-e 17mm
 bold lighting
@@ -39994,7 +39809,6 @@ medium detail
 large grey eyes
 slavic features
 frederick bacon
-tom anders zorn
 vladimir abat-cherkasov
 sassy
 portrait of magical girl
@@ -40173,7 +39987,6 @@ cutout
 with a red halo over her head
 woodturning
 lathe
-ayami kojima and lyde caldwell
 elbow gloves
 frills
 shirow masamune
@@ -40482,7 +40295,6 @@ green and red tones
 medieval city background
 8k matte painting
 ori toor
-art station trend
 dnd card art
 fantasy comics
 stone face
@@ -40641,7 +40453,6 @@ damascus
 morph
 crystal material
 luminous sky heaven background
-krenz cushart and asher duran
 flesh-tone color palette
 finely detailed angelic face
 bronze skinned
@@ -40689,7 +40500,6 @@ autumn sunset
 detailed detailed
 water sprites
 asymmetrical artwork
-pixar and disney style
 tear drop
 disney 1990
 people walking in the distance
@@ -40718,7 +40528,6 @@ eeg nodes on scalp
 orange extremely coherent
 gold plated
 opening third eye
-edward hopper and milo manara
 fountains
 mimic
 holding a candle holder
@@ -40930,7 +40739,6 @@ ready to eat
 collage artwork
 refracted color sparkles
 dougherty patrick
-charlie bowater and artgeem
 chrome plated
 omnidimensional
 amethyst citrine opal
@@ -41083,7 +40891,6 @@ directional light
 the upside down
 in a forest made of nightmares
 intelligent face
-hyper realistic octane render 4k
 red wig
 an evil alien astronaut
 drab
@@ -41115,7 +40922,6 @@ soft blur outdoor lighting
 animals running along
 sweeping vista
 light snowfall
-polaroid octane render
 praise the sun
 richly colored
 hugging his knees
@@ -41168,7 +40974,6 @@ anime girl wearing a black dress
 underground tunnel
 2-bit
 violet colour palette
-wlop loish and clamp style
 anime monster girl
 collapse
 rurouni kenshin
@@ -41633,7 +41438,7 @@ organ harvesting
 in tarkov
 black oil bath
 contour drawing
-pino daeni and dan mumford
+pino daeni
 chuck roast norris
 japanese popsurrealism
 old computer monitor
@@ -41833,7 +41638,6 @@ colourful 4k hd
 ultra detailed high resolution
 with techware
 boho chic, very anime
-weta studio and james jean
 erin
 rafael grassetti
 human like a cyborg
@@ -42045,7 +41849,6 @@ bright cinematic key lighting
 indore
 fortress mega structure city
 cloudy grey hair
-zeen chin and terada katsuya
 slight ruination
 beautiful leg
 purple neon light
@@ -42749,7 +42552,6 @@ portrait of immense
 proud looking
 gold leaf texture
 portrait of kpop idol
-dan mumford. 8k octane render
 portrait of male humanoid
 michel ocelot
 marzanna
@@ -42892,7 +42694,6 @@ curvaceous. detailed
 studio photo of a ceramic figure
 shamans and strange creatures
 style of romanticism
-perfect rembrandt lighting
 stunningly ominous
 sky and ocean background
 white gold skin
@@ -42989,7 +42790,6 @@ white horns queen demon
 white lava
 city street view background
 wipeout 2048
-15mm octane render
 wideangle portrait
 will graham
 white and teal garment
@@ -43080,7 +42880,6 @@ an affable devil among demons
 (beautiful) girl
 jewelry photography
 muted color blues
-jan matejko and j. dickenson
 professional model photography
 snow scene
 man vs wild
@@ -43216,7 +43015,6 @@ shadowing
 neal adams, portrait
 set in observatory at night
 orthodox cyberpunk
-trending on cgsociety art
 organic ceramic white
 pastel blue
 multiple stories
@@ -43329,7 +43127,6 @@ brit marling style 3/4
 wires hanging
 caustic light
 black smoke particles
-8k octane render photorealistic
 in a studio
 sunny day with clear sky
 ae 86
@@ -43377,7 +43174,6 @@ deep love
 funereal
 rigorous
 composed
-rob rey and kentarõ miura
 dramatic soft lighting
 foxes and deer
 skindentation
@@ -43740,7 +43536,6 @@ stardestroyer in the background
 the dark crystal
 anatomically correct hands
 fragmented
-unreal octane render
 the jabberwock
 cinematic light effect
 angel of death
@@ -43787,7 +43582,6 @@ abstract forms and shapes
 abstract scene design
 dark green color scheme
 artificial intelligence princess
-phil noto and james jean
 aruba
 ready
 high-end civilization
@@ -43811,7 +43605,6 @@ detailed high contrast lighting
 avocado armchair
 silks
 mapbox
-colorful vivid octane render
 bright signage
 still from tv anime
 azurite
@@ -44580,7 +44373,6 @@ lush fairy forest
 nostalgia of a fairytale
 cavalry
 kodak 2383 vision color
-best of art station
 smiling seductively
 black spot over left eye
 hdr photography
@@ -44600,7 +44392,6 @@ early renaissance
 romeo and juliet
 ron perlman
 shattering
-ilya kuvshinov landscape
 relief
 no shadows
 foggy evening
@@ -44760,7 +44551,6 @@ view from window on megapolis
 studio floor
 grand theft auto style
 feminine looking
-virgil finlaytim hildebrandt
 modern colors
 soma game art style
 walter white funko pop
@@ -44796,7 +44586,6 @@ aesthetic mood
 on a dark background
 kawaii hairstyle
 in a meadow
-imax 70mm. octane 3d render
 imax 70mm. buzz lightyear
 tile
 cinematic 3d render
@@ -45844,7 +45633,6 @@ lol style
 blue wizard hat
 pointing index finger
 style of greg simkins
-amazing octane render
 blood letter
 ultra detailed concept art
 front symetrical
@@ -45930,7 +45718,6 @@ holodeck
 toggles
 windy beach
 melting glass
-8k hdr octane render
 watercolor drawing
 in a medium full shot
 russian and japanese mix
@@ -46453,7 +46240,6 @@ ice cold blue theme
 portrait gapmoe yandere grimdark
 floating spellbook
 one punch man manga
-akehiko inoue and ross tran
 robot photography
 grass mountain landscape
 dreamlike surrealism
@@ -46498,7 +46284,6 @@ amalgamation of embers
 loputyn and matcha
 your head turns back
 breathtaking masterpiece of art
-wlo and peter mohrbacher
 character headshot concept art
 beautiful detailed faces
 bright demonic glowing eyes
@@ -46506,7 +46291,6 @@ bright trouser suit for a rave
 brigitte from overwatch
 wearing a business suit
 bronze sculpture of medusa
-mandy jurgens golden ratio
 pre-raphaelite beautiful
 brown paper
 standing on top of a piano
@@ -46687,7 +46471,6 @@ mafia background hyper detailed
 criminal appearance
 crash bandicoot artstyle
 cloisonne cat head sculpture
-roy lichtenstein and jackie tsai
 in a crown
 blurred space
 vista of futuristic city
@@ -46991,7 +46774,6 @@ demon boxing hero
 studio trigger art
 handsome japanese demon boy
 perfect composition body
-tomasz alen kopera and cgsociety
 wearing a long coat
 wide open wife mouth
 zombie face
@@ -47060,7 +46842,6 @@ graphic shapes
 crushed
 patrick o'keeffe
 diagnostics
-artgerm and ben lo
 metal border
 glow of neon lights
 award winning dark lighting
@@ -47488,7 +47269,6 @@ jeremy enecio
 home album pocket camera photo
 brutalism buildings
 gta in moscow
-mucha klimt and tom bagshaw
 brown bread with sliced salo
 japanese girl school uniform
 white bangs black hair
@@ -47746,7 +47526,6 @@ golden age
 dramatic lighting fantasy
 in opulent library
 simpsons and nendoroid mashup
-ghibli and ilya kuvshinov
 off-white style
 decorative art
 jewish young man with glasses
@@ -48282,7 +48061,6 @@ obscured underexposed view
 raspberry
 warm shiny colors
 gold and red metal
-guweiz on pixiv artstation
 portrait of mia farrow
 iridescent venetian blown glass
 fibonacci background
@@ -48405,7 +48183,6 @@ mid view from below her feet
 taking control while smiling
 very long spires
 rei hiroe black lagoon manga
-cory behance hd
 amazing d&d dark sun art
 tang dynasty palace
 organic and robotic
@@ -48776,7 +48553,6 @@ style of red line anime movie
 14mm lens
 peaceful environment
 wooden fence
-victo ngai and surrealism
 1960s advertisement
 neon greek
 analog glitch art
@@ -48926,7 +48702,6 @@ light pink lipstick
 flashy red lights
 psychedelic lsd manga
 mc escher illustration
-artstation unreal w-960
 thick rim glasses
 dmt background
 zen meditation cyberpunk
@@ -49333,7 +49108,6 @@ harpers bazaar
 detail shot
 black cyan gold and aqua colors
 circa 1912
-popular on art station
 long white dress
 a skeleton winning a marathon
 super mario 64
@@ -49685,7 +49459,6 @@ budapest
 cavernous interior wide shot
 humans of new york
 d&d illustration style
-(octane render) fantasy style
 20mm film
 kelp and moss all over
 underwater camera
@@ -50110,7 +49883,6 @@ realistic person
 spear in the right hand
 cooked
 fullbody shot
-sharp focus and octane render
 griffith from berserk
 goliath
 exotic endless horizon
@@ -50197,7 +49969,6 @@ perfect smile vogue
 awards
 william gibson
 cyberpunk angry gorgeous goddess
-rendered in octane render 32k
 on the sand
 ultra realistic ar 16:9
 shrooms
@@ -50237,7 +50008,6 @@ cinestill 800t film photo
 japan travel aesthetic
 expectation of adventure
 avant-garde edgy
-alex yanes and lisa frank
 japan sightseeing
 japanese text
 japanese samurai
@@ -50370,7 +50140,6 @@ halo reach
 color hues
 in a surreal dream landscape
 dark purple blue tones
-fine details 8k octane rendering
 animal crossing new horizons
 bright volumetric sunlight
 {uncertain look}
@@ -50493,7 +50262,6 @@ colorful photograph
 fries
 in an arena pit
 photorealistic disney
-artstation concept art
 happy and spirited expression
 with fashion clothe
 skulls and bones
@@ -50889,7 +50657,6 @@ with long red hair
 fullmetal alchemist brotherhood
 david normal. photorealistic
 fantasy beautiful
-top art-station
 while smoking a cigar
 8bits graphics
 high colors compression
@@ -50971,7 +50738,6 @@ no grass
 wearing a linen shirt
 eerie and moody polaroid
 surfing a barrel wave
-featured on behance masterpiece
 erosion
 curvature
 with the sky full of stars
@@ -51140,7 +50906,6 @@ on a gray background
 sanjulian. detailed texture
 roaring fire
 abandoned bus stop
-rembrandt exhibition
 lurking in the darkness
 psychedelic and glittering
 epic view
@@ -51662,7 +51427,6 @@ unreality
 high fidelity details
 jellyfishes
 syphon filter
-first playstation graphics
 pixel rain
 90s games
 cozy 1950's
@@ -51851,7 +51615,6 @@ ben aronson 1950
 old car
 intense emotions
 glass mosaic
-on a space station
 blue sky background
 stylized 3d
 gpu fire
@@ -51902,7 +51665,6 @@ back of hand on the table
 weak
 horrifying grin. horror
 in the styles of cameron look
-andrew bernstein
 ansel adams. intricate
 in the middle of new york
 smoke under the ceiling
@@ -51955,7 +51717,6 @@ going gray
 standing in front of a mirror
 young woman looking up
 thick watercolor brush strokes
-android jones and chris dyer
 fantastic lighting and shading
 shoulder-length black hair
 speculative fashion
@@ -52231,7 +51992,6 @@ steep cliffs
 underground bunker
 tatsuki fujimoto
 delicate poses
-trending on artstation.'
 dramatic details
 beautiful color composition
 gipf project
@@ -52280,7 +52040,6 @@ on the coast
 abandoned polish mansion
 graffiti on wall
 abandoned car garage
-range murata and artgerm
 city at night in the rain
 sitting in a prison
 diego 5
@@ -52640,7 +52399,6 @@ arcane style viking battleship
 violet spike smoke
 dark soul concept
 different closeup view
-8k 3d octane render
 full of clear glass facades
 macro head face
 architectural masterpiece
@@ -52666,7 +52424,6 @@ he has a beard and graying hair
 nice art
 intricate 8k render
 art deco bowling alley
-ultra hd 8k octane render
 road to perdition stillframe
 strange animals
 stonepunk
@@ -53348,7 +53105,6 @@ kissing together cutely
 dramatic grey sky
 groups of happy people
 led glowing purple eyes
-beautiful octane render
 cinematic minecraft
 world ending nuke
 bustling with people
@@ -53472,7 +53228,7 @@ gta chinatown pop art style
 bioshock pop art style
 papercut
 vines hanging from trees
-il
+ill
 ultra futuristic
 texture map
 smart awkward and sexy
@@ -53837,7 +53593,7 @@ wearing a tight black dress
 very fashion
 displayed on the walls
 glass and metal peugeot onyx
-subreddit/r/whale
+subreddit /r/whale
 studio ghibli color palette
 digital painting of quetzalcoatl
 her gaze is downcast
@@ -54478,7 +54234,7 @@ half turtle
 brilliant royal blue
 hamsters
 pictogram
-isaac asimov and marc simonetti
+isaac asimov
 scratching head
 golden shining eyes
 lush garden surroundings
@@ -54552,7 +54308,6 @@ fish-like
 scales skin dog
 intricate wiccan spectrum
 contourless
-adam lee and walt disney
 tomato splatter
 highly detailed character sheet
 tartan cloak
@@ -54628,7 +54383,6 @@ humanoid animal
 barcodes
 love and death
 mechanical hands
-volumetric octane render
 centered rim lighting
 mixed art
 hunter alone in the wilderness
@@ -54650,7 +54404,6 @@ realm of the ovarian machine
 cyberpunk utopia
 lush foliage cyberpunk
 an australian summer landscape
-sorayama and moebius. occult art
 emerging hands
 product display
 intimate holding close
@@ -54658,7 +54411,6 @@ intimately holding close
 plated
 real teeth
 muppet show
-dr strange and dr seuss
 all overly excited
 all teeth
 chunk teeth
@@ -55042,7 +54794,6 @@ mike tomlin as doctor who
 with plasma guns
 brute
 octane render photorealistic
-black octane render
 vivid psychedelic colors
 cafe for mice
 jellymeat
@@ -55165,7 +54916,6 @@ dubbel negative exposure
 focused on neck
 attractive sporty physique
 ombre fishnet gown
-super detailed octane render
 ominous red cumulonimbus clouds
 webgl render
 anime illustrated
@@ -55208,7 +54958,6 @@ wet grass and stones
 painting of mehrangarh fort
 painting of a cat
 frank frazette
-petra collins and mc. escher
 jeremy bennett
 cinder blocks
 huge white teeth
@@ -55650,7 +55399,6 @@ world championship fight
 gloves on hands
 samurai jetstream sam
 san francisco psychedelic poster
-sandro botticelli. very soft
 sao paulo in the year 2070
 sardine in a can
 swashbuckler
@@ -56181,7 +55929,6 @@ in a fighting pose
 back-lit
 green bright red
 phenomenally aesthetic
-rich and gaudily
 bloody battlefield
 stark shadows
 dark orange black white red
@@ -56265,7 +56012,6 @@ karma
 turbulent waves
 board game cover art
 frozen sea
-moebius and mohrbacher
 sitting in french apartment
 sitting in office
 futuristic gadgets
@@ -56355,7 +56101,6 @@ warm orange lighting
 shmup
 netting
 blue and silver colors
-wes anderson movie
 slave
 male vampire
 acid colors
@@ -56545,7 +56290,6 @@ ice mountains afar
 skulls and skeletons
 abandoned weapons
 scene where she is in rivendell
-featured in deviantart
 fungal growth
 french architecture
 has fire powers
@@ -56614,7 +56358,6 @@ brigh tvibrant
 she is easting a peach
 4 eyes
 beautiful symmetrical features
-tom bagshaw and tom richmond
 greed
 amazing flower tiara
 zettai ryouiki
@@ -56775,7 +56518,6 @@ only the head
 jungle vines and fireflies
 chemicals
 epic scifi character art
-lee griggs and jason chan
 in rapture
 trending on marvel
 busy but lonely
@@ -57084,7 +56826,6 @@ paulie shore
 tv show still
 ski masks
 gang flags
-best of artstation
 wearing jacket
 ottoman empire
 award photography
@@ -57417,7 +57158,6 @@ he is wearing a brown sweater
 seen from a plane
 in the morning mist
 in style of realistic
-high resolution octane render
 cinematic color grade
 beware the jubjub bird
 beyonce as wonder woman
@@ -57813,7 +57553,6 @@ watercolors on canvas
 gimli
 fantasy cartography
 8k mandelbulb fractal
-realistic. octane render
 depth blur
 alien skin
 blue elf
@@ -58155,7 +57894,6 @@ highly detailed drawing
 beautiful and realistic faces
 fuji superia
 features between french
-4k trending at artstation hq
 apple tree
 narrow footpath
 red coat
@@ -58419,7 +58157,6 @@ miniature faking
 crucifix
 madeline from celeste
 mads mikkelsen smoking cigarette
-art monet and mucha
 clear refined
 digital graffiti landscape
 magic mystery world
@@ -59296,7 +59033,6 @@ condescending
 he is covered with barnacles
 relaxing atmosphere
 white petal
-rembrandt lightning
 soap carving
 in a anime masterpiece
 gourmet style
@@ -59345,7 +59081,6 @@ vivid deep colors
 folklorico
 studio harcourt
 full profile
-noriyoshi ohrai and hans zatzka
 2d cg
 during spring
 wavy hair spread out
@@ -59692,7 +59427,6 @@ the console is tall and imposing
 heavy cubism
 cubists love it
 cycles4d
-created m.c. escher and picasso
 high-poly
 silent hill concept art
 uhd hdr
@@ -59700,7 +59434,6 @@ sheer fabrics
 also symmetrical
 power pose
 cold hues
-shrubs and flowers. esao andrews
 wearing a blue jacket
 twisted wire
 light above palace
@@ -59715,7 +59448,6 @@ from the hit 90s tv show
 in orbit
 debris on ground
 cloudy air
-fullcolor octane reminder
 laughing hysterically
 sultry look
 wearing a long beige trench coat
@@ -59875,7 +59607,6 @@ big white glowing wings
 ray tracing on epic settings
 shot on sony alpha dslr-a300
 cinematography photo
-bussiere rutkowski andreas rocha
 with hand crossbow
 watercolor ink illustration
 fantasy jungle
@@ -60287,7 +60018,6 @@ gold watch
 woman standing in flower field
 glass spheres
 exquisitely ornate
-3d sculpture octane render 8k
 cloud and sky color scheme
 gearing up for battle
 style arcane tv series
@@ -60334,7 +60064,6 @@ charybdis
 sitting in a small bamboo boat
 canvas art print
 shiny surfaces
-kyuyong eom and boris vallejo
 water flow
 with mouth open
 people watching
@@ -60414,7 +60143,6 @@ black and red only
 farmer's market setting
 inside futuristic hangar
 dirty olive skin
-gakkin and ernst haeckel
 blue planet
 reduce duplicate image
 ashtray
@@ -60860,7 +60588,6 @@ hyperealistic fresh paint
 eyes closed or not visible
 abstract face
 abstract figurative art
-pat steir and hilma af klint
 pastose
 silver red
 rectangular piece of art
@@ -61055,7 +60782,6 @@ glowing jellyfish
 disco ball in background
 an anthropomorphic cyberpunk fox
 bruce penington
-3d octane render 8k
 yarn
 round design
 3d printing
@@ -61168,7 +60894,6 @@ some rays of light
 deep in the forest
 old color photograph
 headlights shine with neon light
-studio ghibli landscape
 blue sky without clouds
 people angling at the edge
 crystalline rock
@@ -61462,7 +61187,6 @@ bright microscopic view realism
 zoom in
 malcom liepke
 60s french movie poster
-masterpiece ; behance hd
 liquid painting
 golden bodypaint
 world best photography
@@ -62404,7 +62128,6 @@ high-fantasy
 angular metal armor
 glass oled visor head
 good boy giant mecha wolf hound
-space station vore station
 lens flare snow storm
 red eerie sky
 cinestill hasselblad 8mm
@@ -62645,7 +62368,6 @@ dji top down view
 computer mouse
 quarter view
 made in unreal engine
-art station front page
 pengzhen zhang
 on a dark rock background
 meteorites
@@ -62865,7 +62587,7 @@ cyberpunk gladiator
 tubes fused with the body
 street gang
 fighter pose
-el bosco and dan mumford
+el bosco
 busy market
 cyberpunk night street
 diadem on the head
@@ -63426,7 +63148,6 @@ still from the movie 8 mile
 wrapped in wires and piones
 technicolour
 lovely valley
-tony sart and an anime artist
 caribbean white sand
 caribbean turquoise water
 super sayan
@@ -64118,7 +63839,6 @@ fantasy plants
 here's johnny
 smooth contours
 whimsical beaver
-wes anderson film screenshot
 female mecha
 sui ishida art manga
 sui ishida with black hair
@@ -64573,7 +64293,6 @@ fantasy movie poster
 intricate foreground
 with a yellow beak
 kawaii yoda
-highly detail. octane render
 faked ticket
 8k sensual lighting
 kevin mitnick as a bank robber
@@ -64748,7 +64467,7 @@ in matrix
 portrait of young man
 maddening knowledge
 mysterious eerie portrait
-pouty look octane render
+pouty look
 sci-fi concept art nixri
 spring fashion
 magazine illustrations
@@ -65139,7 +64858,6 @@ huge office
 diagonal strokes
 rock details joints
 ratchet straps
-botticelli and victo ngai
 tiny bikini
 vermillion and cyan
 dressed as an oracle
@@ -65163,7 +64881,6 @@ radioactive particles
 with rap cap on head
 party at midnight
 very elongated lines
-vasily kandinsky
 adult swim style
 military flags
 tattoo graphics
@@ -65395,7 +65112,6 @@ multiple lights
 yellow ochre tint dominant
 haunted background
 fur attire
-pixar. octane render
 wearing big black circle glasses
 portrait of a female anime hero
 dystopian terror
@@ -65468,7 +65184,6 @@ muscular white
 portrait of alan watts
 with a red eyes
 netflix trese
-kajo baldisimo and craig mullins
 portrait of alice in wonderland
 highschool background
 elder scrolls colourised
@@ -65878,7 +65593,6 @@ v wing
 cage
 shocked face of putin demon
 shopping groceries
-un and michael whelan
 very detailed cinematic
 shrinking spell
 flash photography 4k hdr
@@ -66044,7 +65758,6 @@ ying and yang
 flowy golden hair
 made up of many bits of metal
 stormy clouds on the horizon
-featured on artstation hd
 kawaii realistic portrait
 gothic rich deep colors
 hasselblad quality
@@ -66540,7 +66253,6 @@ dream medium portrait top light
 green house
 we go
 hype
-real trending on instagram image
 chartres cathedral
 new york zoo in the background
 educational supplies
@@ -66571,7 +66283,6 @@ halos
 intimidating full body armor
 dream los angeles
 desktop
-ferdinand knab background
 cubic minerals
 cubic crystals
 wonderfully colorful
@@ -66928,7 +66639,6 @@ nika maisuradze
 flowing massive hair
 crane
 neil blevin
-epic. octane render
 art noveau and art deco
 bio-luminescent
 reflective chitin
@@ -67085,7 +66795,6 @@ sitting on a golden throne
 photograph of a red kite bird
 cross composition
 arching milkyway
-8k octane render uhd
 milkyway light
 detailed renderings
 jake parker
@@ -67279,7 +66988,7 @@ townscape
 dramatic mountains in background
 bushes of blueberry
 palm trees james gurney
-fractal thunder dan mumford
+fractal thunder
 comic book, unreal engine
 rich vines and verdant flowers
 symetrical composition
@@ -67321,7 +67030,6 @@ seducing the camera
 translucent overtones
 a beautiful matte painting
 24mm tilt-shift
-greg hildebrandt highly detailed
 world building
 harmonized
 colonial style
@@ -67633,7 +67341,6 @@ wylops
 baggy pants
 fuschia and vermillion and cyan
 ladislaus eugen petrovit
-trend in art station
 fireflies glow in the dark
 no more
 a person at a music festival
@@ -67652,7 +67359,6 @@ a photo of a frog with a hat
 looking at his phone
 casual business outfit
 skydiving
-laura letinsky and steve mccurry
 auto photography
 the lights are on
 movie cgi
@@ -67896,7 +67602,6 @@ in a sunbeam
 dentist
 generous cleavage open jacket
 adriana chechik
-greg rutkowski and rob ross
 wooden interior
 retro futuristic style
 cyber steampunk
@@ -67978,7 +67683,6 @@ curled slightly at the ends
 digital artist
 bright orange eyes
 half goat
-marc simonetti and sakimichan
 bland
 shiro takatani
 sandy colors
@@ -67989,7 +67693,7 @@ red fur
 sci-fi anime
 digital comic
 the moon is in the sky
-fairy fruit. octane render
+fairy fruit
 an elegant green
 blue dragon
 in a space starry
@@ -68136,7 +67840,6 @@ art nouveau lilith
 carbon blac and antique gold
 animalia
 wearing sculpted textured armor
-artstation masterpiece
 artemis
 also known as artemis or selene
 detailed sci-fi art
@@ -68391,7 +68094,6 @@ groomed beard
 moonlit ocean
 lofi art
 ap press photo
-edmund blair and charlie bowater
 captain jack sparrow
 captain kirk
 captain
@@ -68733,7 +68435,6 @@ call of duty zombies
 bl
 greedy
 coloring book outline
-jeffrey smith and rlon wang
 dojo on a mountain
 cheap design
 year 2050
@@ -69197,7 +68898,6 @@ dusk setting
 gwen stacy
 decorative panels
 gérard depardieu as wario
-illustration daily deviation
 the doors
 carlos samuel araya
 sol retreat
@@ -69410,7 +69110,6 @@ glowing aesthetic
 fus rei
 transportation design render
 new horror movie advertising
-jan matejko and j.dickenson
 artwork empty daylight
 porcelain japanese mannequins
 school classroom
@@ -69582,7 +69281,6 @@ sichuan
 high resolution gil elvgren
 liam neeson versus godzilla
 liam neeson
-photorealistic octane 3d render
 sand art bottle
 terrarium
 limmy
@@ -69777,7 +69475,6 @@ thumb up
 opening scene
 mr bean as captain america
 mr bean as spiderman
-j.dickenson and rembrandt
 as a solomon kane
 omaha beach
 holding cigar
@@ -70160,7 +69857,6 @@ detailed 3d gothic oil painting
 green hue
 raphael personnaz
 15th century european fine art
-trending on dribbble.com mascot
 dribbble illustration
 rayman
 panther
@@ -70847,7 +70543,6 @@ looking old
 under the soft shadow of a tree
 turbid clouds
 made of crystal
-trending on pinterest,maximalist
 eric heschong
 sun shines down on the car
 noriyoshi
@@ -70930,7 +70625,6 @@ sunken square
 occult propaganda
 colorful scheme
 red wallpaper design
-art stations
 octane render.
 holy and sacred
 ground perspective; detailed
@@ -71165,7 +70859,6 @@ dripping oil
 artificial neon light
 gongbi
 drawn like the anime speed racer
-laurie greasley and james jean
 out or focus
 camper
 kombi
@@ -71603,7 +71296,6 @@ creepy forest
 artists
 bird feathers
 mathematical interlocking
-jin shan and ross tran
 inca style
 dramatic colored lighting
 dinner table
@@ -71628,7 +71320,6 @@ optical art
 modulated line
 paul kratter
 geri keary
-octane. trending on artstation
 anime background art
 alchemical equipment
 herbs and flowers
@@ -71860,7 +71551,6 @@ pulse rifle
 energy rifle
 robot machinery
 perfect weather
-john picacio and brom
 heavy machinegun on top
 redshift vibes
 tiny girl looking on
@@ -72194,7 +71884,6 @@ sleeping princess
 nitrogen-rich soil
 indoor shot
 ussr flag
-maarten schröder and tom bagshaw
 flame in the fur
 super fine detail
 cages
@@ -72490,7 +72179,7 @@ fantasy concept art portrait
 1970's science fiction
 promotional images
 playbill
-dmt imagery. octane render
+dmt imagery
 manticore
 less detailing
 forest hour
@@ -72852,7 +72541,6 @@ digital watercolor painting
 tracks of barbed wire
 steal armors
 paperback
-millaise and greg rutkowski
 american oil painting
 flat colors and strokes
 caught in the flow of time
@@ -72912,7 +72600,6 @@ flooded ground
 400mm f1.2
 romanticism art style
 angled shot
-art chris rahn and jung park
 macros shot
 warm color gradient
 vector line-art style
@@ -73030,7 +72717,6 @@ wallpaper background
 swirling paint colors
 lava field
 butterfly stroke
-hyperrealistic octane render
 tactile buttons and lights
 artistic drawing
 20b parameters
@@ -73200,7 +72886,6 @@ in a large desert cave
 in a leather corset
 super-detailed work
 focus unreal engine 5
-greg rutkowski and mario testino
 overwatch design
 galaxy themed room
 casual clothing style
@@ -73224,7 +72909,6 @@ deviantart hd screenshot
 birch swamp
 subtle wear-and-tear
 broken glasses
-michael whelan and gustave done
 galaxies in the sky
 resonance of fate tower art
 dramatic zoom
@@ -73474,7 +73158,6 @@ dance meditation
 schmuck
 colonial era street
 porcelain face
-thomas kinkade and tristan eaton
 styling
 sneaky
 version 3
@@ -73758,7 +73441,6 @@ with rain and lightning
 sci-fi armor
 branches wrapped
 translucent and slimy flesh
-fiona staples and makoto shinkai
 wearing pink floral gown
 casting nature magic
 holding a goat head staff
@@ -73785,7 +73467,6 @@ azure sky tones
 70s colors
 mesh structure
 photographed from behind
-arthur rackham and terry moore
 ink paint
 alan grey
 castle on the background
@@ -73941,7 +73622,6 @@ terminal text
 yu-no
 anime girl portrait profile
 anime girl portrait
-junji ito and horiyoshi iii
 renderhub
 yellow raincoat
 anime girl with a bow and arrow
@@ -74007,7 +73687,6 @@ water-cooled
 hydraulic features
 5600x accelerator
 hyperthreading
-front page of art station
 desert nomad
 side profile shot
 fantasy battleground
@@ -74062,7 +73741,6 @@ clean graphic design
 vibrant digital painting
 pastel gradients
 modern details
-tending on art station
 swedish house
 orange skin. intricate
 clear green eyes
@@ -74118,7 +73796,6 @@ jungle clearing
 crows feet
 small legs
 an oil painting of a sparrow
-physical octane render
 cinematic neon highlights
 robot punk futuriste geometrie
 pastels colors
@@ -74705,7 +74382,6 @@ rocky meadows
 gallows
 dramatic aurora borealis
 beautiful robot character design
-artgerm and ilya kushinov
 blue eyes and large forehead
 glowing red and gold hair
 beautiful sci-fi twins
@@ -75112,7 +74788,6 @@ golden twilight stained glass
 amalgamation of magical stars
 frosting on head and shoulders
 alcohol with blue delirium skies
-anato finnstark and kelogsloops
 last light on mountain top
 greenish colors
 chemical plant
@@ -75299,7 +74974,6 @@ sunrise colors
 guitar concept art
 thirst
 cassandra cain
-battle of helmand moebius
 chakras
 waterfall below
 high luminosity
@@ -75574,7 +75248,6 @@ russian orbit city cityscape
 goth people dancing
 moody strange cinematography
 unreal 5 engine rendered
-vorestation borg hound
 medical mecha canine
 cinematic silk road landscape
 imperial officers in white
@@ -76139,7 +75812,6 @@ cute elaborate epic robot
 bubbles everywhere
 fanfare
 monochrome film
-on a crowded space station
 wearing ancient armor
 crucifixion of conor mcgregor
 cyberpunk 8k
@@ -76186,7 +75858,6 @@ colorful light leather armor
 many arms
 grizzly
 platypus
-fantasy style 8k octane render
 outline art
 colorful outfit
 habs jersey
@@ -76337,7 +76008,6 @@ cool tone pastel rainbow colors
 techwear fashion
 metal wings
 tactical armor
-gustav klimt and mel ramos
 delicate jaw
 dystopia megaliths
 stability at last
@@ -76631,7 +76301,6 @@ ice crystals
 die antwoord yolandi portrait
 splatter paint on paper
 black and white checkered floor
-moebius and tsutomu nihei
 soft coloring
 grills
 digital advanced anime art
@@ -77243,7 +76912,6 @@ moody muted colors
 nate berkus
 justina blakeney
 lsd tattoo design
-ilya repin and andrei tarkovsky
 bloody sunset
 8mm lens
 99mm macro lens
@@ -77650,7 +77318,6 @@ wearing gold detailed choker
 wearing steel collar
 pouty
 ropes and chains in background
-stephen lau and artgerm
 corn on a cob everywhere
 masses of people in the distance
 dayanita singh
@@ -77882,11 +77549,9 @@ galaxies and star in the sky
 immense waterfall
 massive mountains
 proportional face
-daniel maidman octane rendering
 gendo ikari smoking a joint
 xix century military outfit
 smokey water scenery
-3d octane rendered
 court politics
 baroque aesthetics
 genx
@@ -78692,7 +78357,6 @@ looming surreal sky
 summetric detailed
 morning detail
 leica sl2 50mm hd
-dale keown and greg rutkowski
 camo
 natural realistic render
 tony matelli
@@ -78986,7 +78650,6 @@ realistic scifi
 bamboo wood
 dramatic architecture
 luggage
-created in octane render
 low saturated
 throw pillows
 areas rugs
@@ -79193,7 +78856,6 @@ bright deep blue
 kerli koiv as anime girl
 kevin hart
 nobles
-artstation concept
 skulls around
 khokhloma plate of borscht
 close detailed face
@@ -79607,7 +79269,6 @@ dramatic lighting with god rays
 iridescent moth wings
 reflection in the water
 flower shaman
-darius zawadzki and tom bagshaw
 oak trees and dry grass
 flat metal hinges
 crystal incrustations
@@ -79712,7 +79373,6 @@ clear shot
 michael myers mask
 monster theme
 frying nails
-marc davis and glen keane
 dslr 24mm
 microscopic tardigrades
 in dark purple robes
@@ -79900,7 +79560,6 @@ lateral view
 no hood, realistic shaded
 dark blue and green tones
 futuristic architectural art
-trending at art station
 neon ancient ruins
 neon operator margot robbie
 8k. filling of the view
@@ -80086,7 +79745,6 @@ say ahh
 open portal to another dimension
 translucent eggs
 operation
-rosetti and monet
 intricate electronics
 award winning cinematic still
 orchid made of mother of pearl
@@ -80780,7 +80438,6 @@ seven sins
 colt
 black and golden armor
 eva green and gemma arterton
-ayanamikodon and irakli nadar
 panavia tornado
 us airforce
 portrait of fin wildcloak
@@ -81163,7 +80820,6 @@ brutalism style stool
 port scene background
 future concept art
 realistic rock figurine
-photoreal octane rendering
 cute young redhead girl
 complex vortex
 in style of petra collins
@@ -81684,7 +81340,6 @@ stoya expressive oil painting
 strange alien forest
 strange attractor
 strange giant insects
-charlie immer and jenny saville
 drippy oil painting
 stream of love and happiness
 warhammer imperium style
@@ -82103,7 +81758,6 @@ trippie redd
 fur-clad barbarian goliath
 psychedelic lsd
 tron legacy jesus christ
-yuri shwedoff and tom bagshaw
 hyperrealistic cgi
 trulli
 tsubasa hanekawa
@@ -82318,7 +81972,6 @@ infantry girls
 digital intricate art
 figures fighting in the distance
 wolf pack following
-realistic detailed octane render
 pop up parade figure
 young man with beautiful face
 warhammer rogue trader
@@ -82868,7 +82521,6 @@ holiday season
 helio oiticica
 in louisiana
 floor fog
-robert rubert and john martin
 tin type
 computer code
 vhs overlay
@@ -83166,7 +82818,6 @@ armillary rings jewelry
 jean james
 she is wearing a hat
 beautiful space star planet neon
-3d octane rendering
 3d of the ethereum symbol
 3d ornate carved water heart
 made of liquid purple metal
@@ -83285,7 +82936,6 @@ pink wispy hair
 sitting on a moon
 code vein
 gradient color
-digital art station
 3d character realistic
 pinterest filter
 amazingly epic visuals
@@ -83300,7 +82950,6 @@ soft image shading
 crisp image texture
 intensely beautiful image
 large format picture
-great pinterest photo
 arboreal
 circuitry. 8k 3d geology
 complex artistic style
@@ -83488,7 +83137,6 @@ vhs rip
 80s color scheme
 80s red sports car
 retrowave vibes
-moodyalejandro jodorowsky
 low wide angle shot
 supreme pizza
 black volcano afar
@@ -83804,7 +83452,6 @@ pearly flagstones
 ancient japanese architecture
 giant cherry trees
 flowing golden scarf
-realistic octane 3d
 uhq
 color drawing
 national geography photography
@@ -83938,7 +83585,6 @@ nest is made of sticks
 fiery palette
 stylized as a 3d render
 logo vector art
-art station award winning
 fire reflection
 a dragon made of clouds
 a dragon statue made of jade
@@ -83953,7 +83599,6 @@ sublighting
 burnt edges
 a dream
 kirbi fagan
-cinematic 4k octane render
 4k photography high quality
 dark city ruins
 armour merging with body
@@ -84020,7 +83665,6 @@ a full portrait of nordic female
 brown red long hair
 in ecstasy
 3d render digital art
-tite kubo and takashi murakami
 hanging veins
 houses of parliament
 cozy room
@@ -84036,7 +83680,6 @@ cinematic stormy sky
 10mm
 gigantic scale
 vivid vegetation
-disney and dan hillier
 destroying the city
 with a city in the background
 strange symbols line the walls
@@ -84538,10 +84181,8 @@ torn sails
 saddle up
 lovecraftian nightmare
 spring vibes
-guweiz and makoto shinkai
 a unicorn
 a park
-wes anderson and gucci
 rugs
 gloomy weather. high quality
 a very beautiful berserker woman
@@ -84791,7 +84432,6 @@ the cars have faces
 kids movie
 an ice volcano
 fire and ice
-gaming monitors. artstation
 sports mascot
 nasa archives
 50mm f/2.8
@@ -84861,7 +84501,6 @@ wears the ankh symbol
 the key of life
 the key of the nile
 petrol energy
-rembrandt oil
 standing on a skateboard
 cave setting
 stormy setting
@@ -85130,7 +84769,6 @@ ava max
 detailed fantasy digital art
 avatar aang
 average human face
-average redditor
 avocado chair
 avocado car
 abstract lighting
@@ -85206,7 +84844,6 @@ artist-phil moss
 battleaxe
 baymax from big hero 6
 mean face
-alexandra fomina artstation
 beastars legoshi
 paru itagaki
 wearing sombrero
@@ -85397,7 +85034,6 @@ brick wall texture
 bride of chucky
 wearing a wedding dress
 full body with costume
-and norman rockwell
 known as voryn dagoth in life
 black and white film grain
 18th century art
@@ -85685,7 +85321,6 @@ cortana from halo
 corvo attano
 cosmic tiger
 world-bearing turtle
-trading art station
 8k cinematic shot
 cosmic tree of life
 tree in a galaxy made of stars
@@ -86226,7 +85861,6 @@ epic dragon
 epic elven warrior
 smoking rock
 brown hair flow
-wayne barlowe and artem demura
 epic viking king
 artwork in the style of guweiz
 artwork in the style of z.w. gu
@@ -86397,7 +86031,6 @@ oil on canvas detailed
 bozo the clown. clown motif
 pony facing away
 🎨🖌️
-artstation painting
 60s sci-fi book cover
 flying toasters in heaven
 fog bionic vogue
@@ -87114,7 +86747,6 @@ that violence breeds violence
 john lasseter portrait
 with hawaiian shirt
 john mcafee as ironman
-award winning on deviantart
 manically laughing
 insanity in his eyes
 john paul ii
@@ -87134,7 +86766,6 @@ as a cyberpunk dystopia
 jon tron as loki in the avengers
 jontron
 highly detailed product photo
-digital art. artstation
 jordan peterson as a lobster
 metal bikini
 jorge luis borges. eldritch
@@ -87685,7 +87316,6 @@ my neigbor totoro
 at the sunset
 myself
 courtesy of mbari
-william blake and repin
 mystical anubis valkyrie
 mystical atlantean valkyrie
 mythological map
@@ -87825,7 +87455,7 @@ baroque painting. star lit sky
 stormy wheater
 one thing
 opalescent palace
-artstation. view from space
+view from space
 orc looking into the camera
 leather fur jacket
 orc male readies his rifle
@@ -88087,7 +87717,6 @@ portrait of the hulk
 scarred d&d
 sexy eyes
 portrait of zeraora
-ruan kia and john singer sargent
 180mm f/1.8
 portrait of a cyborg queen
 portrait of a gnoll
@@ -88205,7 +87834,6 @@ variety of shapes and textures
 power girl
 local heroes
 in style of katsuhiro otomo
-michael garmash and rob rey
 from the movie predator 1987
 sea weed
 solo portrait 🎨🖌️
@@ -88487,7 +88115,6 @@ sci fi engine room living room
 cybernetic wallpaper
 electric wallpaper
 gonzalez
-peter mohrbacher and takayuk
 sci-fi sword
 sci-fi computer
 dark video game icon design
@@ -88540,7 +88167,6 @@ shakira
 shalltear from overlord
 golden ratio patterns
 anime scenery concept art
-vandalism
 inglaze
 brenizer method
 polyhedron
@@ -88839,7 +88465,6 @@ numerical
 postage
 amber and chaos
 mono printing
-art station award winner
 the backrooms liminal space
 the banana blue gang
 yasushi nirasawa style
@@ -89154,7 +88779,6 @@ rendering of checkmate
 standings defiantly
 twin souls
 acrylic and oil painting
-alberto seveso and dan mccaw
 two beautiful women in love
 reykjavik junior college
 two buddies sitting in a room
@@ -89747,7 +89371,6 @@ magnifying glass
 adornments
 michael shapcott
 raypunk
-cyril rolando and m. w kaluta
 negative and positive shapes
 nebulae. volumetric lighting
 caledonian forest
@@ -89853,7 +89476,6 @@ no yellow color in eyes
 no yellow color
 orange ray
 in the iceland calm water
-8k hd trending on art station
 radiating rebirth energy
 brilliant aesthetic lighting
 fullmoon
@@ -89905,7 +89527,6 @@ kodak portra 160 professional
 god ray across her face
 circa 1858
 summer sun
-ultimate octane render
 extraterrestial
 warm colors scheme
 alluring plus sized model
@@ -89970,7 +89591,6 @@ diner background
 park landscape
 mall background
 intricate realistic fantasy
-phil noto and rebecca guay
 urban skyline
 the woman is behind bars
 river in the background
@@ -90123,7 +89743,7 @@ bad composition
 sitting on a store shelf
 jack nicholson is the bottle
 going super saiyan
-halo. octane render
+halo
 afternoon sunlight
 35mm wide angle photograph
 john oates face
@@ -90384,7 +90004,6 @@ sitting on temple stairs
 adoryanti
 machine.delusions
 210mm
-haeckel and alasdair gray
 he has headphones
 wearing an orange t shirt
 beard stubble
@@ -90650,15 +90269,12 @@ closed visor
 extreme three point perspective
 at a park
 landscape composition
-trending on artstation 4k
 cambrian
 dark psychedelica
 foreign landscape
-yohann schepacz and laurel burch
 style of grim dark
 kai fine art
 copper patina
-dan mumford. maya render
 sprawled out
 realistic unreal engine 5
 holding futuristic crossbow
@@ -90763,9 +90379,7 @@ looking downwards
 deathwing
 in a forest glade
 holding a cat
-jazza and rossdraws
 made of bamboo
-edgar maxence and ross tran
 wearing viking clothes
 🤬 🤮 💕 🎀
 😭 🤧 💔
@@ -90880,7 +90494,6 @@ complex lighting
 1950s horror movie poster
 really close-up shot
 wearing leather bikini
-jean giraud and waterhouse
 first aid kit
 lesbians
 very symmetrical body
@@ -91293,7 +90906,6 @@ wearing a wonderful dress
 holding a boob milky oolong tea
 fabric embroidery
 playing soccer on the beach
-photo realistic octane render
 dreamy scene
 large sun in sky
 pine treehouse
@@ -91343,7 +90955,6 @@ photo from vogue magazine
 feathers exotic morphing hoopoe
 octane render blender 8k
 military carrier rig
-concept art octane render
 debris flying everywhere
 short unkempt green hair
 calf
@@ -91927,7 +91538,6 @@ long flowing braided hair
 comixology
 i-d magazine
 rocks falling
-aly fell and artgerm
 premium cybernetics
 asimov
 in an ancient vault
@@ -92078,7 +91688,6 @@ fire and flames
 kodachrome colors
 hoverboards
 complex contraption
-3d blender octane render
 in an underground laboratory
 too tired to care anymore
 hand on cheek
@@ -92292,7 +91901,6 @@ archaeological dig setting
 rustic setting
 star wars setting
 cute features
-pixar octane render
 rose in hair
 harry potter series setting
 very defined
@@ -92495,7 +92103,6 @@ draped in crystals
 at purple sunset
 based on a puma
 inca themed smooth
-fanart best artstation
 us
 atlantic puffin
 on a sunny beach
@@ -92581,7 +92188,6 @@ long hall way
 beautiful and spectacular dusk
 dayer diego artwork
 realistic metal reflections
-steve henderson and mark brooks
 muspelheim
 looking around a corner
 realism old painting
@@ -92697,7 +92303,6 @@ tezuka osamu
 contemporary house
 rendered in 3ds max
 face like marilyn monroe
-digital painting. octane render
 in swirling harmony
 black ink line art
 snail shell
@@ -92941,7 +92546,6 @@ her hair is in a pony tail
 ngai victo and dougherty patrick
 she has black hair with bangs
 giant greek columns
-masayoshi suto and artgerm
 she is distressed
 she has messy hair
 airbrushing
@@ -93108,10 +92712,8 @@ posing in a bedroom
 wearing amazing clothes
 wearing a cute white dress
 wearing a dress made of stars
-psytrance and giger
 dead nature study
 middle of the night
-high detail octane render
 documentation
 colors of tron legacy
 made of colorful dried flowers
@@ -93120,7 +92722,6 @@ rides a bike
 woody allen
 torn paper collage
 grandiose portrait
-jeremy mann and claude monet
 renaissance digital painting
 prisoner
 garden behind the glasses
@@ -93148,7 +92749,6 @@ in phoenix wright ace attorney
 white cummerbund
 cozy dark 1920s speakeasy bar
 lacey
-artgerm and william bouguereau
 smiling laughing
 broken hearted
 dusty space suit
@@ -93262,7 +92862,6 @@ turner. symmetrical
 achluophobia
 acid graphics
 acid graphix
-3d high octane render
 witch-doctor
 animals creepy everywhere
 acrobat
@@ -93324,7 +92923,6 @@ pomeranian mix
 large star crystals
 iterations = 5000
 white stone arches
-studio octane render
 lush chic garden
 very long wavy fiery red hair
 fiery red watery eyes
@@ -93717,7 +93315,6 @@ wearing a patch over one eye
 hong kong 1954
 iran
 an arcane wizard casting a spell
-christopher alexander
 wide windows
 massive galaxy
 side perspective
@@ -93833,7 +93430,6 @@ subterranean sprawling galaxy
 stacks
 gumdrop bunnies
 big angel wings on back
-pixar and disney 3d style
 beers on the table
 menacing. unreal 5
 destructive
@@ -94078,7 +93674,6 @@ heavy filmgrain
 flash image
 shot on webcam
 the magician tarot card
-rembrandt lighting 35mm
 fractal world
 circa 1979
 medical drawing
@@ -94411,7 +94006,6 @@ aesthetic/a riot in mars
 fine confidently
 wearing a black catsuit
 annabeth chase
-john bauer and bouguereau
 soft pastel palette
 metallic green
 vocal
