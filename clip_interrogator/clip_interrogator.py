@@ -198,7 +198,7 @@ class Interrogator():
             results += ['']
         return results
 
-    def image_to_features(self, imgs: list[Image]) -> torch.Tensor:
+    def image_to_features(self, imgs: list[Image], all = False) -> torch.Tensor:
         results = []
         self._prepare_clip()
         for image in imgs:
@@ -207,7 +207,7 @@ class Interrogator():
                 image_features = self.clip_model.encode_image(images)
                 image_features /= image_features.norm(dim=-1, keepdim=True)
             results.append(image_features)
-        return torch.mean(torch.stack(results), dim=0)
+        return torch.mean(torch.stack(results), dim=0) if not all else results
 
     def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
         """Classic mode creates a prompt in a standard format first describing the image,
@@ -270,24 +270,33 @@ class Interrogator():
         result = self.chain(image_features, flaves, max_count=max_flavors, reverse=True, desc="Negative chain")
         return result, self.similarity(image_features, result)
 
-    def interrogate(self, images: list[Image], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> tuple[str, float]:
+    def interrogate(self, images: list[Image], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> tuple[str, float, Image]:
         captions = caption or self.generate_caption(images)
-        image_features = self.image_to_features(images)
-        caption1 = self.rank_top(image_features, captions)
+        image_features = self.image_to_features(images, True)
+        image_feature = torch.mean(torch.stack(image_features), dim=0)
+        caption1 = self.rank_top(image_feature, captions)
         caps = captions.copy()
         caps.remove(caption1)
-        caption2 = self.rank_top(image_features, caps)
+        caption2 = self.rank_top(image_feature, caps)
         caption = caption1 + ' , ' + caption2 if caption1 != caption2 else caption1
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
-        flaves = merged.rank(image_features, self.config.flavor_intermediate_count)
-        best_prompt, best_sim = caption, self.similarity(image_features, caption)
-        best_prompt = self.chain(image_features, flaves, best_prompt, best_sim, min_count=min_flavors, max_count=max_flavors, desc="Flavor chain")
+        flaves = merged.rank(image_feature, self.config.flavor_intermediate_count)
+        best_prompt, best_sim = caption, self.similarity(image_feature, caption)
+        best_prompt = self.chain(image_feature, flaves, best_prompt, best_sim, min_count=min_flavors, max_count=max_flavors, desc="Flavor chain")
 
         fast_prompt = self.interrogate_fast(images, max_flavors, caption=caption)
         classic_prompt = self.interrogate_classic(images, max_flavors, caption=caption)
         candidates = [caption, classic_prompt, fast_prompt, best_prompt]
-        result = candidates[np.argmax(self.similarities(image_features, candidates))]
-        return result, self.similarity(image_features, result)
+        result = candidates[np.argmax(self.similarities(image_feature, candidates))]
+        sim = self.similarity(image_feature, result)
+        self._prepare_clip()
+        text_tokens = self.tokenize([result]).to(self.device)
+        with torch.no_grad(), torch.cuda.amp.autocast():
+            text_features = self.clip_model.encode_text(text_tokens)
+            text_features /= text_features.norm(dim=-1, keepdim=True)
+            similarity = text_features @ image_features.T
+        img = images[similarity.argmax().item()]
+        return result, sim, img
 
     def rank_top(self, image_features: torch.Tensor, text_array: List[str], reverse: bool=False, ortho: bool=False) -> str:
         self._prepare_clip()
@@ -457,8 +466,8 @@ def _merge_tables(tables: List[LabelTable], ci: Interrogator) -> LabelTable:
     random.shuffle(combined) # Shuffles in place, maintaining pairs
     shuffled1, shuffled2 = zip(*combined)
     # 2. Convert back to lists
-    m.labels = list(shuffled1)
-    m.embeds = list(shuffled2)
+    #m.labels = list(shuffled1)
+    #m.embeds = list(shuffled2)
     return m
 
 def _prompt_at_max_len(text: str, tokenize) -> bool:
