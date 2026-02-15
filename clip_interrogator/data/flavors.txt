@@ -5433,7 +5433,7 @@ hatsune miku
 highly realistically detailed
 tom cruise
 equine
-highly detailed -
+highly detailed
 overlaid with chinese adverts
 victo ngai. unreal engine
 hyper realistic style
@@ -8354,7 +8354,7 @@ voronoi
 helicopter
 high quality 3d render
 very muscular
-{perfect face}
+perfect face
 architectural render
 snowstorm
 crystal lighting
@@ -8520,7 +8520,7 @@ bioshock art style
 defined face
 satellite image
 dark cinematic lighting
-{perfect eyes}
+perfect eyes
 clear clean face
 very very realistic
 adventure time
@@ -12200,7 +12200,7 @@ high detailed photography red
 moody cinematic atmosphere
 architecture digest
 terem
-sony a7r -
+sony a7r
 fine fix broken line
 aerodynamic frame
 rich red colors
@@ -17015,7 +17015,7 @@ realistic faces and details
 horizon zero dawn machine
 historical hero
 fae priestess
-sci-fi -
+sci-fi
 techwear intricate
 the bone crown
 math equations
@@ -33392,7 +33392,7 @@ thrown tables
 scattered gold coins
 fleeing merchants
 wearing intricate
-ultra - realistic
+ultra realistic
 rob gonsales
 constellations
 peaceful mood
@@ -42080,7 +42080,7 @@ mechanism
 gold and silver ink
 biopods
 blue and white colour scheme
-digital illustration -
+digital illustration
 space high school
 phone
 library in the style of baroque
@@ -50115,8 +50115,8 @@ in a surreal dream landscape
 dark purple blue tones
 animal crossing new horizons
 bright volumetric sunlight
-{uncertain look}
-{on edge}
+uncertain look
+on edge
 beautiful model
 megadeth
 sitting at desk
@@ -52231,7 +52231,7 @@ detailed: cornea
 bloodborne diagrams
 light caustics effect
 thick braided beard
-photorealistic -20
+photorealistic
 electric sky
 noise effects filter
 color rich
@@ -57673,7 +57673,7 @@ freeform ferrofluids
 urban warfare
 red filter
 iso-250
-{perfect body}
+perfect body
 full art illustration
 5 fingers. full body
 eyes. full body
@@ -58302,7 +58302,7 @@ white vase
 giant mushroom
 stephen hawking
 skilled homeless
-82mm sigma art -
+82mm sigma art
 natural make-up
 isometric view. game rpg
 photo of slim girl
@@ -67414,8 +67414,6 @@ pirate portrait
 faded chipped paint
 pretty highlights and specular
 a sea battle
-**cinematic
-octane render**
 mirror and glass surfaces
 realistic robotic machinery
 floating koi fish
