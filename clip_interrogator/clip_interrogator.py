@@ -6,13 +6,12 @@ import os
 import requests
 import time
 import torch
-
+import random
 from dataclasses import dataclass
 from PIL import Image
 from transformers import AutoProcessor, AutoModelForCausalLM, BlipForConditionalGeneration, Blip2ForConditionalGeneration
 from tqdm import tqdm
 from typing import List, Optional
-
 from safetensors.numpy import load_file, save_file
 
 CAPTION_MODELS = {
@@ -454,6 +453,12 @@ def _merge_tables(tables: List[LabelTable], ci: Interrogator) -> LabelTable:
     for table in tables:
         m.labels.extend(table.labels)
         m.embeds.extend(table.embeds)
+    combined = list(zip(m.labels, m.embeds))
+    random.shuffle(combined) # Shuffles in place, maintaining pairs
+    shuffled1, shuffled2 = zip(*combined)
+    # 2. Convert back to lists
+    m.labels = list(shuffled1)
+    m.embeds = list(shuffled2)
     return m
 
 def _prompt_at_max_len(text: str, tokenize) -> bool:
@@ -480,5 +485,5 @@ def load_list(data_path: str, filename: Optional[str] = None) -> List[str]:
     if filename is not None:
         data_path = os.path.join(data_path, filename)
     with open(data_path, 'r', encoding='utf-8', errors='replace') as f:
-        items = sorted([line.strip() for line in f.readlines()])
+        items = [line.strip() for line in f.readlines()]
     return items
