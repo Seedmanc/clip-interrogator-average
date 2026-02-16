@@ -207,7 +207,7 @@ class Interrogator():
                 image_features = self.clip_model.encode_image(images)
                 image_features /= image_features.norm(dim=-1, keepdim=True)
             results.append(image_features)
-        return torch.mean(torch.stack(results), dim=0) if not all else results
+        return torch.mean(torch.stack(results), dim=0) if not all else torch.Tensor(results)
 
     def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
         """Classic mode creates a prompt in a standard format first describing the image,
@@ -294,7 +294,8 @@ class Interrogator():
         with torch.no_grad(), torch.cuda.amp.autocast():
             text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
-            similarity = text_features @ image_features
+            print('bad', image_features.shape)
+            similarity = text_features @ image_features.T
         img = images[similarity.argmax().item()]
         return result, sim, img
 
@@ -304,6 +305,7 @@ class Interrogator():
         with torch.no_grad(), torch.cuda.amp.autocast():
             text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
+            print('good',image_features.shape)
             similarity = text_features @ image_features.T
             if ortho:
                 similarity = -abs(similarity)
