@@ -273,7 +273,7 @@ class Interrogator():
     def interrogate(self, images: list[Image], min_flavors: int=8, max_flavors: int=32, caption: Optional[str]=None) -> tuple[str, float, Image]:
         captions = caption or self.generate_caption(images)
         image_features = self.image_to_features(images, True)
-        image_feature = torch.mean(torch.stack(image_features), dim=0)
+        image_feature = torch.mean( image_features , dim=0)
         caption1 = self.rank_top(image_feature, captions)
         caps = captions.copy()
         caps.remove(caption1)
