@@ -207,7 +207,7 @@ class Interrogator():
                 image_features = self.clip_model.encode_image(images)
                 image_features /= image_features.norm(dim=-1, keepdim=True)
             results.append(image_features)
-        return torch.mean(torch.stack(results), dim=0) if not all else torch.Tensor(results)
+        return torch.mean(torch.stack(results), dim=0) if not all else torch.Tensor([results])
 
     def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
         """Classic mode creates a prompt in a standard format first describing the image,
