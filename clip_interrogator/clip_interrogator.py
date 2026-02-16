@@ -295,7 +295,7 @@ class Interrogator():
             text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
             print('bad', image_features.shape)
-            similarity = text_features @ image_features.T
+            similarity = text_features @ image_features.squeeze(1).T
         img = images[similarity.argmax().item()]
         return result, sim, img
 
