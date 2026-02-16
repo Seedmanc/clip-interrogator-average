@@ -196,6 +196,10 @@ class Interrogator():
         results = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)
         if len(results) < 2:
             results += ['']
+        inputs.to('cpu')
+        self.caption_processor.to('cpu')
+        self.caption_model.to('cpu')
+        torch.cuda.empty_cache()
         return results
 
     def image_to_features(self, imgs: list[Image], all = False) -> torch.Tensor:
@@ -294,7 +298,6 @@ class Interrogator():
         with torch.no_grad(), torch.cuda.amp.autocast():
             text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
-            print('bad', image_features.shape)
             similarity = text_features @ image_features.squeeze(1).T
         img = images[similarity.argmax().item()]
         return result, sim, img
@@ -305,14 +308,11 @@ class Interrogator():
         with torch.no_grad(), torch.cuda.amp.autocast():
             text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
-            print('good',image_features.shape)
             similarity = text_features @ image_features.T
             if ortho:
                 similarity = -abs(similarity)
             elif reverse:
                 similarity = -similarity
-        if similarity.numel() == 0:
-            print(similarity, image_features.shape,text_features.shape,text_array)
         return text_array[similarity.argmax().item()]
 
     def similarity(self, image_features: torch.Tensor, text: str) -> float:
