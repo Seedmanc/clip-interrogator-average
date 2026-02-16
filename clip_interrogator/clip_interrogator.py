@@ -197,7 +197,6 @@ class Interrogator():
         if len(results) < 2:
             results += ['']
         inputs.to('cpu')
-        self.caption_processor.to('cpu')
         self.caption_model.to('cpu')
         torch.cuda.empty_cache()
         return results
