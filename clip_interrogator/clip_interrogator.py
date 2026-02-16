@@ -294,7 +294,7 @@ class Interrogator():
         with torch.no_grad(), torch.cuda.amp.autocast():
             text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
-            similarity = text_features @ np.array(image_features).T
+            similarity = text_features @ image_features
         img = images[similarity.argmax().item()]
         return result, sim, img
 
