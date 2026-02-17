@@ -189,7 +189,6 @@ class Interrogator():
         if self.caption_model is None:
             return ['','']
 
-        self.caption_model.to(self.device)
         self._prepare_caption()
         inputs = self.caption_processor(images=pil_images, return_tensors="pt").to(self.device)
         if not self.config.caption_model_name.startswith('git-'):
@@ -198,12 +197,11 @@ class Interrogator():
         results = self.caption_processor.batch_decode(tokens, skip_special_tokens=True)
         if len(results) < 2:
             results += ['']
-        inputs.to('cpu')
-        self.caption_model.to('cpu')
         torch.cuda.empty_cache()
         return results
 
     def image_to_features(self, imgs: list[Image], all = False) -> torch.Tensor:
+        before = time.time()
         results = []
         self._prepare_clip()
         for image in imgs:
@@ -212,6 +210,8 @@ class Interrogator():
                 image_features = self.clip_model.encode_image(images)
                 image_features /= image_features.norm(dim=-1, keepdim=True)
             results.append(image_features)
+
+        print('image embedding took ', time.time()-before)
         return torch.mean(torch.stack(results), dim=0) if not all else torch.stack(results)
 
     def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
