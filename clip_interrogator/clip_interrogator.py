@@ -188,6 +188,8 @@ class Interrogator():
     def generate_caption(self, pil_images: list[Image]) -> list[str]:
         if self.caption_model is None:
             return ['','']
+
+        self.caption_model.to(self.device)
         self._prepare_caption()
         inputs = self.caption_processor(images=pil_images, return_tensors="pt").to(self.device)
         if not self.config.caption_model_name.startswith('git-'):
