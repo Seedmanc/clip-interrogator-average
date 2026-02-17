@@ -284,6 +284,7 @@ class Interrogator():
         caps.remove(caption1)
         caption2 = self.rank_top(image_feature, caps)
         caption = caption1 + ' , ' + caption2 if caption1 != caption2 else caption1
+        yield caption, None, None
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         flaves = merged.rank(image_feature, self.config.flavor_intermediate_count)
         best_prompt, best_sim = caption, self.similarity(image_feature, caption)
@@ -301,7 +302,7 @@ class Interrogator():
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.squeeze(1).T
         img = images[similarity.argmax().item()]
-        return result, sim, img
+        yield result, sim, img
 
     def rank_top(self, image_features: torch.Tensor, text_array: List[str], reverse: bool=False, ortho: bool=False) -> str:
         self._prepare_clip()
@@ -469,8 +470,8 @@ def _merge_tables(tables: List[LabelTable], ci: Interrogator) -> LabelTable:
     random.shuffle(combined) # Shuffles in place, maintaining pairs
     shuffled1, shuffled2 = zip(*combined)
     # 2. Convert back to lists
-    #m.labels = list(shuffled1)
-    #m.embeds = list(shuffled2)
+    m.labels = list(shuffled1)
+    m.embeds = list(shuffled2)
     return m
 
 def _prompt_at_max_len(text: str, tokenize) -> bool:
