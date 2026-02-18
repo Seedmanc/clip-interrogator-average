@@ -284,7 +284,8 @@ class Interrogator():
         caps.remove(caption1)
         caption2 = self.rank_top(image_feature, caps)
         caption = caption1 + ' , ' + caption2 if caption1 != caption2 else caption1
-        yield caption, None, None
+        if caption is not None and len(caption) > 1:
+            yield caption, None, None
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         flaves = merged.rank(image_feature, self.config.flavor_intermediate_count)
         best_prompt, best_sim = caption, self.similarity(image_feature, caption)
