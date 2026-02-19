@@ -32,8 +32,8 @@ class Config:
 
     # blip settings
     caption_max_length: int = 32
-    caption_model_name: Optional[str] = 'blip-large' # use a key from CAPTION_MODELS or None
-    caption_offload: bool = False
+    caption_model_name: Optional[str] = 'blip2-2.7b' # use a key from CAPTION_MODELS or None
+    caption_offload: bool = True
 
     # clip settings
     clip_model_name: str = 'ViT-L-14/openai'
@@ -47,7 +47,9 @@ class Config:
     data_path: str = os.path.join(os.path.dirname(__file__), 'data')
     device: str = ("mps" if torch.backends.mps.is_available() else "cuda" if torch.cuda.is_available() else "cpu")
     flavor_intermediate_count: int = 2048
-    quiet: bool = False # when quiet progress bars are not shown
+    quiet: bool = True # when quiet progress bars are not shown
+    norm_before = True # regarding averaging
+    norm_after = False
 
     def apply_low_vram_defaults(self):
         self.caption_model_name = 'blip-base'
@@ -208,11 +210,15 @@ class Interrogator():
             images = self.clip_preprocess(image).unsqueeze(0).to(self.device)
             with torch.no_grad(), torch.cuda.amp.autocast():
                 image_features = self.clip_model.encode_image(images)
-                image_features /= image_features.norm(dim=-1, keepdim=True)
+                if self.config.norm_before:
+                    image_features /= image_features.norm(dim=-1, keepdim=True)
             results.append(image_features)
 
-        print('image embedding took ', time.time()-before)
-        return torch.mean(torch.stack(results), dim=0) if not all else torch.stack(results)
+        print('image embedding took ', time.time()-before, ' for ', len(imgs), ' images')
+        result = torch.mean(torch.stack(results), dim=0)
+        if self.config.norm_after:
+            result /= result.norm(dim=-1, keepdim=True)
+        return result if not all else torch.stack(results)
 
     def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
         """Classic mode creates a prompt in a standard format first describing the image,
@@ -279,6 +285,8 @@ class Interrogator():
         captions = caption or self.generate_caption(images)
         image_features = self.image_to_features(images, True)
         image_feature = torch.mean( image_features , dim=0)
+        if self.config.norm_after:
+            image_feature /= image_feature.norm(dim=-1, keepdim=True)
         caption1 = self.rank_top(image_feature, captions)
         caps = captions.copy()
         caps.remove(caption1)
@@ -300,11 +308,12 @@ class Interrogator():
         text_tokens = self.tokenize([result]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
             text_features = self.clip_model.encode_text(text_tokens)
+            print('Text Norm b4: ', text_features.norm(dim=-1, keepdim=True))
             text_features /= text_features.norm(dim=-1, keepdim=True)
+            print('Text Norm after: ', text_features.norm(dim=-1, keepdim=True))
             similarity = text_features @ image_features.squeeze(1).T
         img = images[similarity.argmax().item()]
         yield result, sim, img
-        #return result, sim, img
 
     def rank_top(self, image_features: torch.Tensor, text_array: List[str], reverse: bool=False, ortho: bool=False) -> str:
         self._prepare_clip()
