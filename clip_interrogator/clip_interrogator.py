@@ -47,7 +47,7 @@ class Config:
     data_path: str = os.path.join(os.path.dirname(__file__), 'data')
     device: str = ("mps" if torch.backends.mps.is_available() else "cuda" if torch.cuda.is_available() else "cpu")
     flavor_intermediate_count: int = 2048
-    quiet: bool = True # when quiet progress bars are not shown
+    quiet: bool = False # when quiet progress bars are not shown
     norm_before = True # regarding averaging
     norm_after = False
 
