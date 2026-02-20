@@ -49,7 +49,7 @@ class Config:
     flavor_intermediate_count: int = 2048
     quiet: bool = False # when quiet progress bars are not shown
     norm_before = True # regarding averaging
-    norm_after = False
+    norm_after = True
 
     def apply_low_vram_defaults(self):
         self.caption_model_name = 'blip-base'
