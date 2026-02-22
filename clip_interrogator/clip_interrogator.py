@@ -100,15 +100,22 @@ class Interrogator():
         if config.clip_model is None:
             if not config.quiet:
                 print(f"Loading CLIP model {config.clip_model_name}...")
-
-            self.clip_model, _, self.clip_preprocess = open_clip.create_model_and_transforms(
-                clip_model_name,
-                pretrained=clip_model_pretrained_name,
-                precision='fp16' if config.device == 'cuda' else 'fp32',
-                device=config.device,
-                jit=False,
-                cache_dir=config.clip_model_path
-            )
+            try:
+                self.clip_model, _, self.clip_preprocess = open_clip.create_model_and_transforms(
+                    clip_model_name,
+                    pretrained=clip_model_pretrained_name,
+                    precision='fp16' if config.device == 'cuda' else 'fp32',
+                    device=config.device,
+                    jit=False,
+                    cache_dir=config.clip_model_path
+                )
+            except:
+                from transformers import CLIPProcessor, CLIPModel
+                from transformers import CLIPConfig
+                config = CLIPConfig.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14')
+                config.text_config.max_position_embeddings = 248
+                self.clip_model = CLIPModel.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14', config=config)
+                self.clip_preprocess = CLIPProcessor.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14', padding="max_length", max_length=248)
             self.clip_model.eval()
         else:
             self.clip_model = config.clip_model
@@ -203,7 +210,6 @@ class Interrogator():
         return results
 
     def image_to_features(self, imgs: list[Image], all = False) -> torch.Tensor:
-        before = time.time()
         results = []
         self._prepare_clip()
         for image in imgs:
@@ -213,8 +219,6 @@ class Interrogator():
                 if self.config.norm_before:
                     image_features /= image_features.norm(dim=-1, keepdim=True)
             results.append(image_features)
-
-        print('image embedding took ', time.time()-before, ' for ', len(imgs), ' images')
         result = torch.mean(torch.stack(results), dim=0)
         if self.config.norm_after:
             result /= result.norm(dim=-1, keepdim=True)
@@ -308,9 +312,7 @@ class Interrogator():
         text_tokens = self.tokenize([result]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
             text_features = self.clip_model.encode_text(text_tokens)
-            print('Text Norm b4: ', text_features.norm(dim=-1, keepdim=True))
             text_features /= text_features.norm(dim=-1, keepdim=True)
-            print('Text Norm after: ', text_features.norm(dim=-1, keepdim=True))
             similarity = text_features @ image_features.squeeze(1).T
         img = images[similarity.argmax().item()]
         yield result, sim, img
