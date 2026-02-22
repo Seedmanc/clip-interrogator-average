@@ -112,9 +112,9 @@ class Interrogator():
             except:
                 from transformers import CLIPProcessor, CLIPModel
                 from transformers import CLIPConfig
-                config = CLIPConfig.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14')
-                config.text_config.max_position_embeddings = 248
-                self.clip_model = CLIPModel.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14', config=config)
+                clconfig = CLIPConfig.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14')
+                clconfig.text_config.max_position_embeddings = 248
+                self.clip_model = CLIPModel.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14', config=clconfig)
                 self.clip_preprocess = CLIPProcessor.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14', padding="max_length", max_length=248)
             self.clip_model.eval()
         else:
