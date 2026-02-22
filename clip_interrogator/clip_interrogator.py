@@ -215,7 +215,7 @@ class Interrogator():
         for image in imgs:
             images = self.clip_preprocess(image).unsqueeze(0).to(self.device)
             with torch.no_grad(), torch.cuda.amp.autocast():
-                image_features = self.clip_model.encode_image(images)
+                image_features = self.clip_model.get_image_features(images)
                 if self.config.norm_before:
                     image_features /= image_features.norm(dim=-1, keepdim=True)
             results.append(image_features)
@@ -311,7 +311,7 @@ class Interrogator():
         self._prepare_clip()
         text_tokens = self.tokenize([result]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
-            text_features = self.clip_model.encode_text(text_tokens)
+            text_features = self.clip_model.get_text_features(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.squeeze(1).T
         img = images[similarity.argmax().item()]
@@ -321,7 +321,7 @@ class Interrogator():
         self._prepare_clip()
         text_tokens = self.tokenize([text for text in text_array]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
-            text_features = self.clip_model.encode_text(text_tokens)
+            text_features = self.clip_model.get_text_features(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.T
             if ortho:
@@ -334,7 +334,7 @@ class Interrogator():
         self._prepare_clip()
         text_tokens = self.tokenize([text]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
-            text_features = self.clip_model.encode_text(text_tokens)
+            text_features = self.clip_model.get_text_features(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.T
         return similarity[0][0].item()
@@ -343,7 +343,7 @@ class Interrogator():
         self._prepare_clip()
         text_tokens = self.tokenize([text for text in text_array]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
-            text_features = self.clip_model.encode_text(text_tokens)
+            text_features = self.clip_model.get_text_features(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.T
         return similarity.T[0].tolist()
@@ -385,7 +385,7 @@ class LabelTable():
             for chunk in tqdm(chunks, desc=f"Preprocessing {desc}" if desc else None, disable=self.config.quiet):
                 text_tokens = self.tokenize(chunk).to(self.device)
                 with torch.no_grad(), torch.cuda.amp.autocast():
-                    text_features = clip_model.encode_text(text_tokens)
+                    text_features = clip_model.get_text_features(text_tokens)
                     text_features /= text_features.norm(dim=-1, keepdim=True)
                     text_features = text_features.half().cpu().numpy()
                 for i in range(text_features.shape[0]):
