@@ -100,22 +100,14 @@ class Interrogator():
         if config.clip_model is None:
             if not config.quiet:
                 print(f"Loading CLIP model {config.clip_model_name}...")
-            try:
-                self.clip_model, _, self.clip_preprocess = open_clip.create_model_and_transforms(
-                    clip_model_name,
-                    pretrained=clip_model_pretrained_name,
-                    precision='fp16' if config.device == 'cuda' else 'fp32',
-                    device=config.device,
-                    jit=False,
-                    cache_dir=config.clip_model_path
-                )
-            except:
-                from transformers import CLIPProcessor, CLIPModel
-                from transformers import CLIPConfig
-                clconfig = CLIPConfig.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14')
-                clconfig.text_config.max_position_embeddings = 248
-                self.clip_model = CLIPModel.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14', config=clconfig)
-                self.clip_preprocess = CLIPProcessor.from_pretrained('zer0int/LongCLIP-GmP-ViT-L-14', padding="max_length", max_length=248)
+            self.clip_model, _, self.clip_preprocess = open_clip.create_model_and_transforms(
+                clip_model_name,
+                pretrained=clip_model_pretrained_name,
+                precision='fp16' if config.device == 'cuda' else 'fp32',
+                device=config.device,
+                jit=False,
+                cache_dir=config.clip_model_path
+            )
             self.clip_model.eval()
         else:
             self.clip_model = config.clip_model
@@ -215,7 +207,7 @@ class Interrogator():
         for image in imgs:
             images = self.clip_preprocess(image).unsqueeze(0).to(self.device)
             with torch.no_grad(), torch.cuda.amp.autocast():
-                image_features = self.clip_model.get_image_features(images)
+                image_features = self.clip_model.encode_image(images)
                 if self.config.norm_before:
                     image_features /= image_features.norm(dim=-1, keepdim=True)
             results.append(image_features)
@@ -311,7 +303,7 @@ class Interrogator():
         self._prepare_clip()
         text_tokens = self.tokenize([result]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
-            text_features = self.clip_model.get_text_features(text_tokens)
+            text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.squeeze(1).T
         img = images[similarity.argmax().item()]
@@ -321,7 +313,7 @@ class Interrogator():
         self._prepare_clip()
         text_tokens = self.tokenize([text for text in text_array]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
-            text_features = self.clip_model.get_text_features(text_tokens)
+            text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.T
             if ortho:
@@ -334,7 +326,7 @@ class Interrogator():
         self._prepare_clip()
         text_tokens = self.tokenize([text]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
-            text_features = self.clip_model.get_text_features(text_tokens)
+            text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.T
         return similarity[0][0].item()
@@ -343,7 +335,7 @@ class Interrogator():
         self._prepare_clip()
         text_tokens = self.tokenize([text for text in text_array]).to(self.device)
         with torch.no_grad(), torch.cuda.amp.autocast():
-            text_features = self.clip_model.get_text_features(text_tokens)
+            text_features = self.clip_model.encode_text(text_tokens)
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.T
         return similarity.T[0].tolist()
@@ -385,7 +377,7 @@ class LabelTable():
             for chunk in tqdm(chunks, desc=f"Preprocessing {desc}" if desc else None, disable=self.config.quiet):
                 text_tokens = self.tokenize(chunk).to(self.device)
                 with torch.no_grad(), torch.cuda.amp.autocast():
-                    text_features = clip_model.get_text_features(text_tokens)
+                    text_features = clip_model.encode_text(text_tokens)
                     text_features /= text_features.norm(dim=-1, keepdim=True)
                     text_features = text_features.half().cpu().numpy()
                 for i in range(text_features.shape[0]):
