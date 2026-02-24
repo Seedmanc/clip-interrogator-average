@@ -216,7 +216,7 @@ class Interrogator():
             result /= result.norm(dim=-1, keepdim=True)
         return result if not all else torch.stack(results)
 
-    def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> str:
+    def interrogate_classic(self, images: list[Image], max_flavors: int=3, caption: Optional[str]=None) -> tuple[str, None]:
         """Classic mode creates a prompt in a standard format first describing the image,
         then listing the artist, trending, movement, and flavor text modifiers."""
         captions = [caption] if caption else self.generate_caption(images)
@@ -233,9 +233,9 @@ class Interrogator():
         else:
             prompt = f"{caption}, {medium} {artist}, {trending}, {movement}, {flaves}"
 
-        return _truncate_to_fit(prompt, self.tokenize) if self.caption_model is not None else prompt
+        return _truncate_to_fit(prompt, self.tokenize) if self.caption_model is not None else prompt, None
 
-    def interrogate_fast(self, images: list[Image], max_flavors: int=32, caption: Optional[str]=None) -> str:
+    def interrogate_fast(self, images: list[Image], max_flavors: int=32, caption: Optional[str]=None) -> tuple[str, None]:
         """Fast mode simply adds the top ranked terms after a caption. It generally results in
         better similarity between generated prompt and image than classic mode, but the prompts
         are less readable."""
@@ -245,9 +245,9 @@ class Interrogator():
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
         tops = merged.rank(image_features, max_flavors)
         result = caption + ", " + ", ".join(tops)
-        return _truncate_to_fit(result, self.tokenize) if self.caption_model is not None else result
+        return _truncate_to_fit(result, self.tokenize) if self.caption_model is not None else result, None
 
-    def interrogate_orthogonal(self, images: list[Image], max_flavors: int = 32) -> str:
+    def interrogate_orthogonal(self, images: list[Image], max_flavors: int = 32) -> tuple[str, None]:
         #doesn't work much...
         """Orthogonal mode chains together the terms least tied to the image, regardless of being positive or negative in relation to it. It can be used
         to help build an OOD prompt to test LoRA behaviour and spot overfitting on concepts it didn't see during training, while being not as radical as negative prompt."""
@@ -255,7 +255,7 @@ class Interrogator():
         flaves = self.flavors.rank(image_features, self.config.flavor_intermediate_count, ortho=True)
         #flaves += self.negative.labels
         result = self.chain(image_features, flaves, max_count=max_flavors, desc="Ortho chain", ortho=True)
-        return result
+        return result, None
 
     def interrogate_orthogonal_fast(self, images: list[Image], max_flavors: int = 32) -> tuple[str, float]:
         """Orthogonal mode chains together the terms least tied to the image, regardless of being positive or negative in relation to it. It can be used
@@ -287,7 +287,7 @@ class Interrogator():
         caps = captions.copy()
         caps.remove(caption1)
         caption2 = self.rank_top(image_feature, caps)
-        caption = caption1 + ' , ' + caption2 if caption1 != caption2 else caption1
+        caption = (caption1 + ', ' + caption2) if caption2 is not None and len(caption2)>0 and caption1 != caption2 else caption1
         if caption is not None and len(caption) > 1:
             yield caption, None, None
         merged = _merge_tables([self.artists, self.flavors, self.mediums, self.movements, self.trendings], self)
@@ -295,8 +295,8 @@ class Interrogator():
         best_prompt, best_sim = caption, self.similarity(image_feature, caption)
         best_prompt = self.chain(image_feature, flaves, best_prompt, best_sim, min_count=min_flavors, max_count=max_flavors, desc="Flavor chain")
 
-        fast_prompt = self.interrogate_fast(images, max_flavors, caption=caption)
-        classic_prompt = self.interrogate_classic(images, max_flavors, caption=caption)
+        fast_prompt = self.interrogate_fast(images, max_flavors, caption=caption)[0]
+        classic_prompt = self.interrogate_classic(images, max_flavors, caption=caption)[0]
         candidates = [caption, classic_prompt, fast_prompt, best_prompt]
         result = candidates[np.argmax(self.similarities(image_feature, candidates))]
         sim = self.similarity(image_feature, result)
@@ -307,7 +307,7 @@ class Interrogator():
             text_features /= text_features.norm(dim=-1, keepdim=True)
             similarity = text_features @ image_features.squeeze(1).T
         img = images[similarity.argmax().item()]
-        yield result, sim, img
+        yield result.replace(', ,',','), sim, img
 
     def rank_top(self, image_features: torch.Tensor, text_array: List[str], reverse: bool=False, ortho: bool=False) -> str:
         self._prepare_clip()
