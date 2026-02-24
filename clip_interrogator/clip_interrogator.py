@@ -33,12 +33,12 @@ class Config:
     # blip settings
     caption_max_length: int = 32
     caption_model_name: Optional[str] = 'blip2-2.7b' # use a key from CAPTION_MODELS or None
-    caption_offload: bool = True
+    caption_offload: bool = False
 
     # clip settings
     clip_model_name: str = 'ViT-L-14/openai'
     clip_model_path: Optional[str] = None
-    clip_offload: bool = True
+    clip_offload: bool = False
 
     # interrogator settings
     cache_path: str = 'clip-interrogator-average/cache'   # path to store cached text embeddings
