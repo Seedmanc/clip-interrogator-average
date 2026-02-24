@@ -8,3 +8,4 @@ clip_interrogator.egg-info/
 dist/
 venv/
 /.idea/
+/build/

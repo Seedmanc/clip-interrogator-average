@@ -5,7 +5,6 @@ from setuptools import setup, find_packages
 setup(
     name="clip-interrogator-average",
     version="0.6.1",
-    license='MIT',
     author='seedmanc',
     author_email='seedmanc@yahoo.com',
     url='https://github.com/seedmanc/clip-interrogator-average',
@@ -23,7 +22,6 @@ setup(
     classifiers=[
         'Intended Audience :: Developers',
         'Intended Audience :: Science/Research',
-        'License :: OSI Approved :: MIT License',
         'Topic :: Education',
         'Topic :: Scientific/Engineering',
         'Topic :: Scientific/Engineering :: Artificial Intelligence',
