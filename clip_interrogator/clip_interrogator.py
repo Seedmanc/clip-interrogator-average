@@ -38,7 +38,7 @@ class Config:
     # clip settings
     clip_model_name: str = 'ViT-L-14/openai'
     clip_model_path: Optional[str] = None
-    clip_offload: bool = False
+    clip_offload: bool = True
 
     # interrogator settings
     cache_path: str = 'clip-interrogator-average/cache'   # path to store cached text embeddings
